@@ -14,20 +14,20 @@
   "counts": {
     "people": {
       "total": 1454,
-      "exported": 524,
-      "withheld": 930,
+      "exported": 544,
+      "withheld": 910,
       "withheldReasons": {
-        "nonPublic": 873,
-        "incomplete": 24,
-        "unsafe": 33
+        "nonPublic": 848,
+        "incomplete": 28,
+        "unsafe": 34
       }
     },
     "organizations": {
       "total": 953,
-      "exported": 865,
-      "withheld": 88,
+      "exported": 845,
+      "withheld": 108,
       "withheldReasons": {
-        "nonPublic": 18,
+        "nonPublic": 38,
         "incomplete": 64,
         "unsafe": 6
       }
@@ -3130,6 +3130,61 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:earl-flormata",
+      "type": "person",
+      "slug": "earl-flormata",
+      "name": "Earl Flormata",
+      "summary": "Earl Flormata is a Vancouver-based marketing consultant known for his \"5 Building Blocks\" framework, helping startups and Fortune 100 companies with data-driven growth strategies. He co-founded Silva AI with Natalia Silva, a platform empowering small businesses to automate lead generation and scale with AI tools. He is one of the more recognized independent marketing consultants in Greater Vancouver, with over $70...",
+      "excerpt": "Earl Flormata is a Vancouver-based marketing consultant known for his \"5 Building Blocks\" framework, helping startups and Fortune 100 companies with data-driven growth strategie...",
+      "tags": [
+        "ai-business",
+        "community",
+        "lead-generation",
+        "marketing",
+        "small-business"
+      ],
+      "roles": [
+        "Co-Founder",
+        "Marketing Consultant"
+      ],
+      "locations": [
+        "Greater Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "Business Network Media",
+        "Silva AI"
+      ],
+      "profileUrl": "/bc-ai-directory/people/earl-flormata",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:ed-fraser",
+      "type": "person",
+      "slug": "ed-fraser",
+      "name": "Ed Fraser",
+      "summary": "Ed Fraser is the Managing Editor of Channel 4 News at ITN, one of the UK's leading broadcast news organizations. He is also Executive Producer of Unreported World, Channel 4's flagship international current affairs documentary series. He previously served as online editor at Channel 4 News, where he developed the program's digital presence and broke stories via social platforms.",
+      "excerpt": "Ed Fraser is the Managing Editor of Channel 4 News at ITN, one of the UK's leading broadcast news organizations. He is also Executive Producer of Unreported World, Channel 4's f...",
+      "tags": [
+        "broadcast",
+        "editorial",
+        "journalism",
+        "media"
+      ],
+      "roles": [
+        "Executive Producer",
+        "Managing Editor, Channel 4 News"
+      ],
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "organizations": [
+        "Channel 4 News",
+        "ITN"
+      ],
+      "profileUrl": "/bc-ai-directory/people/ed-fraser",
+      "lastUpdated": "2026-05-13"
+    },
+    {
       "id": "person:ed-kennedy",
       "type": "person",
       "slug": "ed-kennedy",
@@ -3172,6 +3227,71 @@
       "lastUpdated": "2025-12-19"
     },
     {
+      "id": "person:edan-wolk",
+      "type": "person",
+      "slug": "edan-wolk",
+      "name": "Edan Wolk",
+      "summary": "Edan Wolk is co-founder and CEO of VEGAIN Nutrition Inc., a plant-based sports nutrition brand he co-founded with Melissa L'Heureux-Haché in 2023. VEGAIN produces gluten-, dairy-, and soy-free sports supplements from Canadian-sourced ingredients, winning GOLD for Product of the Year at the BC Food & Beverage Awards. The company scaled into national retail, became the official supplement partner of the Vancouver Wa...",
+      "excerpt": "Edan Wolk is co-founder and CEO of VEGAIN Nutrition Inc., a plant-based sports nutrition brand he co-founded with Melissa L'Heureux-Haché in 2023. VEGAIN produces gluten-, dairy...",
+      "tags": [
+        "cpg",
+        "entrepreneurship",
+        "food-tech",
+        "plant-based",
+        "sports-nutrition"
+      ],
+      "roles": [
+        "Co-Founder and CEO"
+      ],
+      "locations": [
+        "Nanaimo, British Columbia",
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "No Bull Brands Inc.",
+        "VEGAIN Nutrition Inc."
+      ],
+      "profileUrl": "/bc-ai-directory/people/edan-wolk",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:eddie-alterman",
+      "type": "person",
+      "slug": "eddie-alterman",
+      "name": "Eddie Alterman",
+      "summary": "Eddie Alterman is Chief Brand Officer of Hearst Autos, responsible for editorial and business strategy across Car and Driver, Road & Track, Bring a Trailer, and Autoweek. He previously served as Editor-in-Chief of Car and Driver for a decade, having built his career at Automobile Magazine, Men's Journal, GQ, and the New York Times. He also hosts the \"Car Show!\" podcast on Pushkin Industries.",
+      "excerpt": "Eddie Alterman is Chief Brand Officer of Hearst Autos, responsible for editorial and business strategy across Car and Driver, Road & Track, Bring a Trailer, and Autoweek. He pre...",
+      "tags": [
+        "automotive-media",
+        "brand-strategy",
+        "journalism",
+        "publishing"
+      ],
+      "roles": [
+        "Chief Brand Officer",
+        "Former Editor-in-Chief"
+      ],
+      "locations": [
+        "Franklin, Michigan, United States"
+      ],
+      "organizations": [
+        "Car and Driver",
+        "Hearst Autos"
+      ],
+      "profileUrl": "/bc-ai-directory/people/eddie-alterman",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:eddie-tabakman",
+      "type": "person",
+      "slug": "eddie-tabakman",
+      "name": "Eddie Tabakman",
+      "summary": "Eddie Tabakman is a BC + AI community member who joined the announcements and events channels in August 2025. Limited public information is available.",
+      "excerpt": "Eddie Tabakman is a BC + AI community member who joined the announcements and events channels in August 2025. Limited public information is available.",
+      "profileUrl": "/bc-ai-directory/people/eddie-tabakman",
+      "lastUpdated": "2026-05-13"
+    },
+    {
       "id": "person:edemilson-morais",
       "type": "person",
       "slug": "edemilson-morais",
@@ -3180,16 +3300,21 @@
       "excerpt": "Edemilson Morais Edemilson C. Morais, also known as Ed Morais, is a Brazilian-Canadian storyteller with a background in communications and over 15 years' experience creating and...",
       "tags": [
         "bc-ai",
+        "brazil",
+        "event-production",
+        "film",
         "founding-member"
       ],
       "roles": [
-        "founding-member"
+        "Event Producer",
+        "Filmmaker",
+        "Founding Member"
       ],
       "locations": [
-        "Vancover, British Columbia"
+        "Vancouver, British Columbia"
       ],
       "profileUrl": "/bc-ai-directory/people/edemilson-morais",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:eduardo",
@@ -3206,6 +3331,39 @@
       ],
       "profileUrl": "/bc-ai-directory/people/eduardo",
       "lastUpdated": "2026-02-09"
+    },
+    {
+      "id": "person:eesmyal",
+      "type": "person",
+      "slug": "eesmyal",
+      "name": "Eesmyal Santos-Brault",
+      "summary": "Eesmyal Santos-Brault is a Vancouver-based social entrepreneur and investor who has co-founded over 10 ventures spanning green building, coworking, civic tech, and health research. He is best known locally as co-founder of The HiVE Vancouver (social impact coworking space) and Recollective Consulting (B-Corp green building firm behind some of Canada's greenest buildings). His current focus is Quantified Citizen, a...",
+      "excerpt": "Eesmyal Santos-Brault is a Vancouver-based social entrepreneur and investor who has co-founded over 10 ventures spanning green building, coworking, civic tech, and health resear...",
+      "tags": [
+        "civic-tech",
+        "community",
+        "green-building",
+        "health-tech",
+        "research-tech",
+        "social-entrepreneurship",
+        "sustainability"
+      ],
+      "roles": [
+        "Co-Founder",
+        "Social Entrepreneur",
+        "Technologist"
+      ],
+      "locations": [
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "OPEN Technologies",
+        "Quantified Citizen",
+        "Recollective Consulting",
+        "The HiVE Vancouver"
+      ],
+      "profileUrl": "/bc-ai-directory/people/eesmyal",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:eileen-mcmanamon",
@@ -3230,39 +3388,115 @@
         "Unknown"
       ],
       "profileUrl": "/bc-ai-directory/people/eileen-mcmanamon",
-      "lastUpdated": "2026-02-20"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:el-wong",
       "type": "person",
       "slug": "el-wong",
       "name": "El Wong",
-      "summary": "El Wong is a community member who attended Vancouver AI Community events.",
-      "excerpt": "El Wong is a community member who attended Vancouver AI Community events.",
+      "summary": "El Wong is a Vancouver-based AI educator, trainer, and business coach who runs Superpowers With AI — workshops and programs that make AI accessible to non-technical people and everyday professionals. With 25 years of corporate experience spanning leadership, inclusion, and triple-bottom-line strategy, El specializes in translating AI trends into practical skills without requiring coding. Offerings include app-buil...",
+      "excerpt": "El Wong is a Vancouver-based AI educator, trainer, and business coach who runs Superpowers With AI — workshops and programs that make AI accessible to non-technical people and e...",
+      "tags": [
+        "ai-education",
+        "coaching",
+        "community",
+        "inclusion",
+        "leadership",
+        "workshops"
+      ],
       "roles": [
-        "Community Member"
+        "AI Educator and Trainer",
+        "Business Coach",
+        "Leadership and Inclusion Consultant"
       ],
       "locations": [
-        "Vancouver, BC"
+        "Greater Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "Superpowers With AI"
       ],
       "profileUrl": "/bc-ai-directory/people/el-wong",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:elaine-ann",
+      "type": "person",
+      "slug": "elaine-ann",
+      "name": "Elaine Ann",
+      "summary": "Elaine Ann is a BC + AI community member who joined the announcements, events, and jobs channels in August 2025. Limited public information is available.",
+      "excerpt": "Elaine Ann is a BC + AI community member who joined the announcements, events, and jobs channels in August 2025. Limited public information is available.",
+      "profileUrl": "/bc-ai-directory/people/elaine-ann",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:elayne-gail-zalis",
+      "type": "person",
+      "slug": "elayne-gail-zalis",
+      "name": "Elayne Gail Zalis",
+      "summary": "Likely the same person as Elayne Zalis (see people/elayne-zalis/profile.md). No additional contact information available in this record. Review for merge.",
+      "excerpt": "Likely the same person as Elayne Zalis (see people/elayne-zalis/profile.md). No additional contact information available in this record. Review for merge.",
+      "profileUrl": "/bc-ai-directory/people/elayne-gail-zalis",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:elayne-zalis",
+      "type": "person",
+      "slug": "elayne-zalis",
+      "name": "Elayne Zalis",
+      "summary": "Elayne Zalis, PhD, is a communications strategist and writer based in Los Angeles, serving as Principal Communications Strategist in Development at the University of California, Irvine. She specializes in crafting principal and transformational gift proposals for major donors at research universities and medical centers, having worked at Caltech and Cedars-Sinai Medical Center. She also explores personal and cultu...",
+      "excerpt": "Elayne Zalis, PhD, is a communications strategist and writer based in Los Angeles, serving as Principal Communications Strategist in Development at the University of California,...",
+      "tags": [
+        "communications",
+        "fundraising",
+        "higher-education",
+        "writing"
+      ],
+      "roles": [
+        "Principal Communications Strategist",
+        "Writer"
+      ],
+      "locations": [
+        "Los Angeles, California, United States"
+      ],
+      "organizations": [
+        "University of California, Irvine"
+      ],
+      "profileUrl": "/bc-ai-directory/people/elayne-zalis",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:elias-molato",
       "type": "person",
       "slug": "elias-molato",
-      "name": "Elias Molato",
-      "summary": "Elias Molato is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Elias Molato is a community member who attended Vancouver AI Community events.",
+      "name": "Elias Crespo Molato",
+      "summary": "Elias Crespo Molato is a Vancouver-based creative Webflow designer and developer specializing in high-end websites for tech companies, combining technical expertise with artistic flair. He studied visual arts at Emily Carr University of Art and Design and has background in software engineering and music production. His work emphasizes 3D graphics, GSAP animations, and performant Webflow builds.",
+      "excerpt": "Elias Crespo Molato is a Vancouver-based creative Webflow designer and developer specializing in high-end websites for tech companies, combining technical expertise with artisti...",
+      "tags": [
+        "creative-tech",
+        "design",
+        "front-end",
+        "web-design",
+        "webflow"
+      ],
       "roles": [
-        "Community Member"
+        "Creative Webflow Designer and Developer"
       ],
       "locations": [
-        "Vancouver, BC"
+        "Vancouver, British Columbia"
       ],
       "profileUrl": "/bc-ai-directory/people/elias-molato",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:elif",
+      "type": "person",
+      "slug": "elif",
+      "name": "Elif",
+      "summary": "Elif is a BC + AI community member who appeared in the announcements channel in August 2025. Single first name only — limited public information available.",
+      "excerpt": "Elif is a BC + AI community member who appeared in the announcements channel in August 2025. Single first name only — limited public information available.",
+      "profileUrl": "/bc-ai-directory/people/elif",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:eliza-noa",
@@ -3281,20 +3515,24 @@
       "lastUpdated": "2026-02-09"
     },
     {
-      "id": "person:elizabeth-vander-zaag",
+      "id": "person:ella-xie",
       "type": "person",
-      "slug": "elizabeth-vander-zaag",
-      "name": "Elizabeth Vander Zaag",
-      "summary": "Elizabeth Vander Zaag is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Elizabeth Vander Zaag is a community member who attended Vancouver AI Community events.",
-      "roles": [
-        "Community Member"
-      ],
-      "locations": [
-        "Vancouver, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/people/elizabeth-vander-zaag",
-      "lastUpdated": "2025-11-30"
+      "slug": "ella-xie",
+      "name": "Ella Xie",
+      "summary": "Ella Xie is a BC + AI community member who joined the announcements, events, and jobs channels in October 2025. No additional public information confirmed without risk of misidentification.",
+      "excerpt": "Ella Xie is a BC + AI community member who joined the announcements, events, and jobs channels in October 2025. No additional public information confirmed without risk of miside...",
+      "profileUrl": "/bc-ai-directory/people/ella-xie",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:elsa",
+      "type": "person",
+      "slug": "elsa",
+      "name": "Elsa",
+      "summary": "Elsa is a BC + AI community member who appeared in announcements, jobs, and mindai channels in September 2025. Single first name only — not searchable without additional identifying information.",
+      "excerpt": "Elsa is a BC + AI community member who appeared in announcements, jobs, and mindai channels in September 2025. Single first name only — not searchable without additional identif...",
+      "profileUrl": "/bc-ai-directory/people/elsa",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:emily-miller-palmquist",
@@ -3314,33 +3552,66 @@
         "Lululemon"
       ],
       "profileUrl": "/bc-ai-directory/people/emily-miller-palmquist",
-      "lastUpdated": "2026-01-30"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:emin-ormeci",
       "type": "person",
       "slug": "emin-ormeci",
       "name": "Emin Ormeci",
-      "summary": "Emin Ormeci (also known as Armin) is a data strategist and freelance consultant who has been in Canada for slightly over a year. He has a background in product, data, and management from Turkey, with expertise in vehicle routing algorithms (traveler salesman problem). For the past two years, he has been freelancing on data strategy and workflow automations for American and Canadian startups. Currently deeply inter...",
-      "excerpt": "Emin Ormeci (also known as Armin) is a data strategist and freelance consultant who has been in Canada for slightly over a year. He has a background in product, data, and manage...",
+      "summary": "Emin Ormeci (also known as Armin) is a Vancouver-based data strategist and consultant with a background in product management and data science from Turkey, including work at Getir (global on-demand delivery, $12B valuation) where he helped the company expand from Istanbul to nine countries. He relocated to Canada about a year ago and has been freelancing on data strategy and workflow automations for American and C...",
+      "excerpt": "Emin Ormeci (also known as Armin) is a Vancouver-based data strategist and consultant with a background in product management and data science from Turkey, including work at Get...",
+      "tags": [
+        "agentic-ai",
+        "consulting",
+        "data-strategy",
+        "product-management",
+        "workflow-automation"
+      ],
+      "roles": [
+        "Data Strategist",
+        "Freelance Consultant",
+        "Transformation Consultant"
+      ],
+      "locations": [
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "KRV Logistics"
+      ],
       "profileUrl": "/bc-ai-directory/people/emin-ormeci",
-      "lastUpdated": "2026-02-09"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:emre-akkas",
       "type": "person",
       "slug": "emre-akkas",
       "name": "Emre Akkas",
-      "summary": "Emre Akkas is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Emre Akkas is a community member who attended Vancouver AI Community events.",
+      "summary": "Emre Akkas is a Vancouver community member who attended Vancouver AI Community events in August 2025. He left constructive feedback about the community's mission clarity.",
+      "excerpt": "Emre Akkas is a Vancouver community member who attended Vancouver AI Community events in August 2025. He left constructive feedback about the community's mission clarity.",
       "roles": [
         "Community Member"
       ],
       "locations": [
-        "Vancouver, BC"
+        "Vancouver, British Columbia"
       ],
       "profileUrl": "/bc-ai-directory/people/emre-akkas",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:enes-malik-yildiz",
+      "type": "person",
+      "slug": "enes-malik-yildiz",
+      "name": "Enes Malik Yıldız",
+      "summary": "Enes Malik Yıldız is an active BC + AI community member with 31 messages across six channels including the Film Club and Mind AI channels, suggesting interests in AI, film, and consciousness. Active from May 2025 through November 2025. A LinkedIn profile matching this name exists in Istanbul, Turkey — a Turkish connection is plausible given the name, but cannot be confirmed as the same person without additional id...",
+      "excerpt": "Enes Malik Yıldız is an active BC + AI community member with 31 messages across six channels including the Film Club and Mind AI channels, suggesting interests in AI, film, and...",
+      "tags": [
+        "ai-philosophy",
+        "community",
+        "film"
+      ],
+      "profileUrl": "/bc-ai-directory/people/enes-malik-yildiz",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:enoch-venture-capital",
@@ -3366,7 +3637,42 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/enoch-venture-capital",
-      "lastUpdated": "2025-11-22"
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:enoch-chow",
+      "type": "person",
+      "slug": "enoch-chow",
+      "name": "Enoch Chow",
+      "summary": "Enoch Chow is a Vancouver-based AI product leader and investor associated with FOLD36 Capital, with experience building inclusive cultures in high-growth organizations. He is a BCIT alumnus who participated in the Braintrust channel in November 2025 and attended Vancouver AI Meetup 25.",
+      "excerpt": "Enoch Chow is a Vancouver-based AI product leader and investor associated with FOLD36 Capital, with experience building inclusive cultures in high-growth organizations. He is a...",
+      "tags": [
+        "ai-products",
+        "community",
+        "venture-capital"
+      ],
+      "roles": [
+        "AI Product Leader",
+        "Investor"
+      ],
+      "locations": [
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "FOLD36 Capital"
+      ],
+      "profileUrl": "/bc-ai-directory/people/enoch-chow",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:eric",
+      "type": "person",
+      "slug": "eric",
+      "name": "Eric",
+      "summary": "Eric is a BC + AI community member who appeared in announcements, events, and mindai channels in July–August 2025. Single first name only — not searchable without additional identifying information.",
+      "excerpt": "Eric is a BC + AI community member who appeared in announcements, events, and mindai channels in July–August 2025. Single first name only — not searchable without additional ide...",
+      "profileUrl": "/bc-ai-directory/people/eric",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:eric-jackson",
@@ -3389,7 +3695,83 @@
         "Cellula Robotics"
       ],
       "profileUrl": "/bc-ai-directory/people/eric-jackson",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:eric-lee",
+      "type": "person",
+      "slug": "eric-lee",
+      "name": "Eric Lee",
+      "summary": "Eric Lee is an early BC + AI Braintrust community member, active in May–June 2024 with 17 messages. Limited public information available — name is too common to search without additional identifiers.",
+      "excerpt": "Eric Lee is an early BC + AI Braintrust community member, active in May–June 2024 with 17 messages. Limited public information available — name is too common to search without a...",
+      "tags": [
+        "community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/eric-lee",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:eric-li",
+      "type": "person",
+      "slug": "eric-li",
+      "name": "Eric Li",
+      "summary": "Eric Li is a BC + AI community member who appeared in the announcements channel in August 2025. Limited public information available.",
+      "excerpt": "Eric Li is a BC + AI community member who appeared in the announcements channel in August 2025. Limited public information available.",
+      "profileUrl": "/bc-ai-directory/people/eric-li",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:eric-ramirez",
+      "type": "person",
+      "slug": "eric-ramirez",
+      "name": "Eric Ramirez",
+      "summary": "Eric Ramirez is associated with Rolls Right Trucking Industries, a Western Canada 3PL logistics provider established in 1976 with 200,000+ sq ft of warehouse space across BC and Alberta. His specific role at Rolls Right is not publicly documented. Limited public information available.",
+      "excerpt": "Eric Ramirez is associated with Rolls Right Trucking Industries, a Western Canada 3PL logistics provider established in 1976 with 200,000+ sq ft of warehouse space across BC and...",
+      "tags": [
+        "logistics",
+        "transportation",
+        "warehousing"
+      ],
+      "locations": [
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "Rolls Right Trucking Industries"
+      ],
+      "profileUrl": "/bc-ai-directory/people/eric-ramirez",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:erica-hargreave",
+      "type": "person",
+      "slug": "erica-hargreave",
+      "name": "Erica Hargreave",
+      "summary": "Erica Hargreave is a BC-based transmedia storyteller, filmmaker, and educator who founded Ahimsa Media (B-Corp certified cross-platform media company) and co-founded Roamancing, a travel and culture magazine. She co-created the documentary series \"Naturally Ours: Rediscovering Canada's Parks\" and has won international awards for writing, podcasting, and filmmaking. She is also an instructor and course developer at...",
+      "excerpt": "Erica Hargreave is a BC-based transmedia storyteller, filmmaker, and educator who founded Ahimsa Media (B-Corp certified cross-platform media company) and co-founded Roamancing,...",
+      "tags": [
+        "community",
+        "digital-media",
+        "education",
+        "film",
+        "storytelling",
+        "transmedia"
+      ],
+      "roles": [
+        "Founder",
+        "Instructor",
+        "Transmedia Storyteller"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "organizations": [
+        "Ahimsa Media",
+        "BCIT",
+        "Roamancing",
+        "StoryToGo"
+      ],
+      "profileUrl": "/bc-ai-directory/people/erica-hargreave",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:erica-janzen",
@@ -3455,6 +3837,32 @@
       ],
       "profileUrl": "/bc-ai-directory/people/erin",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:esme-wren",
+      "type": "person",
+      "slug": "esme-wren",
+      "name": "Esme Wren",
+      "summary": "Esme Wren is the Editor of Channel 4 News at ITN, appointed in January 2022 after leading BBC Newsnight for three years. At Newsnight she oversaw the landmark Prince Andrew interview (multiple industry awards) and recruited an all-women presenting team. Before the BBC she spent 12 years at Sky News, rising to Head of Politics, Business and Specialist Journalism. Channel 4 News won News Provider of the Year at the...",
+      "excerpt": "Esme Wren is the Editor of Channel 4 News at ITN, appointed in January 2022 after leading BBC Newsnight for three years. At Newsnight she oversaw the landmark Prince Andrew inte...",
+      "tags": [
+        "broadcast",
+        "editorial-leadership",
+        "journalism",
+        "media"
+      ],
+      "roles": [
+        "Editor, Channel 4 News"
+      ],
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "organizations": [
+        "Channel 4 News",
+        "ITN"
+      ],
+      "profileUrl": "/bc-ai-directory/people/esme-wren",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:evita-kalnina",
@@ -8914,6 +9322,16 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:enders-shawn",
+      "type": "person",
+      "slug": "enders-shawn",
+      "name": "Shawn Enders",
+      "summary": "Shawn Enders is a BC + AI community member who appeared in the Braintrust channel in November 2024. Limited public information available.",
+      "excerpt": "Shawn Enders is a BC + AI community member who appeared in the Braintrust channel in November 2024. Limited public information available.",
+      "profileUrl": "/bc-ai-directory/people/enders-shawn",
+      "lastUpdated": "2026-05-13"
+    },
+    {
       "id": "person:shehan-chathuranga",
       "type": "person",
       "slug": "shehan-chathuranga",
@@ -11345,16 +11763,6 @@
       ]
     },
     {
-      "id": "organization:alphatecs",
-      "type": "organization",
-      "slug": "alphatecs",
-      "name": "AlphaTecs",
-      "summary": "AlphaTecs is an engineering firm with Western Canada operations that has participated in BC AI events. However, no AI-specific product or service has been confirmed in public sources — the company's publicly documented work is general engineering and technology integration without clear AI product or ML-driven service.",
-      "excerpt": "AlphaTecs is an engineering firm with Western Canada operations that has participated in BC AI events. However, no AI-specific product or service has been confirmed in public so...",
-      "profileUrl": "/bc-ai-directory/organizations/alphatecs",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:alset-capital-tsx-gpus",
       "type": "organization",
       "slug": "alset-capital-tsx-gpus",
@@ -11524,16 +11932,6 @@
       "websiteUrls": [
         "https://amiableai.ca"
       ]
-    },
-    {
-      "id": "organization:amplifiers-ai",
-      "type": "organization",
-      "slug": "amplifiers-ai",
-      "name": "Amplifiers AI",
-      "summary": "No BC company matching the slug 'amplifiers-ai' was found in public sources. The closest named entity, Amplifier AI (amplifier.ai), is a Silicon Valley-based medical VR surgical planning platform with no BC organizational presence.",
-      "excerpt": "No BC company matching the slug 'amplifiers-ai' was found in public sources. The closest named entity, Amplifier AI (amplifier.ai), is a Silicon Valley-based medical VR surgical...",
-      "profileUrl": "/bc-ai-directory/organizations/amplifiers-ai",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:analytic-labs",
@@ -14724,22 +15122,6 @@
       ]
     },
     {
-      "id": "organization:creativemornings-vancouver",
-      "type": "organization",
-      "slug": "creativemornings-vancouver",
-      "name": "CreativeMornings/Vancouver",
-      "summary": "Rejected: no AI relevance in public sources. CreativeMornings/Vancouver is the first Canadian chapter of the global CreativeMornings breakfast lecture series, organized by Mark Busse. It is a free monthly creative community event series with no AI-specific focus or programming.",
-      "excerpt": "Rejected: no AI relevance in public sources. CreativeMornings/Vancouver is the first Canadian chapter of the global CreativeMornings breakfast lecture series, organized by Mark...",
-      "locations": [
-        "Vancouver, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/creativemornings-vancouver",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://creativemornings.com/cities/van"
-      ]
-    },
-    {
       "id": "organization:cropvue-technologies",
       "type": "organization",
       "slug": "cropvue-technologies",
@@ -14806,16 +15188,6 @@
       "websiteUrls": [
         "https://crowdskysolutions.ca/"
       ]
-    },
-    {
-      "id": "organization:crowsnest-ai-advising",
-      "type": "organization",
-      "slug": "crowsnest-ai-advising",
-      "name": "Crowsnest AI Advising",
-      "summary": "Rejected: no BC organizational footprint found. No BC-based organization named 'Crowsnest AI Advising' appears in any public source. CrowsNestAI.net is a UK healthcare sales intelligence tool; Crowsnest Consulting is a US-based (Colorado) strategic advisory firm. Neither is a BC AI organization.",
-      "excerpt": "Rejected: no BC organizational footprint found. No BC-based organization named 'Crowsnest AI Advising' appears in any public source. CrowsNestAI.net is a UK healthcare sales int...",
-      "profileUrl": "/bc-ai-directory/organizations/crowsnest-ai-advising",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:cto-ai",
@@ -15099,30 +15471,6 @@
       "lastUpdated": "2026-05-10",
       "websiteUrls": [
         "https://dbctechnology.com"
-      ]
-    },
-    {
-      "id": "organization:dcs-technologies-it-consulting-and-outsourcing",
-      "type": "organization",
-      "slug": "dcs-technologies-it-consulting-and-outsourcing",
-      "name": "DCS Technologies (IT Consulting and Outsourcing)",
-      "summary": "DCS Technologies Inc. is a Surrey, BC IT services company with over 18 years of experience serving more than 8,500 businesses across Canada. The company provides point-of-sale systems, inventory management, website design, digital signage, and surveillance solutions for retail, restaurant, pharmacy, and hospitality sectors. No AI-specific products or services were identified in public sources; the company's offeri...",
-      "excerpt": "DCS Technologies Inc. is a Surrey, BC IT services company with over 18 years of experience serving more than 8,500 businesses across Canada. The company provides point-of-sale s...",
-      "tags": [
-        "IT-consulting",
-        "point-of-sale",
-        "POS"
-      ],
-      "categories": [
-        "IT Services"
-      ],
-      "locations": [
-        "Surrey, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/dcs-technologies-it-consulting-and-outsourcing",
-      "lastUpdated": "2026-05-10",
-      "websiteUrls": [
-        "https://dcstech.ca"
       ]
     },
     {
@@ -17454,16 +17802,6 @@
       ]
     },
     {
-      "id": "organization:generative-ai-solutions",
-      "type": "organization",
-      "slug": "generative-ai-solutions",
-      "name": "Generative AI Solutions",
-      "summary": "Generative AI Solutions appears to be a micro-cap shell or very early-stage entity with no evidence of meaningful product traction or a confirmed BC organizational footprint.",
-      "excerpt": "Generative AI Solutions appears to be a micro-cap shell or very early-stage entity with no evidence of meaningful product traction or a confirmed BC organizational footprint.",
-      "profileUrl": "/bc-ai-directory/organizations/generative-ai-solutions",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:genesis-ai-corp",
       "type": "organization",
       "slug": "genesis-ai-corp",
@@ -18270,16 +18608,6 @@
       ]
     },
     {
-      "id": "organization:houle-electric",
-      "type": "organization",
-      "slug": "houle-electric",
-      "name": "Houle Electric",
-      "summary": "Houle Electric is BC's leading electrical contractor (est. 1944), providing electrical services, building automation, and systems integration. While Houle offers intelligent building controls, its core business is electrical contracting — there is no AI-specific product or AI-first mandate documented in public sources.",
-      "excerpt": "Houle Electric is BC's leading electrical contractor (est. 1944), providing electrical services, building automation, and systems integration. While Houle offers intelligent bui...",
-      "profileUrl": "/bc-ai-directory/organizations/houle-electric",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:hufnagel-consulting",
       "type": "organization",
       "slug": "hufnagel-consulting",
@@ -18306,16 +18634,6 @@
       "websiteUrls": [
         "https://www.hufnagelconsulting.ca"
       ]
-    },
-    {
-      "id": "organization:hugo-inc",
-      "type": "organization",
-      "slug": "hugo-inc",
-      "name": "Hugo Inc",
-      "summary": "Hugo Inc (hugoinc.com) is a leading Africa-based business process outsourcing company with 4,200-plus full-time employees across Kenya, Nigeria, Senegal, Cape Verde, and South Africa, providing customer support, data annotation, AI training data, and trust and safety services. The company has no British Columbia office or Canadian presence in public sources.",
-      "excerpt": "Hugo Inc (hugoinc.com) is a leading Africa-based business process outsourcing company with 4,200-plus full-time employees across Kenya, Nigeria, Senegal, Cape Verde, and South A...",
-      "profileUrl": "/bc-ai-directory/organizations/hugo-inc",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:hummingbird-drones-nova",
@@ -19227,16 +19545,6 @@
       "websiteUrls": [
         "https://www.insightglobal.com"
       ]
-    },
-    {
-      "id": "organization:inspect-canda",
-      "type": "organization",
-      "slug": "inspect-canda",
-      "name": "Inspect Canda",
-      "summary": "The queue row name 'Inspect Canda' appears to be a misspelling of 'Inspect Canada'. No BC company named 'Inspect Canada' or 'Inspect Canda' with AI or technology relevance was found in public sources. This is likely a corrupted data entry.",
-      "excerpt": "The queue row name 'Inspect Canda' appears to be a misspelling of 'Inspect Canada'. No BC company named 'Inspect Canada' or 'Inspect Canda' with AI or technology relevance was f...",
-      "profileUrl": "/bc-ai-directory/organizations/inspect-canda",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:insporos",
@@ -21242,16 +21550,6 @@
       "lastUpdated": "2026-05-11"
     },
     {
-      "id": "organization:migreat",
-      "type": "organization",
-      "slug": "migreat",
-      "name": "Migreat",
-      "summary": "Migreat is an immigration information app serving users in the UK, Germany, and Italy, providing guidance on immigration, employment, and life in those countries. No British Columbia operations, office, or Canadian immigration focus was found.",
-      "excerpt": "Migreat is an immigration information app serving users in the UK, Germany, and Italy, providing guidance on immigration, employment, and life in those countries. No British Col...",
-      "profileUrl": "/bc-ai-directory/organizations/migreat",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:mindelia",
       "type": "organization",
       "slug": "mindelia",
@@ -21592,16 +21890,6 @@
       "websiteUrls": [
         "https://www.moneylab.ai/"
       ]
-    },
-    {
-      "id": "organization:monique-elise-collections",
-      "type": "organization",
-      "slug": "monique-elise-collections",
-      "name": "Monique Elise Collections",
-      "summary": "Monique Elise appears to be a fashion/lifestyle brand with an e-commerce shop. No British Columbia company, AI technology relevance, or organizational footprint was found in public sources under this name.",
-      "excerpt": "Monique Elise appears to be a fashion/lifestyle brand with an e-commerce shop. No British Columbia company, AI technology relevance, or organizational footprint was found in pub...",
-      "profileUrl": "/bc-ai-directory/organizations/monique-elise-collections",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:moonshot-research",
@@ -22054,26 +22342,6 @@
       "lastUpdated": "2026-05-11"
     },
     {
-      "id": "organization:nexus-connect",
-      "type": "organization",
-      "slug": "nexus-connect",
-      "name": "Nexus Connect",
-      "summary": "No BC-based organization named Nexus Connect could be identified through public web searches, LinkedIn, or Crunchbase. Multiple 'Nexus' branded entities exist globally but none match a BC AI company under this name.",
-      "excerpt": "No BC-based organization named Nexus Connect could be identified through public web searches, LinkedIn, or Crunchbase. Multiple 'Nexus' branded entities exist globally but none...",
-      "profileUrl": "/bc-ai-directory/organizations/nexus-connect",
-      "lastUpdated": "2026-05-11"
-    },
-    {
-      "id": "organization:niche-market-consulting",
-      "type": "organization",
-      "slug": "niche-market-consulting",
-      "name": "Niche Market Consulting",
-      "summary": "No BC-based organization named Niche Market Consulting could be identified through public web searches, LinkedIn, or Crunchbase. The name is a generic descriptor rather than a distinct company identity, and no specific entity could be verified.",
-      "excerpt": "No BC-based organization named Niche Market Consulting could be identified through public web searches, LinkedIn, or Crunchbase. The name is a generic descriptor rather than a d...",
-      "profileUrl": "/bc-ai-directory/organizations/niche-market-consulting",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:nike-innovation-lab-vancouver",
       "type": "organization",
       "slug": "nike-innovation-lab-vancouver",
@@ -22397,16 +22665,6 @@
       ]
     },
     {
-      "id": "organization:one-ocean-exchange",
-      "type": "organization",
-      "slug": "one-ocean-exchange",
-      "name": "One Ocean Exchange",
-      "summary": "No BC-based organization named One Ocean Exchange could be identified through public web searches, LinkedIn, or Crunchbase. Search results for maritime and ocean-related technology returned unrelated entities (OneOcean maritime software from UK, OceanExchange 501c3 from US) with no BC connection.",
-      "excerpt": "No BC-based organization named One Ocean Exchange could be identified through public web searches, LinkedIn, or Crunchbase. Search results for maritime and ocean-related technol...",
-      "profileUrl": "/bc-ai-directory/organizations/one-ocean-exchange",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:onecup-ai",
       "type": "organization",
       "slug": "onecup-ai",
@@ -22506,16 +22764,6 @@
       "websiteUrls": [
         "https://betakit.com/opal-announces-1-5-million-to-build-the-operating-system-for-ad-agencies/"
       ]
-    },
-    {
-      "id": "organization:open-reality",
-      "type": "organization",
-      "slug": "open-reality",
-      "name": "Open Reality",
-      "summary": "No BC-based organization named Open Reality could be identified through public web searches, LinkedIn, or Crunchbase. Vancouver has a large AR/VR ecosystem but no company under this exact name appears in any public directory or registry.",
-      "excerpt": "No BC-based organization named Open Reality could be identified through public web searches, LinkedIn, or Crunchbase. Vancouver has a large AR/VR ecosystem but no company under...",
-      "profileUrl": "/bc-ai-directory/organizations/open-reality",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:open-roboethics-institute",
@@ -23935,16 +24183,6 @@
       "websiteUrls": [
         "https://properate.com/"
       ]
-    },
-    {
-      "id": "organization:proqure",
-      "type": "organization",
-      "slug": "proqure",
-      "name": "Proqure",
-      "summary": "Two distinct companies use the 'ProQure' name: a Dutch procurement consulting firm (ProQure BV, Amsterdam) and ProQure.io, an IoT/phygital product company. Neither has a BC presence, and no BC-based company named Proqure was found in public sources.",
-      "excerpt": "Two distinct companies use the 'ProQure' name: a Dutch procurement consulting firm (ProQure BV, Amsterdam) and ProQure.io, an IoT/phygital product company. Neither has a BC pres...",
-      "profileUrl": "/bc-ai-directory/organizations/proqure",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:proto",
@@ -29314,16 +29552,6 @@
       ]
     },
     {
-      "id": "organization:viscira",
-      "type": "organization",
-      "slug": "viscira",
-      "name": "Viscira",
-      "summary": "Viscira is a San Francisco-headquartered digital marketing firm serving the pharmaceutical and life sciences industry, acquired by WPP's Sudler and Hennessey in 2016 and now operating under the VML Health brand. No British Columbia office or Canadian presence was identified in any public source.",
-      "excerpt": "Viscira is a San Francisco-headquartered digital marketing firm serving the pharmaceutical and life sciences industry, acquired by WPP's Sudler and Hennessey in 2016 and now ope...",
-      "profileUrl": "/bc-ai-directory/organizations/viscira",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:visier",
       "type": "organization",
       "slug": "visier",
@@ -29417,16 +29645,6 @@
       "websiteUrls": [
         "https://visualping.io/"
       ]
-    },
-    {
-      "id": "organization:vital-images",
-      "type": "organization",
-      "slug": "vital-images",
-      "name": "Vital Images",
-      "summary": "Vital Images is a Minnetonka, Minnesota-based enterprise medical imaging and informatics software company acquired by Canon Medical Systems, providing 2D/3D/4D visualization and analysis tools for CT and MR imaging data. No British Columbia office or Canadian presence was identified.",
-      "excerpt": "Vital Images is a Minnetonka, Minnesota-based enterprise medical imaging and informatics software company acquired by Canon Medical Systems, providing 2D/3D/4D visualization and...",
-      "profileUrl": "/bc-ai-directory/organizations/vital-images",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:vital-mechanics",
@@ -30200,16 +30418,6 @@
       "lastUpdated": "2026-05-11"
     },
     {
-      "id": "organization:zeitgeist",
-      "type": "organization",
-      "slug": "zeitgeist",
-      "name": "Zeitgeist",
-      "summary": "No British Columbia AI or technology company operating simply as 'Zeitgeist' was identified in public sources. Zeitgeist Labs (zeitgeistlabs.ai) is a European qualitative AI research firm recognized by Germany's Federal Ministry for Economic Affairs; ZEITGEIST Labs (zeitgeistlabs.co) is a Web3 marketing agency. Neither has a confirmed BC connection.",
-      "excerpt": "No British Columbia AI or technology company operating simply as 'Zeitgeist' was identified in public sources. Zeitgeist Labs (zeitgeistlabs.ai) is a European qualitative AI res...",
-      "profileUrl": "/bc-ai-directory/organizations/zeitgeist",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:zen-ai-studio",
       "type": "organization",
       "slug": "zen-ai-studio",
@@ -30293,16 +30501,6 @@
       "websiteUrls": [
         "https://www.zeuron.io/"
       ]
-    },
-    {
-      "id": "organization:zfort-group",
-      "type": "organization",
-      "slug": "zfort-group",
-      "name": "Zfort Group",
-      "summary": "Zfort Group is a software development company founded in 2000 and headquartered in Kharkiv, Ukraine, with representative offices in the USA, UK, Canada, Australia, and Israel. The company's Canadian city pages (including for BC cities) are SEO landing pages with no evidence of genuine BC operations or personnel. Rejected as lacking a real BC organizational footprint.",
-      "excerpt": "Zfort Group is a software development company founded in 2000 and headquartered in Kharkiv, Ukraine, with representative offices in the USA, UK, Canada, Australia, and Israel. T...",
-      "profileUrl": "/bc-ai-directory/organizations/zfort-group",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:ziva-dynamics",

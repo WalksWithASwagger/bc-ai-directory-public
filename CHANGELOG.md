@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.0.1 — May 13, 2026
+
+Quality audit pass: removed 21 false-positive "validated" profiles.
+
+- **845 organizations** exported (was 865; 21 removed)
+- **544 people** exported (was 524; 20 additional profiles completed)
+- Removed profiles where agent validation runs had set `status: validated` but summaries documented finding no BC presence, no AI relevance, or no company at that name
+
 ## v1.0.0 — May 13, 2026
 
 Initial public release.
