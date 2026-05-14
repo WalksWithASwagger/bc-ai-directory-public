@@ -14,28 +14,28 @@
   "counts": {
     "people": {
       "total": 1454,
-      "exported": 569,
-      "withheld": 885,
+      "exported": 566,
+      "withheld": 888,
       "withheldReasons": {
-        "nonPublic": 817,
-        "incomplete": 31,
-        "unsafe": 37
+        "nonPublic": 802,
+        "incomplete": 48,
+        "unsafe": 38
       }
     },
     "organizations": {
-      "total": 1178,
-      "exported": 1026,
-      "withheld": 152,
+      "total": 1179,
+      "exported": 963,
+      "withheld": 216,
       "withheldReasons": {
-        "nonPublic": 76,
-        "incomplete": 70,
+        "nonPublic": 144,
+        "incomplete": 66,
         "unsafe": 6
       }
     },
     "records": {
-      "total": 2632,
-      "exported": 1595,
-      "withheld": 1037
+      "total": 2633,
+      "exported": 1529,
+      "withheld": 1104
     }
   },
   "people": [
@@ -4341,13 +4341,17 @@
       "type": "person",
       "slug": "gabriela",
       "name": "Gabriela",
-      "summary": "Gabriela is a coaching client participating in TheUpgrade.ai training programs. They have completed 1 coaching session with Kris Krüg.",
-      "excerpt": "Gabriela is a coaching client participating in TheUpgrade.ai training programs. They have completed 1 coaching session with Kris Krüg.",
+      "summary": "Gabriela is a first-name-only community member who participated in TheUpgrade.ai training programs as a coaching client with Kris Krüg. Limited public information is available — full name not confirmed.",
+      "excerpt": "Gabriela is a first-name-only community member who participated in TheUpgrade.ai training programs as a coaching client with Kris Krüg. Limited public information is available —...",
+      "tags": [
+        "bc-ai",
+        "theupgrade"
+      ],
       "roles": [
         "Coaching Client"
       ],
       "profileUrl": "/bc-ai-directory/people/gabriela",
-      "lastUpdated": "2025-11-29"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:gael",
@@ -4475,13 +4479,17 @@
       "type": "person",
       "slug": "george",
       "name": "George",
-      "summary": "George is a coaching client participating in TheUpgrade.ai training programs. They have completed 1 coaching session with Kris Krüg.",
-      "excerpt": "George is a coaching client participating in TheUpgrade.ai training programs. They have completed 1 coaching session with Kris Krüg.",
+      "summary": "George is a first-name-only community member who participated in TheUpgrade.ai training programs as a coaching client with Kris Krüg. Limited public information is available — full name not confirmed.",
+      "excerpt": "George is a first-name-only community member who participated in TheUpgrade.ai training programs as a coaching client with Kris Krüg. Limited public information is available — f...",
+      "tags": [
+        "bc-ai",
+        "theupgrade"
+      ],
       "roles": [
         "Coaching Client"
       ],
       "profileUrl": "/bc-ai-directory/people/george",
-      "lastUpdated": "2025-11-29"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:george-nie",
@@ -4844,6 +4852,34 @@
       "lastUpdated": "2026-05-13"
     },
     {
+      "id": "person:gurleen-khurana",
+      "type": "person",
+      "slug": "gurleen-khurana",
+      "name": "Gurleen Khurana",
+      "summary": "Gurleen Khurana is a British Columbia-based serial entrepreneur and founder of SimplifygenAI, a creative AI platform. He has an e-commerce exit behind him and is recognized as a top voice in Voice AI and Creative AI circles. He approaches business with a first-principles mindset and founded AiToFlo alongside his SimplifygenAI work.",
+      "excerpt": "Gurleen Khurana is a British Columbia-based serial entrepreneur and founder of SimplifygenAI, a creative AI platform. He has an e-commerce exit behind him and is recognized as a...",
+      "tags": [
+        "ai",
+        "bc-ai",
+        "creative-ai",
+        "entrepreneurship",
+        "leadership",
+        "voice-ai"
+      ],
+      "roles": [
+        "Founder"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "organizations": [
+        "AiToFlo",
+        "SimplifygenAI"
+      ],
+      "profileUrl": "/bc-ai-directory/people/gurleen-khurana",
+      "lastUpdated": "2026-05-13"
+    },
+    {
       "id": "person:gurleen-singh",
       "type": "person",
       "slug": "gurleen-singh",
@@ -4947,8 +4983,11 @@
       "type": "person",
       "slug": "hamidreza-eslami",
       "name": "Hamidreza Eslami",
-      "summary": "Hamidreza Eslami is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Hamidreza Eslami is a community member who attended Vancouver AI Community events.",
+      "summary": "Hamidreza Eslami is a Vancouver AI Community event attendee, active since August 2025. Limited public information is available beyond community participation.",
+      "excerpt": "Hamidreza Eslami is a Vancouver AI Community event attendee, active since August 2025. Limited public information is available beyond community participation.",
+      "tags": [
+        "bc-ai"
+      ],
       "roles": [
         "Community Member"
       ],
@@ -4956,34 +4995,43 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/hamidreza-eslami",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:hanna-bolte",
       "type": "person",
       "slug": "hanna-bolte",
       "name": "Hanna Bolte",
-      "summary": "Hanna Bolte is a coaching client participating in TheUpgrade.ai training programs. They have completed 1 coaching session with Kris Krüg.",
-      "excerpt": "Hanna Bolte is a coaching client participating in TheUpgrade.ai training programs. They have completed 1 coaching session with Kris Krüg.",
+      "summary": "Hanna Bolte is a community member who participated in TheUpgrade.ai training programs as a coaching client with Kris Krüg. Limited public information is available beyond coaching participation.",
+      "excerpt": "Hanna Bolte is a community member who participated in TheUpgrade.ai training programs as a coaching client with Kris Krüg. Limited public information is available beyond coachin...",
+      "tags": [
+        "bc-ai",
+        "theupgrade"
+      ],
       "roles": [
         "Coaching Client"
       ],
       "profileUrl": "/bc-ai-directory/people/hanna-bolte",
-      "lastUpdated": "2025-11-29"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:hasan-cavusoglu",
       "type": "person",
       "slug": "hasan-cavusoglu",
       "name": "Hasan Cavusoglu",
-      "summary": "Hasan Cavusoglu Hasan Cavusoglu is Professor of Management Information Systems at the Sauder School of Business, University of British Columbia. He teaches on a variety of IT management topics in Sauder's MBA and undergraduate programs. Hasan holds a Ph.D. degree in management science with a specialization in MIS and a http://M.Sc. degree in management and administrative sciences from the University of Texas at Da...",
-      "excerpt": "Hasan Cavusoglu Hasan Cavusoglu is Professor of Management Information Systems at the Sauder School of Business, University of British Columbia. He teaches on a variety of IT ma...",
+      "summary": "Hasan Cavusoglu is Professor of Management Information Systems at the Sauder School of Business, University of British Columbia. His research focuses on the economics of AI, information security and privacy, and management and governance of technology. He holds a Ph.D. in management science with a specialization in MIS from the University of Texas at Dallas.",
+      "excerpt": "Hasan Cavusoglu is Professor of Management Information Systems at the Sauder School of Business, University of British Columbia. His research focuses on the economics of AI, inf...",
       "tags": [
+        "ai",
         "bc-ai",
-        "founding-member"
+        "cybersecurity",
+        "economics-of-ai",
+        "founding-member",
+        "information-systems"
       ],
       "roles": [
-        "founding-member"
+        "Founding Member",
+        "Professor"
       ],
       "locations": [
         "Vancouver, BC"
@@ -4992,15 +5040,18 @@
         "UBC Sauder School of Business"
       ],
       "profileUrl": "/bc-ai-directory/people/hasan-cavusoglu",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:hassan-pardawalla",
       "type": "person",
       "slug": "hassan-pardawalla",
       "name": "Hassan Pardawalla",
-      "summary": "Hassan Pardawalla is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Hassan Pardawalla is a community member who attended Vancouver AI Community events.",
+      "summary": "Hassan Pardawalla is a Vancouver AI Community event attendee, active since May 2025. Limited public information is available beyond community participation.",
+      "excerpt": "Hassan Pardawalla is a Vancouver AI Community event attendee, active since May 2025. Limited public information is available beyond community participation.",
+      "tags": [
+        "bc-ai"
+      ],
       "roles": [
         "Community Member"
       ],
@@ -5008,31 +5059,18 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/hassan-pardawalla",
-      "lastUpdated": "2025-11-30"
-    },
-    {
-      "id": "person:haytham-khalil",
-      "type": "person",
-      "slug": "haytham-khalil",
-      "name": "Haytham Khalil",
-      "summary": "Haytham Khalil is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Haytham Khalil is a community member who attended Vancouver AI Community events.",
-      "roles": [
-        "Community Member"
-      ],
-      "locations": [
-        "Vancouver, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/people/haytham-khalil",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:heidi-klassen",
       "type": "person",
       "slug": "heidi-klassen",
       "name": "Heidi Klassen",
-      "summary": "Heidi Klassen is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Heidi Klassen is a community member who attended Vancouver AI Community events.",
+      "summary": "Heidi Klassen is a Vancouver AI Community event attendee, active since February 2025. Limited public information is available beyond community participation.",
+      "excerpt": "Heidi Klassen is a Vancouver AI Community event attendee, active since February 2025. Limited public information is available beyond community participation.",
+      "tags": [
+        "bc-ai"
+      ],
       "roles": [
         "Community Member"
       ],
@@ -5040,15 +5078,18 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/heidi-klassen",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:helen-milie",
       "type": "person",
       "slug": "helen-milie",
       "name": "Helen Émilie",
-      "summary": "Helen Émilie is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Helen Émilie is a community member who attended Vancouver AI Community events.",
+      "summary": "Helen Émilie is a Vancouver AI Community event attendee, first seen in January 2026. Limited public information is available beyond community participation.",
+      "excerpt": "Helen Émilie is a Vancouver AI Community event attendee, first seen in January 2026. Limited public information is available beyond community participation.",
+      "tags": [
+        "bc-ai"
+      ],
       "roles": [
         "Community Member"
       ],
@@ -5056,87 +5097,65 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/helen-milie",
-      "lastUpdated": "2026-01-30"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:helene-vallee",
       "type": "person",
       "slug": "helene-vallee",
       "name": "Helene Vallee",
-      "summary": "Helene Vallee BC + AI Founding Member 43. Professional Information BC + AI Founding Member - Member Number: 43 - Profile URL: https://bc-ai.ca/blog/bcaimember/helene-vallee/ - Joined: 2025-08-30",
-      "excerpt": "Helene Vallee BC + AI Founding Member 43. Professional Information BC + AI Founding Member - Member Number: 43 - Profile URL: https://bc-ai.ca/blog/bcaimember/helene-vallee/ - J...",
+      "summary": "Helene Vallee is a BC + AI Founding Member (43), one of the early members of the BC + AI Ecosystem Association who joined in August 2025. Limited additional public professional information is available.",
+      "excerpt": "Helene Vallee is a BC + AI Founding Member (43), one of the early members of the BC + AI Ecosystem Association who joined in August 2025. Limited additional public professional...",
       "tags": [
         "bc-ai",
         "founding-member"
       ],
       "roles": [
-        "founding-member"
-      ],
-      "profileUrl": "/bc-ai-directory/people/helene-vallee",
-      "lastUpdated": "2026-01-01"
-    },
-    {
-      "id": "person:henry-leung",
-      "type": "person",
-      "slug": "henry-leung",
-      "name": "Henry Leung",
-      "summary": "Henry Leung is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Henry Leung is a community member who attended Vancouver AI Community events.",
-      "roles": [
-        "Community Member"
+        "Founding Member"
       ],
       "locations": [
-        "Vancouver, BC"
+        "British Columbia"
       ],
-      "profileUrl": "/bc-ai-directory/people/henry-leung",
-      "lastUpdated": "2025-11-30"
+      "profileUrl": "/bc-ai-directory/people/helene-vallee",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:hermina-khara",
       "type": "person",
       "slug": "hermina-khara",
       "name": "Hermina Khara",
-      "summary": "Hermina Khara BC + AI Founding Member 178. Professional Information - Organization: Odgers - Title: Partner - Location: Delta, BC BC + AI Founding Member - Member Number: 178",
-      "excerpt": "Hermina Khara BC + AI Founding Member 178. Professional Information - Organization: Odgers - Title: Partner - Location: Delta, BC BC + AI Founding Member - Member Number: 178",
+      "summary": "Hermina Khara is a Partner at Odgers Berndtson, a leading global executive search and leadership advisory firm. Based in the Greater Vancouver area (Delta, BC), she works in human capital and leadership talent acquisition. She is a BC + AI Founding Member 178.",
+      "excerpt": "Hermina Khara is a Partner at Odgers Berndtson, a leading global executive search and leadership advisory firm. Based in the Greater Vancouver area (Delta, BC), she works in hum...",
       "tags": [
         "bc-ai",
-        "founding-member"
+        "executive-search",
+        "founding-member",
+        "human-capital",
+        "leadership"
       ],
       "roles": [
-        "founding-member"
+        "Founding Member",
+        "Partner"
       ],
       "locations": [
         "Delta, BC"
       ],
       "organizations": [
-        "Odgers"
+        "Odgers Berndtson"
       ],
       "profileUrl": "/bc-ai-directory/people/hermina-khara",
-      "lastUpdated": "2026-01-01"
-    },
-    {
-      "id": "person:hilary",
-      "type": "person",
-      "slug": "hilary",
-      "name": "Hilary",
-      "summary": "Hilary is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Hilary is a community member who attended Vancouver AI Community events.",
-      "roles": [
-        "Community Member"
-      ],
-      "locations": [
-        "Vancouver, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/people/hilary",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:holly-geant",
       "type": "person",
       "slug": "holly-geant",
       "name": "Holly Geant",
-      "summary": "Holly Geant is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Holly Geant is a community member who attended Vancouver AI Community events.",
+      "summary": "Holly Geant is a Vancouver AI Community event attendee, active since February 2025. Limited public information is available beyond community participation.",
+      "excerpt": "Holly Geant is a Vancouver AI Community event attendee, active since February 2025. Limited public information is available beyond community participation.",
+      "tags": [
+        "bc-ai"
+      ],
       "roles": [
         "Community Member"
       ],
@@ -5144,24 +5163,7 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/holly-geant",
-      "lastUpdated": "2025-11-30"
-    },
-    {
-      "id": "person:hugh-behroozy",
-      "type": "person",
-      "slug": "hugh-behroozy",
-      "name": "Hugh Behroozy",
-      "summary": "Hugh Behroozy <!-- enrich-stub-profiles:draft -- Bio (DRAFT - review before removing stub flag) Generated by scripts/people/enrich-stub-profiles.py at 2026-04-17T23:12:12Z using strategy mention-summary. The stub flag has not been removed; a human must review, revise, and promote this profile before changing tier or status. Hugh Behroozy appears in 4 indexed mention(s) across 1 source type(s): This is an auto-gene...",
-      "excerpt": "Hugh Behroozy <!-- enrich-stub-profiles:draft -- Bio (DRAFT - review before removing stub flag) Generated by scripts/people/enrich-stub-profiles.py at 2026-04-17T23:12:12Z using...",
-      "tags": [
-        "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
-        "founding-member"
-      ],
-      "profileUrl": "/bc-ai-directory/people/hugh-behroozy",
-      "lastUpdated": "2026-04-17"
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:inderjit-bains",
@@ -12942,24 +12944,6 @@
       "lastUpdated": "2026-05-13"
     },
     {
-      "id": "organization:ascentus-capital",
-      "type": "organization",
-      "slug": "ascentus-capital",
-      "name": "Ascentus Capital",
-      "summary": "Ascentus Capital appears to be a financial services or investment firm. Financial capital firms do not qualify for the BC AI directory unless they specifically build or deploy AI/ML products as their primary offering. No confirmed BC presence or AI technology development has been found for this entity.",
-      "excerpt": "Ascentus Capital appears to be a financial services or investment firm. Financial capital firms do not qualify for the BC AI directory unless they specifically build or deploy A...",
-      "tags": [
-        "capital",
-        "finance",
-        "investment"
-      ],
-      "categories": [
-        "Fintech"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/ascentus-capital",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:ascinta",
       "type": "organization",
       "slug": "ascinta",
@@ -13534,66 +13518,6 @@
       ]
     },
     {
-      "id": "organization:citizen-services",
-      "type": "organization",
-      "slug": "citizen-services",
-      "name": "BC Ministry of Citizens' Services",
-      "summary": "Rejected: government agency, not a BC AI company. The BC Ministry of Citizens' Services is a provincial government ministry responsible for digital services infrastructure, freedom of information, and IT. While the ministry has generative AI use guidelines and pilots AI tools, it is a government department rather than an industry organization.",
-      "excerpt": "Rejected: government agency, not a BC AI company. The BC Ministry of Citizens' Services is a provincial government ministry responsible for digital services infrastructure, free...",
-      "locations": [
-        "Victoria, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/citizen-services",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://gov.bc.ca/citz"
-      ]
-    },
-    {
-      "id": "organization:bc-public-service",
-      "type": "organization",
-      "slug": "bc-public-service",
-      "name": "BC Public Service",
-      "summary": "The BC Public Service is the provincial government workforce of British Columbia, responsible for delivering government programs and services. While the BC government has published a generative AI use policy and is implementing AI for internal productivity, the BC Public Service is a government employer body, not a BC AI company or technology organization.",
-      "excerpt": "The BC Public Service is the provincial government workforce of British Columbia, responsible for delivering government programs and services. While the BC government has publis...",
-      "tags": [
-        "government"
-      ],
-      "categories": [
-        "Government"
-      ],
-      "locations": [
-        "Victoria, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/bc-public-service",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://www2.gov.bc.ca/gov/content/careers-myhr"
-      ]
-    },
-    {
-      "id": "organization:bc-public-service-agency",
-      "type": "organization",
-      "slug": "bc-public-service-agency",
-      "name": "BC Public Service Agency",
-      "summary": "The BC Public Service Agency (BCPSA) is the provincial government body responsible for HR services, workforce management, and employee development for BC government staff. While BCPSA is deploying Microsoft Copilot Chat and other technology tools for government employees, it is a government HR agency, not a BC AI company or technology organization.",
-      "excerpt": "The BC Public Service Agency (BCPSA) is the provincial government body responsible for HR services, workforce management, and employee development for BC government staff. While...",
-      "tags": [
-        "government"
-      ],
-      "categories": [
-        "Government"
-      ],
-      "locations": [
-        "Victoria, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/bc-public-service-agency",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://www2.gov.bc.ca/gov/content/careers-myhr/bcpsa"
-      ]
-    },
-    {
       "id": "organization:bc-tech-association",
       "type": "organization",
       "slug": "bc-tech-association",
@@ -13647,16 +13571,6 @@
       "websiteUrls": [
         "https://bccampus.ca/"
       ]
-    },
-    {
-      "id": "organization:bcreative-consulting",
-      "type": "organization",
-      "slug": "bcreative-consulting",
-      "name": "BCcreative Consulting",
-      "summary": "No verifiable organization named BCcreative Consulting was found in British Columbia public sources. Searches returned results for Creative BC (a provincial film and media agency) and unrelated firms, with no match for the slug bcreative-consulting on web, LinkedIn, or Crunchbase.",
-      "excerpt": "No verifiable organization named BCcreative Consulting was found in British Columbia public sources. Searches returned results for Creative BC (a provincial film and media agenc...",
-      "profileUrl": "/bc-ai-directory/organizations/bcreative-consulting",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:bcit",
@@ -13815,16 +13729,6 @@
       "websiteUrls": [
         "https://nylandconsulting.com/"
       ]
-    },
-    {
-      "id": "organization:bim-supply",
-      "type": "organization",
-      "slug": "bim-supply",
-      "name": "BIM Supply",
-      "summary": "No verifiable organization named BIM Supply was found in British Columbia public sources. Searches returned Building Information Modeling (BIM) service companies operating in BC and Canada but none matching this specific name or slug. BC presence, organizational status, and AI relevance cannot be confirmed from public sources.",
-      "excerpt": "No verifiable organization named BIM Supply was found in British Columbia public sources. Searches returned Building Information Modeling (BIM) service companies operating in BC...",
-      "profileUrl": "/bc-ai-directory/organizations/bim-supply",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:bio-conscious",
@@ -14178,16 +14082,6 @@
       "websiteUrls": [
         "https://breezetraffic.com"
       ]
-    },
-    {
-      "id": "organization:brilliant",
-      "type": "organization",
-      "slug": "brilliant",
-      "name": "Brilliant",
-      "summary": "Brilliant is referenced in BC AI ecosystem sources. The slug is too generic to identify a specific BC AI organization without additional context. No confirmed BC AI entity found.",
-      "excerpt": "Brilliant is referenced in BC AI ecosystem sources. The slug is too generic to identify a specific BC AI organization without additional context. No confirmed BC AI entity found.",
-      "profileUrl": "/bc-ai-directory/organizations/brilliant",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:broadcom",
@@ -14916,22 +14810,6 @@
       "lastUpdated": "2026-05-11",
       "websiteUrls": [
         "https://www.cisco.com/site/ca/en/index.html"
-      ]
-    },
-    {
-      "id": "organization:city-of-vancouver",
-      "type": "organization",
-      "slug": "city-of-vancouver",
-      "name": "City of Vancouver",
-      "summary": "Rejected: government agency, not a BC AI company. The City of Vancouver is a municipal government that launched an AI chatbot on vancouver.ca in 2025 and operates an AI Advisory Committee. AI adoption is a procurement activity, not an industry initiative warranting directory listing.",
-      "excerpt": "Rejected: government agency, not a BC AI company. The City of Vancouver is a municipal government that launched an AI chatbot on vancouver.ca in 2025 and operates an AI Advisory...",
-      "locations": [
-        "Vancouver, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/city-of-vancouver",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://vancouver.ca/"
       ]
     },
     {
@@ -16585,23 +16463,6 @@
       ]
     },
     {
-      "id": "organization:digital-flow-marketing",
-      "type": "organization",
-      "slug": "digital-flow-marketing",
-      "name": "Digital Flow Marketing",
-      "summary": "Digital Flow Marketing appears to be a digital marketing agency. Marketing agencies do not qualify for the BC AI directory unless they specifically build or deploy proprietary AI/ML technology products as their primary offering. No confirmed BC presence or AI technology development has been found for this entity.",
-      "excerpt": "Digital Flow Marketing appears to be a digital marketing agency. Marketing agencies do not qualify for the BC AI directory unless they specifically build or deploy proprietary A...",
-      "tags": [
-        "agency",
-        "digital-marketing"
-      ],
-      "categories": [
-        "Consulting / Professional Services"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/digital-flow-marketing",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:digitalist-north-america",
       "type": "organization",
       "slug": "digitalist-north-america",
@@ -16882,22 +16743,6 @@
       "websiteUrls": [
         "https://durable.ai"
       ]
-    },
-    {
-      "id": "organization:dwd-consulting",
-      "type": "organization",
-      "slug": "dwd-consulting",
-      "name": "DWD Consulting",
-      "summary": "DWD Consulting appears to be a professional consulting firm. Consulting firms do not qualify for the BC AI directory unless they specifically build or deploy AI/ML technology products as their primary offering. No confirmed BC presence or AI technology development activity has been found for this entity.",
-      "excerpt": "DWD Consulting appears to be a professional consulting firm. Consulting firms do not qualify for the BC AI directory unless they specifically build or deploy AI/ML technology pr...",
-      "tags": [
-        "consulting"
-      ],
-      "categories": [
-        "Consulting / Professional Services"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/dwd-consulting",
-      "lastUpdated": "2026-05-13"
     },
     {
       "id": "organization:dynpricing",
@@ -17532,16 +17377,6 @@
       "websiteUrls": [
         "https://emtelligent.com"
       ]
-    },
-    {
-      "id": "organization:emy-design-lab",
-      "type": "organization",
-      "slug": "emy-design-lab",
-      "name": "Emy Design Lab",
-      "summary": "No BC company matching the slug 'emy-design-lab' was found in public sources. Searches returned unrelated design studios; no entity named Emy Design Lab with a verifiable BC organizational footprint could be identified.",
-      "excerpt": "No BC company matching the slug 'emy-design-lab' was found in public sources. Searches returned unrelated design studios; no entity named Emy Design Lab with a verifiable BC org...",
-      "profileUrl": "/bc-ai-directory/organizations/emy-design-lab",
-      "lastUpdated": "2026-05-13"
     },
     {
       "id": "organization:enabled-talent",
@@ -18254,16 +18089,6 @@
       "summary": "Firmex Inc. is a Toronto-headquartered virtual data room provider (110 Spadina Avenue, Toronto, ON), acquired by Datasite LLC in 2021 and continuing to operate as a standalone brand. The company has offices in Toronto and London with no BC office identified in any public source. AI features are not a current emphasis in Firmex's product positioning per multiple independent review sites.",
       "excerpt": "Firmex Inc. is a Toronto-headquartered virtual data room provider (110 Spadina Avenue, Toronto, ON), acquired by Datasite LLC in 2021 and continuing to operate as a standalone b...",
       "profileUrl": "/bc-ai-directory/organizations/firmex-inc",
-      "lastUpdated": "2026-05-11"
-    },
-    {
-      "id": "organization:firmogram",
-      "type": "organization",
-      "slug": "firmogram",
-      "name": "Firmogram",
-      "summary": "Firmogram is referenced in BC AI ecosystem sources but AI claims are thin in public sources. No confirmed BC AI organizational mandate found.",
-      "excerpt": "Firmogram is referenced in BC AI ecosystem sources but AI claims are thin in public sources. No confirmed BC AI organizational mandate found.",
-      "profileUrl": "/bc-ai-directory/organizations/firmogram",
       "lastUpdated": "2026-05-11"
     },
     {
@@ -19528,22 +19353,6 @@
       ]
     },
     {
-      "id": "organization:homecourt-nex-team",
-      "type": "organization",
-      "slug": "homecourt-nex-team",
-      "name": "HomeCourt (NEX Team)",
-      "summary": "HomeCourt is an AI-powered basketball training app built by NEX Team Inc. While the founder Philip Lam is a UBC Computer Science alumnus, NEX Team is headquartered in San Jose, California (75 E. Santa Clara St.). No active BC operations were found.",
-      "excerpt": "HomeCourt is an AI-powered basketball training app built by NEX Team Inc. While the founder Philip Lam is a UBC Computer Science alumnus, NEX Team is headquartered in San Jose,...",
-      "locations": [
-        "San Jose, CA"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/homecourt-nex-team",
-      "lastUpdated": "2026-05-13",
-      "websiteUrls": [
-        "https://www.homecourt.ai/"
-      ]
-    },
-    {
       "id": "organization:hootsuite",
       "type": "organization",
       "slug": "hootsuite",
@@ -19740,16 +19549,6 @@
       "websiteUrls": [
         "https://www.ibm.com/ca-en"
       ]
-    },
-    {
-      "id": "organization:ibm-canada",
-      "type": "organization",
-      "slug": "ibm-canada",
-      "name": "IBM Canada",
-      "summary": "IBM Canada is the Canadian subsidiary of IBM Corporation (a US multinational). IBM Canada has offices across Canada including BC, but the organizational headquarters is not a BC entity — it is a national subsidiary of a global corporation headquartered in the United States.",
-      "excerpt": "IBM Canada is the Canadian subsidiary of IBM Corporation (a US multinational). IBM Canada has offices across Canada including BC, but the organizational headquarters is not a BC...",
-      "profileUrl": "/bc-ai-directory/organizations/ibm-canada",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:ibm-ventures",
@@ -20707,16 +20506,6 @@
       ]
     },
     {
-      "id": "organization:intellomx",
-      "type": "organization",
-      "slug": "intellomx",
-      "name": "Intellomx",
-      "summary": "Intellomx (Intelligent OMICS Ltd.) is a UK-based AI drug discovery company applying machine learning to transcriptomic, genomic, and proteomic datasets to identify novel biological targets and diagnostics. The company has active partnerships with Janssen Research and JLABS but is headquartered in London and Nottingham, UK, with no confirmed BC office or Canadian organizational presence.",
-      "excerpt": "Intellomx (Intelligent OMICS Ltd.) is a UK-based AI drug discovery company applying machine learning to transcriptomic, genomic, and proteomic datasets to identify novel biologi...",
-      "profileUrl": "/bc-ai-directory/organizations/intellomx",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:intel-vision-technologies",
       "type": "organization",
       "slug": "intel-vision-technologies",
@@ -20944,16 +20733,6 @@
       ]
     },
     {
-      "id": "organization:invisible-technology-inc",
-      "type": "organization",
-      "slug": "invisible-technology-inc",
-      "name": "Invisible Technology Inc",
-      "summary": "Invisible Technologies (invisibletech.ai) is a San Francisco-based AI training data and process automation company with $336M in revenue and $100M raised, serving major AI model developers globally. No BC office or Canadian organizational presence was confirmed. A separate company, Invisible AI (invisible.ai), is also US-based. Neither entity has a confirmed BC footprint.",
-      "excerpt": "Invisible Technologies (invisibletech.ai) is a San Francisco-based AI training data and process automation company with $336M in revenue and $100M raised, serving major AI model...",
-      "profileUrl": "/bc-ai-directory/organizations/invisible-technology-inc",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:invoicer-ai",
       "type": "organization",
       "slug": "invoicer-ai",
@@ -20981,16 +20760,6 @@
       "websiteUrls": [
         "https://invoicer.ai"
       ]
-    },
-    {
-      "id": "organization:ised",
-      "type": "organization",
-      "slug": "ised",
-      "name": "ISED",
-      "summary": "ISED (Innovation, Science and Economic Development Canada) is a federal government department responsible for regulating industry and commerce, promoting science and innovation, and supporting economic development. ISED administers significant AI programs including the AI Sovereign Compute Infrastructure Program ($890M) and the Pan-Canadian AI Strategy, but is itself a federal department, not a BC AI company.",
-      "excerpt": "ISED (Innovation, Science and Economic Development Canada) is a federal government department responsible for regulating industry and commerce, promoting science and innovation,...",
-      "profileUrl": "/bc-ai-directory/organizations/ised",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:islay-power",
@@ -21436,16 +21205,6 @@
       ]
     },
     {
-      "id": "organization:kql-consulting",
-      "type": "organization",
-      "slug": "kql-consulting",
-      "name": "KQL Consulting",
-      "summary": "No BC company matching the slug 'kql-consulting' was found in public sources. No website, LinkedIn page, Crunchbase entry, or BC registry record for KQL Consulting was identified.",
-      "excerpt": "No BC company matching the slug 'kql-consulting' was found in public sources. No website, LinkedIn page, Crunchbase entry, or BC registry record for KQL Consulting was identified.",
-      "profileUrl": "/bc-ai-directory/organizations/kql-consulting",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:lambda-science",
       "type": "organization",
       "slug": "lambda-science",
@@ -21825,22 +21584,6 @@
       "excerpt": "Lightning AI & Consulting appears to be a BC-based consulting firm with AI in its name, distinct from the US-based Lightning AI (formerly Grid.ai/PyTorch Lightning). No reliable...",
       "profileUrl": "/bc-ai-directory/organizations/lightning-ai-consulting",
       "lastUpdated": "2026-05-13"
-    },
-    {
-      "id": "organization:linkedin",
-      "type": "organization",
-      "slug": "linkedin",
-      "name": "LinkedIn",
-      "summary": "LinkedIn is a global professional networking platform owned by Microsoft, headquartered in Sunnyvale, California. Not a BC organization.",
-      "excerpt": "LinkedIn is a global professional networking platform owned by Microsoft, headquartered in Sunnyvale, California. Not a BC organization.",
-      "locations": [
-        "Sunnyvale, CA"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/linkedin",
-      "lastUpdated": "2026-05-13",
-      "websiteUrls": [
-        "https://www.linkedin.com/"
-      ]
     },
     {
       "id": "organization:lise-alain",
@@ -22491,16 +22234,6 @@
       ]
     },
     {
-      "id": "organization:marmot-bear-consulting",
-      "type": "organization",
-      "slug": "marmot-bear-consulting",
-      "name": "Marmot-Bear Consulting",
-      "summary": "No BC company named 'Marmot-Bear Consulting' was found in any public source. Searches returned unrelated wildlife and ecology content; no technology or AI entity with this name was identified.",
-      "excerpt": "No BC company named 'Marmot-Bear Consulting' was found in any public source. Searches returned unrelated wildlife and ecology content; no technology or AI entity with this name...",
-      "profileUrl": "/bc-ai-directory/organizations/marmot-bear-consulting",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:mashup-machine",
       "type": "organization",
       "slug": "mashup-machine",
@@ -22695,16 +22428,6 @@
       "websiteUrls": [
         "http://medicalcytometrix.com/"
       ]
-    },
-    {
-      "id": "organization:megapolis-films",
-      "type": "organization",
-      "slug": "megapolis-films",
-      "name": "Megapolis Films",
-      "summary": "No BC company named 'Megapolis Films' was found in any public source. Searches primarily returned results for the Francis Ford Coppola film 'Megalopolis' and general Vancouver film industry information.",
-      "excerpt": "No BC company named 'Megapolis Films' was found in any public source. Searches primarily returned results for the Francis Ford Coppola film 'Megalopolis' and general Vancouver f...",
-      "profileUrl": "/bc-ai-directory/organizations/megapolis-films",
-      "lastUpdated": "2026-05-13"
     },
     {
       "id": "organization:memex-ai",
@@ -23355,16 +23078,6 @@
       "lastUpdated": "2026-05-11"
     },
     {
-      "id": "organization:modus-x",
-      "type": "organization",
-      "slug": "modus-x",
-      "name": "MODUS X",
-      "summary": "MODUS X is a Ukraine-based enterprise technology solutions company ranked highly in the Forbes Ukraine IT company listing, specializing in SAP implementation, data management, AI and data science, and cybersecurity services. The company has 100+ SAP consultants and operates primarily in the European and Ukrainian markets. No British Columbia or Canadian presence was identified.",
-      "excerpt": "MODUS X is a Ukraine-based enterprise technology solutions company ranked highly in the Forbes Ukraine IT company listing, specializing in SAP implementation, data management, A...",
-      "profileUrl": "/bc-ai-directory/organizations/modus-x",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:molecular-you",
       "type": "organization",
       "slug": "molecular-you",
@@ -23575,16 +23288,6 @@
       "lastUpdated": "2026-05-13"
     },
     {
-      "id": "organization:mshaped-consulting-services",
-      "type": "organization",
-      "slug": "mshaped-consulting-services",
-      "name": "MShaped Consulting Services",
-      "summary": "No British Columbia AI or technology company operating under the name 'MShaped Consulting Services' was found in any public source, including web searches, LinkedIn, Crunchbase, or BC tech directories. The name does not correspond to any known active BC AI or technology organization.",
-      "excerpt": "No British Columbia AI or technology company operating under the name 'MShaped Consulting Services' was found in any public source, including web searches, LinkedIn, Crunchbase,...",
-      "profileUrl": "/bc-ai-directory/organizations/mshaped-consulting-services",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:mswitch-networks-inc",
       "type": "organization",
       "slug": "mswitch-networks-inc",
@@ -23748,26 +23451,6 @@
       "lastUpdated": "2026-05-13"
     },
     {
-      "id": "organization:national-research-council-canada",
-      "type": "organization",
-      "slug": "national-research-council-canada",
-      "name": "National Research Council Canada",
-      "summary": "The National Research Council of Canada (NRC) is Canada's largest federal research and development organization, operating labs and programs across the country including AI-related research. As a federal Crown corporation it is not a BC-based AI company and falls outside the BC AI Ecosystem Association's directory scope.",
-      "excerpt": "The National Research Council of Canada (NRC) is Canada's largest federal research and development organization, operating labs and programs across the country including AI-rela...",
-      "tags": [
-        "federal-government",
-        "research"
-      ],
-      "locations": [
-        "Ottawa, ON"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/national-research-council-canada",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://nrc.canada.ca"
-      ]
-    },
-    {
       "id": "organization:nationsfirst",
       "type": "organization",
       "slug": "nationsfirst",
@@ -23794,25 +23477,6 @@
       "lastUpdated": "2026-05-10",
       "websiteUrls": [
         "https://www.nationsfirst.io/"
-      ]
-    },
-    {
-      "id": "organization:nrcan",
-      "type": "organization",
-      "slug": "nrcan",
-      "name": "Natural Resources Canada (NRCan)",
-      "summary": "Natural Resources Canada (NRCan) is a Canadian federal government department responsible for natural resources policy, science, and technology. As a federal ministry it is not a BC-based AI company and is outside the BC AI Ecosystem Association's directory scope.",
-      "excerpt": "Natural Resources Canada (NRCan) is a Canadian federal government department responsible for natural resources policy, science, and technology. As a federal ministry it is not a...",
-      "tags": [
-        "federal-government"
-      ],
-      "locations": [
-        "Ottawa, ON"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/nrcan",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://www.nrcan.gc.ca"
       ]
     },
     {
@@ -23908,28 +23572,6 @@
       "lastUpdated": "2026-05-10",
       "websiteUrls": [
         "https://netverge.com/"
-      ]
-    },
-    {
-      "id": "organization:netzsch",
-      "type": "organization",
-      "slug": "netzsch",
-      "name": "NETZSCH",
-      "summary": "NETZSCH Group is a German owner-managed industrial technology company specializing in pumps, grinding, and thermal analysis instrumentation. NETZSCH Canada has offices in Alberta and Ontario but no confirmed BC presence, and the company's product lines have no AI relevance.",
-      "excerpt": "NETZSCH Group is a German owner-managed industrial technology company specializing in pumps, grinding, and thermal analysis instrumentation. NETZSCH Canada has offices in Albert...",
-      "tags": [
-        "industrial",
-        "manufacturing",
-        "pumps"
-      ],
-      "locations": [
-        "Calgary, AB",
-        "Germany (HQ)"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/netzsch",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://www.netzsch.com"
       ]
     },
     {
@@ -25077,28 +24719,6 @@
       ]
     },
     {
-      "id": "organization:oura",
-      "type": "organization",
-      "slug": "oura",
-      "name": "Oura",
-      "summary": "Oura is a Finnish health technology company known for the Oura Ring smart wearable, which uses AI to track sleep, activity, and health metrics. The company expanded retail into Canada through Best Buy but has no office, research lab, or organizational presence in British Columbia.",
-      "excerpt": "Oura is a Finnish health technology company known for the Oura Ring smart wearable, which uses AI to track sleep, activity, and health metrics. The company expanded retail into...",
-      "tags": [
-        "ai-health",
-        "health-tech",
-        "wearables"
-      ],
-      "locations": [
-        "Oulu, Finland (HQ)",
-        "San Francisco, CA (US HQ)"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/oura",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://ouraring.com"
-      ]
-    },
-    {
       "id": "organization:overdrive",
       "type": "organization",
       "slug": "overdrive",
@@ -25151,16 +24771,6 @@
       "websiteUrls": [
         "https://owl.co/"
       ]
-    },
-    {
-      "id": "organization:owlwaysai",
-      "type": "organization",
-      "slug": "owlwaysai",
-      "name": "OwlwaysAI",
-      "summary": "OwlwaysAI is a name queued for validation but no verifiable company by this name could be found in public databases, BC business registries, LinkedIn, Crunchbase, or PitchBook. No website, founding team, or BC presence was identified. Rejected pending manual identification of the intended entity.",
-      "excerpt": "OwlwaysAI is a name queued for validation but no verifiable company by this name could be found in public databases, BC business registries, LinkedIn, Crunchbase, or PitchBook....",
-      "profileUrl": "/bc-ai-directory/organizations/owlwaysai",
-      "lastUpdated": "2026-05-13"
     },
     {
       "id": "organization:p2p-group-cnq-ppb",
@@ -25227,28 +24837,6 @@
       "excerpt": "Pacton Gold is a Vancouver-based junior mining exploration company focused on gold property acquisition and exploration in Canada and Australia. The company is listed on the TSX...",
       "profileUrl": "/bc-ai-directory/organizations/pacton-gold",
       "lastUpdated": "2026-05-13"
-    },
-    {
-      "id": "organization:pagerduty",
-      "type": "organization",
-      "slug": "pagerduty",
-      "name": "PagerDuty",
-      "summary": "PagerDuty (NYSE: PD) is an AI-first operations platform company headquartered in San Francisco, CA. PagerDuty deepened Canadian roots with a Toronto office (134 Peter Street, 70 employees) and was originally co-founded by Canadian engineers, but no Vancouver or BC office is documented in public sources.",
-      "excerpt": "PagerDuty (NYSE: PD) is an AI-first operations platform company headquartered in San Francisco, CA. PagerDuty deepened Canadian roots with a Toronto office (134 Peter Street, 70...",
-      "tags": [
-        "aiops",
-        "devops",
-        "incident-management"
-      ],
-      "locations": [
-        "San Francisco, CA (HQ)",
-        "Toronto, ON (Canada office)"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/pagerduty",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://www.pagerduty.com"
-      ]
     },
     {
       "id": "organization:palo-alto-networks",
@@ -25534,16 +25122,6 @@
       ]
     },
     {
-      "id": "organization:persistent-systems",
-      "type": "organization",
-      "slug": "persistent-systems",
-      "name": "Persistent Systems",
-      "summary": "Persistent Systems is a global digital engineering and enterprise AI services company headquartered in Pune, India (NASDAQ: PSYS). While Persistent Systems has a BC office (400-725 Granville Street, Vancouver), it is a multinational corporation — not a BC-based AI organization.",
-      "excerpt": "Persistent Systems is a global digital engineering and enterprise AI services company headquartered in Pune, India (NASDAQ: PSYS). While Persistent Systems has a BC office (400-...",
-      "profileUrl": "/bc-ai-directory/organizations/persistent-systems",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:ph7-technologies",
       "type": "organization",
       "slug": "ph7-technologies",
@@ -25811,16 +25389,6 @@
       ]
     },
     {
-      "id": "organization:planet-labs-pbc",
-      "type": "organization",
-      "slug": "planet-labs-pbc",
-      "name": "Planet Labs PBC",
-      "summary": "Planet Labs PBC is a San Francisco-based public benefit corporation operating the world's largest fleet of commercial Earth observation satellites. The company uses AI and machine learning to analyze satellite imagery for agriculture, forestry, urban planning, and environmental monitoring. Its Canadian subsidiary (Planet Labs Geomatics Corp.) is registered in Lethbridge, Alberta — not BC — and no Vancouver or BC e...",
-      "excerpt": "Planet Labs PBC is a San Francisco-based public benefit corporation operating the world's largest fleet of commercial Earth observation satellites. The company uses AI and machi...",
-      "profileUrl": "/bc-ai-directory/organizations/planet-labs-pbc",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:plantiga",
       "type": "organization",
       "slug": "plantiga",
@@ -25887,19 +25455,6 @@
       "lastUpdated": "2026-05-11",
       "websiteUrls": [
         "https://platan.us/"
-      ]
-    },
-    {
-      "id": "organization:plato-data-intelligence",
-      "type": "organization",
-      "slug": "plato-data-intelligence",
-      "name": "Plato Data Intelligence",
-      "summary": "Plato Data Intelligence is a New York-based data intelligence and Web3 AI platform founded in 2018, providing vertical search and real-time sector-specific data across 27 industries and languages. No BC or Canadian presence was found in public sources.",
-      "excerpt": "Plato Data Intelligence is a New York-based data intelligence and Web3 AI platform founded in 2018, providing vertical search and real-time sector-specific data across 27 indust...",
-      "profileUrl": "/bc-ai-directory/organizations/plato-data-intelligence",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://platoblockchain.com/"
       ]
     },
     {
@@ -26240,19 +25795,6 @@
       ]
     },
     {
-      "id": "organization:prodigy-finance",
-      "type": "organization",
-      "slug": "prodigy-finance",
-      "name": "Prodigy Finance",
-      "summary": "Prodigy Finance is a London-based fintech company founded in 2007 that provides student loans to international postgraduate students, funded by alumni and institutional investors. The company has offices in London, Cape Town, and New York with no BC or Canadian presence.",
-      "excerpt": "Prodigy Finance is a London-based fintech company founded in 2007 that provides student loans to international postgraduate students, funded by alumni and institutional investor...",
-      "profileUrl": "/bc-ai-directory/organizations/prodigy-finance",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://prodigyfinance.com/"
-      ]
-    },
-    {
       "id": "organization:prodigy-intelligence",
       "type": "organization",
       "slug": "prodigy-intelligence",
@@ -26497,22 +26039,6 @@
       ]
     },
     {
-      "id": "organization:phsa",
-      "type": "organization",
-      "slug": "phsa",
-      "name": "Provincial Health Services Authority (PHSA)",
-      "summary": "PHSA is a BC provincial government health authority responsible for coordinating and delivering specialized health programs and services across British Columbia. As a Crown agency, it is a government body, not a BC AI company eligible for the public directory.",
-      "excerpt": "PHSA is a BC provincial government health authority responsible for coordinating and delivering specialized health programs and services across British Columbia. As a Crown agen...",
-      "locations": [
-        "Vancouver, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/phsa",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://www.phsa.ca/"
-      ]
-    },
-    {
       "id": "organization:provincial-health-services-authority",
       "type": "organization",
       "slug": "provincial-health-services-authority",
@@ -26720,16 +26246,6 @@
       "summary": "Quirky Couture Inc appears to be a fashion or apparel company. No BC-registered AI, ML, or technology product or service offering was identified. The company does not meet the AI/tech relevance criterion for inclusion in the BC AI directory.",
       "excerpt": "Quirky Couture Inc appears to be a fashion or apparel company. No BC-registered AI, ML, or technology product or service offering was identified. The company does not meet the A...",
       "profileUrl": "/bc-ai-directory/organizations/quirky-couture-inc",
-      "lastUpdated": "2026-05-13"
-    },
-    {
-      "id": "organization:quockerwodger",
-      "type": "organization",
-      "slug": "quockerwodger",
-      "name": "Quockerwodger",
-      "summary": "Quockerwodger is listed in the validation queue but no verifiable business entity by this name was found in public databases, BC registries, LinkedIn, Crunchbase, or PitchBook. The word 'quockerwodger' is a 19th-century English term for a wooden puppet; a GitHub project uses the name as a programming language experiment, but this is not a BC company. Rejected as unverifiable.",
-      "excerpt": "Quockerwodger is listed in the validation queue but no verifiable business entity by this name was found in public databases, BC registries, LinkedIn, Crunchbase, or PitchBook....",
-      "profileUrl": "/bc-ai-directory/organizations/quockerwodger",
       "lastUpdated": "2026-05-13"
     },
     {
@@ -27033,31 +26549,6 @@
       "excerpt": "Remote Kitchen is a BC-confirmed company. AI relevance is unsubstantiated in public sources.",
       "profileUrl": "/bc-ai-directory/organizations/remote-kitchen",
       "lastUpdated": "2026-05-11"
-    },
-    {
-      "id": "organization:rent-by-owner",
-      "type": "organization",
-      "slug": "rent-by-owner",
-      "name": "Rent By Owner",
-      "summary": "Rent By Owner (RBO) is a Vancouver, BC-based vacation rental aggregation platform that lists properties from multiple sources including Airbnb, Vrbo, and Booking.com. The company operates as a travel technology intermediary aggregating rental inventory for consumers. RBO does not appear to build or sell AI/ML products or services — it is a travel tech aggregator.",
-      "excerpt": "Rent By Owner (RBO) is a Vancouver, BC-based vacation rental aggregation platform that lists properties from multiple sources including Airbnb, Vrbo, and Booking.com. The compan...",
-      "tags": [
-        "aggregator",
-        "marketplace",
-        "travel-tech",
-        "vacation-rental"
-      ],
-      "categories": [
-        "Real Estate Tech"
-      ],
-      "locations": [
-        "Vancouver, BC"
-      ],
-      "profileUrl": "/bc-ai-directory/organizations/rent-by-owner",
-      "lastUpdated": "2026-05-13",
-      "websiteUrls": [
-        "https://rentbyowner.com"
-      ]
     },
     {
       "id": "organization:rentperks",
@@ -27493,16 +26984,6 @@
       ]
     },
     {
-      "id": "organization:saasforge",
-      "type": "organization",
-      "slug": "saasforge",
-      "name": "SaasForge",
-      "summary": "SaasForge (saasforge.org) is an AI tool review and comparison website operated by a team of technology enthusiasts who evaluate and rate AI products for consumer audiences. It is a media/review property, not a BC-based software development company building its own AI or SaaS products. No BC company registration, BC physical presence, or BC technology product development was identified.",
-      "excerpt": "SaasForge (saasforge.org) is an AI tool review and comparison website operated by a team of technology enthusiasts who evaluate and rate AI products for consumer audiences. It i...",
-      "profileUrl": "/bc-ai-directory/organizations/saasforge",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:safedigit-io",
       "type": "organization",
       "slug": "safedigit-io",
@@ -27781,16 +27262,6 @@
       ]
     },
     {
-      "id": "organization:scalable-press",
-      "type": "organization",
-      "slug": "scalable-press",
-      "name": "Scalable Press",
-      "summary": "Scalable Press is a San Francisco, California-based print-on-demand and mass customization company founded in 2012. The company automates garment printing and product customization through technology but has no confirmed BC presence.",
-      "excerpt": "Scalable Press is a San Francisco, California-based print-on-demand and mass customization company founded in 2012. The company automates garment printing and product customizat...",
-      "profileUrl": "/bc-ai-directory/organizations/scalable-press",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:scalablehr",
       "type": "organization",
       "slug": "scalablehr",
@@ -27905,16 +27376,6 @@
       "lastUpdated": "2026-05-13"
     },
     {
-      "id": "organization:school-district-58",
-      "type": "organization",
-      "slug": "school-district-58",
-      "name": "School District 58 (Nicola-Similkameen)",
-      "summary": "School District 58 is the BC public school district serving the Nicola-Similkameen region (Merritt, Princeton). It is a provincial government education authority with standard K–12 programming. No AI-specific programs or ed-tech initiatives were identified.",
-      "excerpt": "School District 58 is the BC public school district serving the Nicola-Similkameen region (Merritt, Princeton). It is a provincial government education authority with standard K...",
-      "profileUrl": "/bc-ai-directory/organizations/school-district-58",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:science-world",
       "type": "organization",
       "slug": "science-world",
@@ -27960,16 +27421,6 @@
       "websiteUrls": [
         "https://www.scopemedia.com"
       ]
-    },
-    {
-      "id": "organization:sea-to-sky-school-district-no-48",
-      "type": "organization",
-      "slug": "sea-to-sky-school-district-no-48",
-      "name": "Sea to Sky School District No. 48",
-      "summary": "Sea to Sky School District No. 48 is the BC public school district serving Squamish, Whistler, Pemberton, and the Sea to Sky Corridor. It is a provincial government education authority. No AI-specific programs or ed-tech initiatives were identified.",
-      "excerpt": "Sea to Sky School District No. 48 is the BC public school district serving Squamish, Whistler, Pemberton, and the Sea to Sky Corridor. It is a provincial government education au...",
-      "profileUrl": "/bc-ai-directory/organizations/sea-to-sky-school-district-no-48",
-      "lastUpdated": "2026-05-13"
     },
     {
       "id": "organization:secur3d",
@@ -28183,26 +27634,6 @@
       ]
     },
     {
-      "id": "organization:sentient",
-      "type": "organization",
-      "slug": "sentient",
-      "name": "Sentient",
-      "summary": "The 'Sentient' queue entry could not be resolved to a specific BC AI company. Sentient Technologies (San Francisco, dissolved 2019) and Sentient AI (usesentient.ai, Toronto-based enterprise AI agents) are the primary entities matching this name, neither of which is a BC company. This entry was previously rejected in the ledger on 2026-05-10 with the note 'No BC organizational footprint found'.",
-      "excerpt": "The 'Sentient' queue entry could not be resolved to a specific BC AI company. Sentient Technologies (San Francisco, dissolved 2019) and Sentient AI (usesentient.ai, Toronto-base...",
-      "profileUrl": "/bc-ai-directory/organizations/sentient",
-      "lastUpdated": "2026-05-13"
-    },
-    {
-      "id": "organization:seo-sherpa",
-      "type": "organization",
-      "slug": "seo-sherpa",
-      "name": "SEO Sherpa",
-      "summary": "SEO Sherpa is a Dubai, UAE-headquartered SEO agency founded in 2012 by James Reynolds, recognized as a top global SEO firm. The company is headquartered at Dubai Internet City and has a globally distributed remote team across 12 cities in 5 countries, with no confirmed BC presence.",
-      "excerpt": "SEO Sherpa is a Dubai, UAE-headquartered SEO agency founded in 2012 by James Reynolds, recognized as a top global SEO firm. The company is headquartered at Dubai Internet City a...",
-      "profileUrl": "/bc-ai-directory/organizations/seo-sherpa",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:sereniful",
       "type": "organization",
       "slug": "sereniful",
@@ -28211,16 +27642,6 @@
       "excerpt": "Sereniful appears to be a very early-stage startup or micro-company, possibly in wellness or consumer software. Insufficient public information is available to confirm a BC pres...",
       "profileUrl": "/bc-ai-directory/organizations/sereniful",
       "lastUpdated": "2026-05-13"
-    },
-    {
-      "id": "organization:serverless-guru",
-      "type": "organization",
-      "slug": "serverless-guru",
-      "name": "Serverless Guru",
-      "summary": "Serverless Guru is a US-based (Portland, OR / Delaware-registered) cloud consulting firm specializing in AWS serverless architecture. The company has a globally distributed team across 12+ countries and has worked with clients including Air Canada and Hyatt, but has no confirmed BC organizational presence.",
-      "excerpt": "Serverless Guru is a US-based (Portland, OR / Delaware-registered) cloud consulting firm specializing in AWS serverless architecture. The company has a globally distributed team...",
-      "profileUrl": "/bc-ai-directory/organizations/serverless-guru",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:sfuanalytics",
@@ -28677,16 +28098,6 @@
       "websiteUrls": [
         "https://www.silverberry.ai/"
       ]
-    },
-    {
-      "id": "organization:simform",
-      "type": "organization",
-      "slug": "simform",
-      "name": "Simform",
-      "summary": "Simform is a product engineering company headquartered in Ahmedabad, India with development centers across North America including a listed Vancouver BC office. However, Simform's primary operations, workforce, and leadership are based in India; the Vancouver listing is a client-facing satellite office. The company does not meet the BC presence criterion for the directory.",
-      "excerpt": "Simform is a product engineering company headquartered in Ahmedabad, India with development centers across North America including a listed Vancouver BC office. However, Simform...",
-      "profileUrl": "/bc-ai-directory/organizations/simform",
-      "lastUpdated": "2026-05-13"
     },
     {
       "id": "organization:simon-fraser-university-sfu",
@@ -29486,16 +28897,6 @@
       ]
     },
     {
-      "id": "organization:spire",
-      "type": "organization",
-      "slug": "spire",
-      "name": "Spire Global",
-      "summary": "Spire Global is a space-to-cloud data and analytics company operating a nanosatellite constellation for maritime, aviation, and weather data. The company's Canadian presence is concentrated in Cambridge and Waterloo, Ontario (via the exactEarth acquisition). No British Columbia office or operations were identified.",
-      "excerpt": "Spire Global is a space-to-cloud data and analytics company operating a nanosatellite constellation for maritime, aviation, and weather data. The company's Canadian presence is...",
-      "profileUrl": "/bc-ai-directory/organizations/spire",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:spocket",
       "type": "organization",
       "slug": "spocket",
@@ -29610,16 +29011,6 @@
       ]
     },
     {
-      "id": "organization:starlight-labs",
-      "type": "organization",
-      "slug": "starlight-labs",
-      "name": "Starlight Labs",
-      "summary": "Multiple unrelated companies use the 'Starlight Labs' name. The primary indexed entity (starlightlabs.io, @starlightlabsco on X/GitHub) is a San Francisco-based AI game development studio. No BC presence was identified for any Starlight Labs entity. The starlightlabs.io AI consultancy website contains no location information confirming BC operations.",
-      "excerpt": "Multiple unrelated companies use the 'Starlight Labs' name. The primary indexed entity (starlightlabs.io, @starlightlabsco on X/GitHub) is a San Francisco-based AI game developm...",
-      "profileUrl": "/bc-ai-directory/organizations/starlight-labs",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:starling-minds",
       "type": "organization",
       "slug": "starling-minds",
@@ -29658,26 +29049,6 @@
       "lastUpdated": "2026-05-13"
     },
     {
-      "id": "organization:stelco-inc",
-      "type": "organization",
-      "slug": "stelco-inc",
-      "name": "Stelco Inc.",
-      "summary": "Stelco (The Steel Company of Canada) is a Hamilton, Ontario-based steel manufacturer founded in 1910 and acquired by US-based Cleveland-Cliffs for US$2.5 billion in 2024. While Stelco has piloted AI in steelmaking operations via Canvass Analytics' platform, the company has no BC presence and is primarily an Ontario/US industrial manufacturer, not a BC AI organization.",
-      "excerpt": "Stelco (The Steel Company of Canada) is a Hamilton, Ontario-based steel manufacturer founded in 1910 and acquired by US-based Cleveland-Cliffs for US$2.5 billion in 2024. While...",
-      "profileUrl": "/bc-ai-directory/organizations/stelco-inc",
-      "lastUpdated": "2026-05-11"
-    },
-    {
-      "id": "organization:stem-fellowship",
-      "type": "organization",
-      "slug": "stem-fellowship",
-      "name": "STEM Fellowship",
-      "summary": "STEM Fellowship is an Ontario-headquartered national charity with a UBC chapter in Vancouver. The national organization is not a BC entity — a student chapter at UBC does not constitute a BC organizational footprint for the directory.",
-      "excerpt": "STEM Fellowship is an Ontario-headquartered national charity with a UBC chapter in Vancouver. The national organization is not a BC entity — a student chapter at UBC does not co...",
-      "profileUrl": "/bc-ai-directory/organizations/stem-fellowship",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:stickerapp",
       "type": "organization",
       "slug": "stickerapp",
@@ -29685,26 +29056,6 @@
       "summary": "StickerApp is a Swedish print-on-demand sticker and label company headquartered in Lomma, Skane, Sweden, with additional operations in Annapolis, Maryland. The company serves Canadian customers via stickerapp.ca but has no BC organizational presence and no AI or technology development focus.",
       "excerpt": "StickerApp is a Swedish print-on-demand sticker and label company headquartered in Lomma, Skane, Sweden, with additional operations in Annapolis, Maryland. The company serves Ca...",
       "profileUrl": "/bc-ai-directory/organizations/stickerapp",
-      "lastUpdated": "2026-05-11"
-    },
-    {
-      "id": "organization:stormboard",
-      "type": "organization",
-      "slug": "stormboard",
-      "name": "Stormboard",
-      "summary": "Stormboard is an Edmonton, Alberta-based cloud collaboration platform that launched StormAI in 2023, described as the industry's first context-aware augmented intelligence co-collaborator. The company has grown to $10M ARR with an 18-person team, but is headquartered entirely in Edmonton with no confirmed BC organizational presence.",
-      "excerpt": "Stormboard is an Edmonton, Alberta-based cloud collaboration platform that launched StormAI in 2023, described as the industry's first context-aware augmented intelligence co-co...",
-      "profileUrl": "/bc-ai-directory/organizations/stormboard",
-      "lastUpdated": "2026-05-11"
-    },
-    {
-      "id": "organization:stradigi-ai",
-      "type": "organization",
-      "slug": "stradigi-ai",
-      "name": "Stradigi AI",
-      "summary": "Stradigi AI is a Montreal, Quebec-based AI SaaS company that built the Kepler platform for automated machine learning, recommendation systems, and predictive analytics. The company raised $95M CAD and served CPG, e-commerce, and financial services clients, but underwent significant layoffs (over two-thirds of staff) and has no confirmed BC office or presence.",
-      "excerpt": "Stradigi AI is a Montreal, Quebec-based AI SaaS company that built the Kepler platform for automated machine learning, recommendation systems, and predictive analytics. The comp...",
-      "profileUrl": "/bc-ai-directory/organizations/stradigi-ai",
       "lastUpdated": "2026-05-11"
     },
     {
@@ -30008,16 +29359,6 @@
       "lastUpdated": "2026-05-13"
     },
     {
-      "id": "organization:sustainable-development-technology-canada",
-      "type": "organization",
-      "slug": "sustainable-development-technology-canada",
-      "name": "Sustainable Development Technology Canada (SDTC)",
-      "summary": "Sustainable Development Technology Canada (SDTC) is a federally created, arm's-length foundation that funds Canadian cleantech companies through a government endowment. SDTC is a federal funding body headquartered in Ottawa, not a BC AI company, and was suspended by the federal government in 2024 amid a governance review.",
-      "excerpt": "Sustainable Development Technology Canada (SDTC) is a federally created, arm's-length foundation that funds Canadian cleantech companies through a government endowment. SDTC is...",
-      "profileUrl": "/bc-ai-directory/organizations/sustainable-development-technology-canada",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:swae",
       "type": "organization",
       "slug": "swae",
@@ -30103,16 +29444,6 @@
       ]
     },
     {
-      "id": "organization:symvopath",
-      "type": "organization",
-      "slug": "symvopath",
-      "name": "Symvopath",
-      "summary": "Symvopath is a German medical pathology networking startup founded at the University of Lübeck and the University Hospital Schleswig-Holstein. It operates a platform for remote pathologist collaboration and digital slide consultation. No British Columbia or Canadian presence was identified.",
-      "excerpt": "Symvopath is a German medical pathology networking startup founded at the University of Lübeck and the University Hospital Schleswig-Holstein. It operates a platform for remote...",
-      "profileUrl": "/bc-ai-directory/organizations/symvopath",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:synapse-international",
       "type": "organization",
       "slug": "synapse-international",
@@ -30195,16 +29526,6 @@
       "websiteUrls": [
         "https://www.syncrobotics.ca/"
       ]
-    },
-    {
-      "id": "organization:synergy-corporate-technologies",
-      "type": "organization",
-      "slug": "synergy-corporate-technologies",
-      "name": "Synergy Corporate Technologies",
-      "summary": "Synergy Corporate Technologies is a global IT services company founded in 1995 (by two British founders) and headquartered in Westport, Connecticut, with offices across five continents. The company provides digital transformation, SharePoint consulting, and managed IT services, but has no confirmed BC organizational presence.",
-      "excerpt": "Synergy Corporate Technologies is a global IT services company founded in 1995 (by two British founders) and headquartered in Westport, Connecticut, with offices across five con...",
-      "profileUrl": "/bc-ai-directory/organizations/synergy-corporate-technologies",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:synetic",
@@ -30299,16 +29620,6 @@
       "lastUpdated": "2026-05-11"
     },
     {
-      "id": "organization:tacit-robotics",
-      "type": "organization",
-      "slug": "tacit-robotics",
-      "name": "Tacit Robotics",
-      "summary": "No company specifically named 'Tacit Robotics' was identified in British Columbia or Canada through public searches. Companies named 'Tacit AI' (San Francisco, industrial AI for reliability operations, founded 2023) and 'Tacit' (San Carlos CA, workforce knowledge transfer) were found, but neither is a BC robotics company.",
-      "excerpt": "No company specifically named 'Tacit Robotics' was identified in British Columbia or Canada through public searches. Companies named 'Tacit AI' (San Francisco, industrial AI for...",
-      "profileUrl": "/bc-ai-directory/organizations/tacit-robotics",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:talega-systems-ai",
       "type": "organization",
       "slug": "talega-systems-ai",
@@ -30389,16 +29700,6 @@
       "websiteUrls": [
         "https://www.talentmarketplace.ca/"
       ]
-    },
-    {
-      "id": "organization:talkscan",
-      "type": "organization",
-      "slug": "talkscan",
-      "name": "TalkScan",
-      "summary": "TalkScan is referenced in BC AI ecosystem sources but the domain is under construction with no verifiable BC location or product confirmed in public sources.",
-      "excerpt": "TalkScan is referenced in BC AI ecosystem sources but the domain is under construction with no verifiable BC location or product confirmed in public sources.",
-      "profileUrl": "/bc-ai-directory/organizations/talkscan",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:tallentor",
@@ -31375,16 +30676,6 @@
       "lastUpdated": "2026-05-13"
     },
     {
-      "id": "organization:tingono",
-      "type": "organization",
-      "slug": "tingono",
-      "name": "Tingono",
-      "summary": "Tingono (tingono.ai) is an AI-powered customer success and revenue expansion platform headquartered in San Francisco, California. Founded in 2021, the company raised $6.7M in funding and built a platform using AI to predict churn and automate customer expansion workflows. No British Columbia or Canadian presence was identified.",
-      "excerpt": "Tingono (tingono.ai) is an AI-powered customer success and revenue expansion platform headquartered in San Francisco, California. Founded in 2021, the company raised $6.7M in fu...",
-      "profileUrl": "/bc-ai-directory/organizations/tingono",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:tinyclues",
       "type": "organization",
       "slug": "tinyclues",
@@ -32106,16 +31397,6 @@
       ]
     },
     {
-      "id": "organization:uisce-eireann",
-      "type": "organization",
-      "slug": "uisce-eireann",
-      "name": "Uisce Eireann",
-      "summary": "Uisce Eireann is the national water utility of the Republic of Ireland, headquartered in Dublin. It is an Irish state-owned utility company responsible for public water and wastewater services in Ireland. It has no British Columbia presence, no Canadian operations, and is not an AI or technology company.",
-      "excerpt": "Uisce Eireann is the national water utility of the Republic of Ireland, headquartered in Dublin. It is an Irish state-owned utility company responsible for public water and wast...",
-      "profileUrl": "/bc-ai-directory/organizations/uisce-eireann",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:ultra-attention",
       "type": "organization",
       "slug": "ultra-attention",
@@ -32357,19 +31638,6 @@
       "lastUpdated": "2026-05-11",
       "websiteUrls": [
         "https://www.unlockland.ai/"
-      ]
-    },
-    {
-      "id": "organization:upwork",
-      "type": "organization",
-      "slug": "upwork",
-      "name": "Upwork",
-      "summary": "Upwork is a global US-based freelance marketplace platform headquartered in San Jose, California. It is not a BC AI company and does not meet the criteria for the BC AI ecosystem directory.",
-      "excerpt": "Upwork is a global US-based freelance marketplace platform headquartered in San Jose, California. It is not a BC AI company and does not meet the criteria for the BC AI ecosyste...",
-      "profileUrl": "/bc-ai-directory/organizations/upwork",
-      "lastUpdated": "2026-05-11",
-      "websiteUrls": [
-        "https://www.upwork.com/"
       ]
     },
     {
@@ -32751,16 +32019,6 @@
       ]
     },
     {
-      "id": "organization:veritas-technologies",
-      "type": "organization",
-      "slug": "veritas-technologies",
-      "name": "Veritas Technologies",
-      "summary": "Veritas Technologies LLC is a global enterprise data management company headquartered in Santa Clara, California, that provides backup, recovery, and multi-cloud data management solutions with AI-driven autonomous capabilities. The company was acquired by Cohesity in December 2024 and has no confirmed BC or Vancouver office presence.",
-      "excerpt": "Veritas Technologies LLC is a global enterprise data management company headquartered in Santa Clara, California, that provides backup, recovery, and multi-cloud data management...",
-      "profileUrl": "/bc-ai-directory/organizations/veritas-technologies",
-      "lastUpdated": "2026-05-11"
-    },
-    {
       "id": "organization:versance",
       "type": "organization",
       "slug": "versance",
@@ -33018,16 +32276,6 @@
       ]
     },
     {
-      "id": "organization:vincent-thorne-consultancy-the-strategic-mind-ai",
-      "type": "organization",
-      "slug": "vincent-thorne-consultancy-the-strategic-mind-ai",
-      "name": "Vincent Thorne Consultancy / The Strategic Mind AI",
-      "summary": "No verifiable British Columbia company, registered entity, or online presence was found for 'Vincent Thorne Consultancy' or 'The Strategic Mind AI'. Extensive web searches for both names individually and combined returned no matching results for a BC-based organization, website, or professional profile.",
-      "excerpt": "No verifiable British Columbia company, registered entity, or online presence was found for 'Vincent Thorne Consultancy' or 'The Strategic Mind AI'. Extensive web searches for b...",
-      "profileUrl": "/bc-ai-directory/organizations/vincent-thorne-consultancy-the-strategic-mind-ai",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:vira360",
       "type": "organization",
       "slug": "vira360",
@@ -33083,16 +32331,6 @@
       ]
     },
     {
-      "id": "organization:virtual-healthcare-technologies-inc",
-      "type": "organization",
-      "slug": "virtual-healthcare-technologies-inc",
-      "name": "Virtual Healthcare Technologies Inc.",
-      "summary": "No verifiable British Columbia company specifically named 'Virtual Healthcare Technologies Inc.' was identified through web research. Multiple generic virtual care and telehealth services operate in BC, but none match this specific legal or trade name. The company cannot be validated as a BC AI/tech organization without any findable public presence.",
-      "excerpt": "No verifiable British Columbia company specifically named 'Virtual Healthcare Technologies Inc.' was identified through web research. Multiple generic virtual care and telehealt...",
-      "profileUrl": "/bc-ai-directory/organizations/virtual-healthcare-technologies-inc",
-      "lastUpdated": "2026-05-13"
-    },
-    {
       "id": "organization:visier",
       "type": "organization",
       "slug": "visier",
@@ -33118,16 +32356,6 @@
       "websiteUrls": [
         "https://www.visier.com"
       ]
-    },
-    {
-      "id": "organization:vision-critical",
-      "type": "organization",
-      "slug": "vision-critical",
-      "name": "Vision Critical",
-      "summary": "Vision Critical was a Vancouver-founded customer intelligence software company that rebranded as Alida in September 2020 and subsequently moved its headquarters to Toronto. The entity 'vision-critical' no longer exists as an operating company under that name; it is now Alida Inc.",
-      "excerpt": "Vision Critical was a Vancouver-founded customer intelligence software company that rebranded as Alida in September 2020 and subsequently moved its headquarters to Toronto. The...",
-      "profileUrl": "/bc-ai-directory/organizations/vision-critical",
-      "lastUpdated": "2026-05-11"
     },
     {
       "id": "organization:vision-critical-alida",
@@ -33467,16 +32695,6 @@
       "websiteUrls": [
         "https://www.vybenetwork.com/"
       ]
-    },
-    {
-      "id": "organization:waabi",
-      "type": "organization",
-      "slug": "waabi",
-      "name": "Waabi",
-      "summary": "Waabi is a Toronto, Ontario-based autonomous vehicle AI company founded in 2021 by Raquel Urtasun. The company develops AI-powered self-driving truck technology using a 'Waabi World' AI simulator. Waabi is headquartered in Toronto with no British Columbia presence identified.",
-      "excerpt": "Waabi is a Toronto, Ontario-based autonomous vehicle AI company founded in 2021 by Raquel Urtasun. The company develops AI-powered self-driving truck technology using a 'Waabi W...",
-      "profileUrl": "/bc-ai-directory/organizations/waabi",
-      "lastUpdated": "2026-05-13"
     },
     {
       "id": "organization:wavo",

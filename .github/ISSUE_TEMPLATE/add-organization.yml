@@ -1,0 +1,52 @@
+name: Add Organization
+description: Suggest a BC AI organization to add to the directory
+labels: ["submission", "organization"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for submitting! Please provide at least 2 public sources confirming BC presence and AI/technology relevance. Submissions without both will be deferred.
+
+  - type: input
+    id: org-name
+    attributes:
+      label: Organization name
+      description: Official legal or trade name
+      placeholder: "Acme AI Inc."
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Website URL
+      description: Primary public website (HTTPS)
+      placeholder: "https://example.com"
+    validations:
+      required: true
+
+  - type: input
+    id: bc-evidence
+    attributes:
+      label: BC presence evidence URL
+      description: A public URL confirming a BC office, BC incorporation, or BC-based team (LinkedIn, BC Corporate Registry, About Us page with BC address, Crunchbase/PitchBook)
+      placeholder: "https://linkedin.com/company/..."
+    validations:
+      required: true
+
+  - type: input
+    id: ai-evidence
+    attributes:
+      label: AI/technology relevance evidence URL
+      description: A public URL showing they build, deploy, or provide AI/ML/advanced technology products or services (product page, GitHub repo, press coverage, academic publication)
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+      description: Anything else we should know about this organization
+    validations:
+      required: false

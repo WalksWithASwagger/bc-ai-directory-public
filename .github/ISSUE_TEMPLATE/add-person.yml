@@ -1,0 +1,58 @@
+name: Add Person
+description: Suggest a BC AI practitioner, founder, researcher, or policy maker to add to the directory
+labels: ["submission", "person"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        People profiles require a public presence in the BC AI ecosystem. We list founders, researchers, policy makers, and practitioners who have chosen to be publicly visible in a BC AI context (speakers, published researchers, public-role holders, etc.).
+
+  - type: input
+    id: person-name
+    attributes:
+      label: Full name
+      placeholder: "Jane Smith"
+    validations:
+      required: true
+
+  - type: input
+    id: linkedin
+    attributes:
+      label: LinkedIn URL or public profile URL
+      placeholder: "https://linkedin.com/in/..."
+    validations:
+      required: true
+
+  - type: input
+    id: bc-ai-evidence
+    attributes:
+      label: Evidence of BC-based AI/technology work
+      description: A public article, conference talk, publication, or employer page showing they work in BC AI
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: role
+    attributes:
+      label: Primary role(s)
+      description: e.g. Founder, Researcher, Policy Maker, Investor, Engineer
+      placeholder: "Founder, Researcher"
+    validations:
+      required: true
+
+  - type: input
+    id: organization
+    attributes:
+      label: Organization(s)
+      description: Current employer or affiliated organization(s)
+      placeholder: "Acme AI Inc., UBC"
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional context
+    validations:
+      required: false

@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.1.0 — May 14, 2026
+
+Quality audit pass: automated false-positive sweep removed 67 incorrect "validated" profiles.
+
+- **963 organizations** exported (was 1026; 67 removed — government agencies not meeting AI company criteria, non-BC HQs, defunct/rebranded entities, unverifiable companies)
+- **566 people** exported (was 569; minor adjustment)
+- Automated phrase-scanning now catches profiles where validation agents set `status: validated` while documenting contradictory findings
+- Added CONTRIBUTING.md and GitHub issue templates to repository
+- Added portal methodology/about page at `/bc-ai-directory/about`
+- Added case statement document (BC-AI-DIRECTORY-CASE-STATEMENT.md)
+- All 91 unit tests passing; export integrity verified (0 duplicates, 0 missing required fields)
+
 ## v1.0.2 — May 13, 2026
 
 Validation swarm pass: 8 parallel agent batches processed 192 candidates from the remaining queue.
