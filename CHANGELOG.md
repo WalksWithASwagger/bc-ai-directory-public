@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.3.0 — May 14, 2026
+
+People enrichment pass: public-source research on G–O range profiles, privacy cleanup, batch-04 promotions.
+
+- **963 organizations** exported (unchanged)
+- **822 people** exported (was 695; +127 from L–O shard enrichment — founders, researchers, operators promoted after public-source verification)
+- People enrichment batch-04: 4 new promoted profiles (Gabriel Zaro, Jacob DePodesta, James Hursthouse, Jessica Liang)
+- L–M–N–O shard: 271 profiles enriched with public sources; roles, organizations, and summaries updated
+- Privacy sweep: email addresses and phone numbers removed from public-facing profile bodies across multiple profiles
+
 ## v1.2.0 — May 14, 2026
 
 Data enrichment pass: category normalization, website backfill, location inference, people-org linking.

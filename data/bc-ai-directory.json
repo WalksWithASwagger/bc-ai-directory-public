@@ -14,11 +14,11 @@
   "counts": {
     "people": {
       "total": 1454,
-      "exported": 695,
-      "withheld": 759,
+      "exported": 822,
+      "withheld": 632,
       "withheldReasons": {
-        "nonPublic": 675,
-        "incomplete": 49,
+        "nonPublic": 535,
+        "incomplete": 62,
         "unsafe": 35
       }
     },
@@ -34,8 +34,8 @@
     },
     "records": {
       "total": 2633,
-      "exported": 1658,
-      "withheld": 975
+      "exported": 1785,
+      "withheld": 848
     }
   },
   "people": [
@@ -4493,11 +4493,12 @@
       "type": "person",
       "slug": "gabriel-zaro",
       "name": "Gabriel Zaro",
-      "summary": "Gabriel Zaro is a strategist and community executive with over 15 years of experience in cultural-scale activations, design thinking, and digital ecosystems. As Lead for Community Development at BC + AI, he helps shape how artificial intelligence and emerging technologies intersect with human-centered community frameworks. His approach is informed by a unique background that spans circus arts, founding and running...",
-      "excerpt": "Gabriel Zaro is a strategist and community executive with over 15 years of experience in cultural-scale activations, design thinking, and digital ecosystems. As Lead for Communi...",
+      "summary": "Gabriel Zaro is a community strategist based in Port Coquitlam, BC, with over 15 years of experience spanning cultural activations, design thinking, and digital ecosystems. He serves as Lead for Community Development at BC + AI, where he shapes how artificial intelligence and emerging technologies intersect with human-centred community frameworks. His background includes founding a creative agency in Brazil and le...",
+      "excerpt": "Gabriel Zaro is a community strategist based in Port Coquitlam, BC, with over 15 years of experience spanning cultural activations, design thinking, and digital ecosystems. He s...",
       "tags": [
         "ai",
         "community",
+        "community-development",
         "design",
         "digital",
         "gaming",
@@ -4508,16 +4509,18 @@
         "ui"
       ],
       "roles": [
-        "Lead, Community Development"
+        "Lead, Community Development",
+        "Senior Manager, Global Community"
       ],
       "locations": [
         "Port Coquitlam, British Columbia"
       ],
       "organizations": [
-        "DIGITAL"
+        "2K",
+        "BC + AI"
       ],
       "profileUrl": "/bc-ai-directory/people/gabriel-zaro",
-      "lastUpdated": "2026-01-23"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:gabriela",
@@ -4618,7 +4621,7 @@
         "Royal Roads University"
       ],
       "profileUrl": "/bc-ai-directory/people/garth-von-buchholz",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:gaurang-dave",
@@ -4924,29 +4927,32 @@
       "type": "person",
       "slug": "gordon-hamilton",
       "name": "Gordon Hamilton",
-      "summary": "Gordon Hamilton (also known as Gord Hamilton) is a Vancouver-based data governance expert and community leader. He administers and has been re-elected President of the TDWI-Vancouver chapter, leads the Data Governance sub-chapter of DAMA Vancouver, and is involved with Data for Good Vancouver — a collective of data scientists and engineers who volunteer their skills for non-profits and community organizations. He...",
-      "excerpt": "Gordon Hamilton (also known as Gord Hamilton) is a Vancouver-based data governance expert and community leader. He administers and has been re-elected President of the TDWI-Vanc...",
+      "summary": "Gordon Hamilton (also known as Gord Hamilton) is a data governance expert and community leader based in the Vancouver, BC area. He is a Data Governance Consultant at AGLC and has been re-elected President of the TDWI-Vancouver chapter (serving the Vancouver data warehousing and business intelligence community). He also leads the Data Governance sub-chapter of DAMA Vancouver, and contributes to Data for Good Vancou...",
+      "excerpt": "Gordon Hamilton (also known as Gord Hamilton) is a data governance expert and community leader based in the Vancouver, BC area. He is a Data Governance Consultant at AGLC and ha...",
       "tags": [
         "ai",
         "bc-ai",
         "community-organizing",
         "data",
         "data-governance",
+        "data-quality",
         "nonprofit"
       ],
       "roles": [
-        "Community Organizer",
-        "Data Governance Leader"
+        "Data Governance Consultant",
+        "President, TDWI-Vancouver (community volunteer)"
       ],
       "locations": [
         "Vancouver, British Columbia"
       ],
       "organizations": [
+        "AGLC",
         "DAMA Vancouver",
-        "Data for Good Vancouver"
+        "Data for Good Vancouver",
+        "TDWI-Vancouver"
       ],
       "profileUrl": "/bc-ai-directory/people/gordon-hamilton",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:graham",
@@ -5642,20 +5648,16 @@
       "type": "person",
       "slug": "itamar-titievsky",
       "name": "Itamar Titievsky",
-      "summary": "Itamar Titievsky is a Vancouver-based professional engaged with the BC + AI Ecosystem community.",
-      "excerpt": "Itamar Titievsky is a Vancouver-based professional engaged with the BC + AI Ecosystem community.",
-      "tags": [
-        "ai",
-        "vancouver-tech"
-      ],
+      "summary": "Itamar Titievsky is a community member who attended Vancouver AI Community events.",
+      "excerpt": "Itamar Titievsky is a community member who attended Vancouver AI Community events.",
       "roles": [
         "Community Member"
       ],
       "locations": [
-        "Vancouver, British Columbia"
+        "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/itamar-titievsky",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:itamar-tutieski",
@@ -5890,26 +5892,28 @@
       "type": "person",
       "slug": "jacob-depodesta",
       "name": "Jacob DePodesta",
-      "summary": "Jacob DePodesta is an educator in School District 48 (Sea to Sky, BC), engaged with the BC + AI Ecosystem. Based in the Sea to Sky corridor, Jacob brings a K-12 education perspective to discussions on AI tools and technology in learning environments.",
-      "excerpt": "Jacob DePodesta is an educator in School District 48 (Sea to Sky, BC), engaged with the BC + AI Ecosystem. Based in the Sea to Sky corridor, Jacob brings a K-12 education perspe...",
+      "summary": "Jacob DePodesta is a science and physics teacher at Howe Sound Secondary in Squamish, BC, within School District No. 48 (Sea to Sky). He is actively exploring AI applications in education, governance, and safety, and is pursuing a Master of Education Technology at UBC. He coached Howe Sound Secondary students at the 2023 UBC Physics Olympics, and in the summers directs a team of mountain-bike coaches in Squamish.",
+      "excerpt": "Jacob DePodesta is a science and physics teacher at Howe Sound Secondary in Squamish, BC, within School District No. 48 (Sea to Sky). He is actively exploring AI applications in...",
       "tags": [
         "ai",
+        "ai-in-education",
         "education",
-        "k12",
-        "sea-to-sky"
+        "physics",
+        "squamish",
+        "technology"
       ],
       "roles": [
-        "Community Member",
-        "Educator"
+        "Science Teacher (Physics)"
       ],
       "locations": [
-        "Sea to Sky, British Columbia"
+        "Squamish, British Columbia"
       ],
       "organizations": [
-        "School District 48 (Sea to Sky)"
+        "Howe Sound Secondary",
+        "School District No. 48 (Sea to Sky)"
       ],
       "profileUrl": "/bc-ai-directory/people/jacob-depodesta",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:jacob-kush",
@@ -6144,12 +6148,12 @@
         "entertainment",
         "entrepreneurship",
         "gaming",
-        "hospitality",
         "leadership",
-        "product"
+        "product",
+        "web3"
       ],
       "roles": [
-        "CEO, Greenstone Initiatives",
+        "CEO",
         "Emerging technology strategist",
         "Founder"
       ],
@@ -6160,7 +6164,7 @@
         "Greenstone Initiatives"
       ],
       "profileUrl": "/bc-ai-directory/people/james-hursthouse",
-      "lastUpdated": "2026-05-10"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:james-lester",
@@ -6963,6 +6967,35 @@
       ],
       "profileUrl": "/bc-ai-directory/people/jessica-glowacki",
       "lastUpdated": "2026-01-01"
+    },
+    {
+      "id": "person:jessica-liang",
+      "type": "person",
+      "slug": "jessica-liang",
+      "name": "Jessica Liang",
+      "summary": "Jessica Liang is the founder of Nook: Work and Social Club, a premium coworking and community space located at 8711 Alexandra Road in Richmond, BC. She describes her mission as building \"places that feel like home before there's proof.\" Her background spans nonprofit grant work, equity and accessibility advocacy, and UX design. In 2024 Nook raised over $10,000 for YWCA Canada through a ticketed anniversary event,...",
+      "excerpt": "Jessica Liang is the founder of Nook: Work and Social Club, a premium coworking and community space located at 8711 Alexandra Road in Richmond, BC. She describes her mission as...",
+      "tags": [
+        "charity",
+        "community-building",
+        "coworking",
+        "entrepreneurship",
+        "nonprofit",
+        "richmond",
+        "vancouver"
+      ],
+      "roles": [
+        "Community Builder",
+        "Founder"
+      ],
+      "locations": [
+        "Richmond, British Columbia"
+      ],
+      "organizations": [
+        "Nook: Work and Social Club"
+      ],
+      "profileUrl": "/bc-ai-directory/people/jessica-liang",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:jhan-shanky-silva",
@@ -9723,24 +9756,20 @@
       "type": "person",
       "slug": "laith-sarhan",
       "name": "Laith Sarhan",
-      "summary": "Laith Sarhan BC + AI Founding Member 99. Professional Information - Organization: Sarhan Data Law - Title: Founder & Principal Lawyer - Location: Vancouver, British Columbia BC + AI Founding Member - Member Number: 99 - Profile URL: https://bc-ai.ca/blog/bcaimember/laith-sarhan/ - Joined: 2025-10-21",
-      "excerpt": "Laith Sarhan BC + AI Founding Member 99. Professional Information - Organization: Sarhan Data Law - Title: Founder & Principal Lawyer - Location: Vancouver, British Columbia BC...",
+      "summary": "Laith Sarhan is the Founder and Principal Lawyer at Sarhan Data Law, a Vancouver firm specializing in data, privacy, and technology law. He is BC + AI Founding Member 99 and brings legal expertise to the intersection of law and artificial intelligence.",
+      "excerpt": "Laith Sarhan is the Founder and Principal Lawyer at Sarhan Data Law, a Vancouver firm specializing in data, privacy, and technology law. He is BC + AI Founding Member 99 and bri...",
       "tags": [
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
-        "founding-member"
+        "data-law",
+        "founding-member",
+        "legal",
+        "privacy"
       ],
       "locations": [
         "Vancouver, British Columbia"
       ],
-      "organizations": [
-        "BC + AI",
-        "Sarhan Data Law"
-      ],
       "profileUrl": "/bc-ai-directory/people/laith-sarhan",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:lana-sutherland",
@@ -9759,6 +9788,22 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:lance-james",
+      "type": "person",
+      "slug": "lance-james",
+      "name": "Lance James",
+      "summary": "Lance James is a community member in the BC + AI ecosystem. Limited public profile information available under this name in the BC AI context.",
+      "excerpt": "Lance James is a community member in the BC + AI ecosystem. Limited public profile information available under this name in the BC AI context.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lance-james",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:landon-biotech-investment",
       "type": "person",
       "slug": "landon-biotech-investment",
@@ -9775,27 +9820,41 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:landon-steele",
+      "type": "person",
+      "slug": "landon-steele",
+      "name": "Landon Steele",
+      "summary": "Landon Steele is an active participant in the BC + AI community. Limited public profile information available under this name in the BC AI context.",
+      "excerpt": "Landon Steele is an active participant in the BC + AI community. Limited public profile information available under this name in the BC AI context.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/landon-steele",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:larry-bouthillier",
       "type": "person",
       "slug": "larry-bouthillier",
       "name": "Larry Bouthillier",
-      "summary": "Larry Bouthillier Executive Director of Extended Learning at UBC. 23 years at Harvard in IT leadership. Delivers UBC Micro-Certificates in AI, cybersecurity, and data science. Professional Information - Organization: UBC Extended Learning - Title: Executive Director - Location: Gibsons, British Columbia BC + AI Founding Member - Member Number: 157",
-      "excerpt": "Larry Bouthillier Executive Director of Extended Learning at UBC. 23 years at Harvard in IT leadership. Delivers UBC Micro-Certificates in AI, cybersecurity, and data science. P...",
+      "summary": "Larry Bouthillier is Executive Director of Extended Learning at UBC, where he oversees Micro-Certificates in AI, cybersecurity, and data science. He brings 23 years of IT leadership experience from Harvard University to his role expanding access to technology education in British Columbia.",
+      "excerpt": "Larry Bouthillier is Executive Director of Extended Learning at UBC, where he oversees Micro-Certificates in AI, cybersecurity, and data science. He brings 23 years of IT leader...",
       "tags": [
+        "ai-training",
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
-        "founding-member"
+        "cybersecurity",
+        "education",
+        "founding-member",
+        "ubc"
       ],
       "locations": [
         "Gibsons, British Columbia"
       ],
-      "organizations": [
-        "UBC Extended Learning"
-      ],
       "profileUrl": "/bc-ai-directory/people/larry-bouthillier",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:larry-di-stefano",
@@ -9817,27 +9876,80 @@
       "lastUpdated": "2026-01-30"
     },
     {
+      "id": "person:laura-herman",
+      "type": "person",
+      "slug": "laura-herman",
+      "name": "Laura Herman",
+      "summary": "Laura Herman is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Laura Herman is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/laura-herman",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:laura-marie",
+      "type": "person",
+      "slug": "laura-marie",
+      "name": "Laura MARIE",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/laura-marie",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:lauren-b",
+      "type": "person",
+      "slug": "lauren-b",
+      "name": "Lauren B",
+      "summary": "Lauren B is a community member connected to the BC + AI ecosystem through the Anat Gerstein network. Limited public profile information available under this name.",
+      "excerpt": "Lauren B is a community member connected to the BC + AI ecosystem through the Anat Gerstein network. Limited public profile information available under this name.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lauren-b",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:lauren-hamilton",
       "type": "person",
       "slug": "lauren-hamilton",
       "name": "Lauren Hamilton",
-      "summary": "Lauren Hamilton BC + AI Founding Member 186. Professional Information - Location: Vancouver, BC BC + AI Founding Member - Member Number: 186",
-      "excerpt": "Lauren Hamilton BC + AI Founding Member 186. Professional Information - Location: Vancouver, BC BC + AI Founding Member - Member Number: 186",
+      "summary": "Lauren Hamilton is associated with Forme Strategies, a strategy and communications firm, based in Vancouver. She is BC + AI Founding Member 186.",
+      "excerpt": "Lauren Hamilton is associated with Forme Strategies, a strategy and communications firm, based in Vancouver. She is BC + AI Founding Member 186.",
       "tags": [
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
-        "founding-member"
+        "founding-member",
+        "strategy"
       ],
       "locations": [
-        "Vancouver, BC"
-      ],
-      "organizations": [
-        "BC + AI"
+        "Vancouver, British Columbia"
       ],
       "profileUrl": "/bc-ai-directory/people/lauren-hamilton",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:lautaro-cepeda",
+      "type": "person",
+      "slug": "lautaro-cepeda",
+      "name": "Lautaro Cepeda",
+      "summary": "Lautaro Cepeda is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Lautaro Cepeda is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lautaro-cepeda",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:lawrence",
@@ -9851,6 +9963,24 @@
       ],
       "profileUrl": "/bc-ai-directory/people/lawrence",
       "lastUpdated": "2025-11-29"
+    },
+    {
+      "id": "person:lawrence-alexander",
+      "type": "person",
+      "slug": "lawrence-alexander",
+      "name": "Lawrence Alexander",
+      "summary": "Lawrence Alexander is a student in AI Upgrade Cohort 7 affiliated with the Indigenomics Institute, applying AI tools to support economic reconciliation work. He is part of the Indigenomics cluster in Cohort 7 alongside J'net and Carlos.",
+      "excerpt": "Lawrence Alexander is a student in AI Upgrade Cohort 7 affiliated with the Indigenomics Institute, applying AI tools to support economic reconciliation work. He is part of the I...",
+      "tags": [
+        "ai-upgrade-cohort-7",
+        "economic-reconciliation",
+        "indigenomics"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lawrence-alexander",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:lawrence-okolo",
@@ -9895,6 +10025,64 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:leejoo",
+      "type": "person",
+      "slug": "leejoo",
+      "name": "Leejoo",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this first-name identifier.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this first-name identifier.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/leejoo",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:leif-utne",
+      "type": "person",
+      "slug": "leif-utne",
+      "name": "Leif Utne",
+      "summary": "Leif Utne is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Leif Utne is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/leif-utne",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:leigh-christie",
+      "type": "person",
+      "slug": "leigh-christie",
+      "name": "Leigh Christie",
+      "summary": "Leigh Christie is a community member in the BC + AI ecosystem. Limited public profile information available under this name in the BC AI context.",
+      "excerpt": "Leigh Christie is a community member in the BC + AI ecosystem. Limited public profile information available under this name in the BC AI context.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/leigh-christie",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:lena",
+      "type": "person",
+      "slug": "lena",
+      "name": "Lena",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lena",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:lena-gilfled",
       "type": "person",
       "slug": "lena-gilfled",
@@ -9909,6 +10097,19 @@
       ],
       "profileUrl": "/bc-ai-directory/people/lena-gilfled",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:leo",
+      "type": "person",
+      "slug": "leo",
+      "name": "Leo",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/leo",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:leonel-uia",
@@ -9943,6 +10144,35 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:leticia-serrano",
+      "type": "person",
+      "slug": "leticia-serrano",
+      "name": "Leticia Serrano",
+      "summary": "Leticia Serrano is a community member in the BC + AI ecosystem. Limited public profile information available under this name in the BC AI context.",
+      "excerpt": "Leticia Serrano is a community member in the BC + AI ecosystem. Limited public profile information available under this name in the BC AI context.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/leticia-serrano",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:lia",
+      "type": "person",
+      "slug": "lia",
+      "name": "Lia",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lia",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:liam-edmonds",
       "type": "person",
       "slug": "liam-edmonds",
@@ -9959,43 +10189,143 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:lil-ft",
+      "type": "person",
+      "slug": "lil-ft",
+      "name": "Lil FT",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lil-ft",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:lila",
+      "type": "person",
+      "slug": "lila",
+      "name": "Lila",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lila",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:linda-waraega",
+      "type": "person",
+      "slug": "linda-waraega",
+      "name": "Linda / Waraega",
+      "summary": "Community member in the BC + AI ecosystem known by the dual identifier \"Linda / Waraega.\" Limited public profile information available.",
+      "excerpt": "Community member in the BC + AI ecosystem known by the dual identifier \"Linda / Waraega.\" Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/linda-waraega",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:linjia-huang",
       "type": "person",
       "slug": "linjia-huang",
       "name": "Linjia Huang",
-      "summary": "Linjia Huang is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Linjia Huang is a community member who attended Vancouver AI Community events.",
-      "roles": [
-        "Community Member"
+      "summary": "Linjia Huang is a community member in the BC + AI ecosystem. Profile has existing content indicating community participation.",
+      "excerpt": "Linjia Huang is a community member in the BC + AI ecosystem. Profile has existing content indicating community participation.",
+      "tags": [
+        "bc-ai-community"
       ],
       "locations": [
-        "Vancouver, BC"
+        "British Columbia"
       ],
       "profileUrl": "/bc-ai-directory/people/linjia-huang",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:lio",
+      "type": "person",
+      "slug": "lio",
+      "name": "Lio",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lio",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:lisa-jackson",
+      "type": "person",
+      "slug": "lisa-jackson",
+      "name": "Lisa Jackson",
+      "summary": "Lisa Jackson is a community member connected to the BC + AI ecosystem. Limited public profile information available under this common name without additional identifiers.",
+      "excerpt": "Lisa Jackson is a community member connected to the BC + AI ecosystem. Limited public profile information available under this common name without additional identifiers.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lisa-jackson",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:lisa-vty",
+      "type": "person",
+      "slug": "lisa-vty",
+      "name": "Lisa VTY",
+      "summary": "Community member in the BC + AI ecosystem known by the identifier \"Lisa VTY.\" Limited public profile information available under this partial name.",
+      "excerpt": "Community member in the BC + AI ecosystem known by the identifier \"Lisa VTY.\" Limited public profile information available under this partial name.",
+      "tags": [
+        "bc-ai-community",
+        "braintrust"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lisa-vty",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:lise-alain",
       "type": "person",
       "slug": "lise-alain",
       "name": "Lise Alain",
-      "summary": "Lise Alain Owner of translation and multicultural marketing company. Offices in Vancouver, Montreal, and Toronto. Professional Information - Organization: Lise Alain - Title: Owner - Location: Galiano island, British Columbia BC + AI Founding Member - Member Number: 170",
-      "excerpt": "Lise Alain Owner of translation and multicultural marketing company. Offices in Vancouver, Montreal, and Toronto. Professional Information - Organization: Lise Alain - Title: Ow...",
+      "summary": "Lise Alain is the owner of LAT Multilingual, a translation and multicultural marketing company with offices in Vancouver, Montreal, and Toronto. She is BC + AI Founding Member 170, bringing multicultural communication expertise to the AI ecosystem.",
+      "excerpt": "Lise Alain is the owner of LAT Multilingual, a translation and multicultural marketing company with offices in Vancouver, Montreal, and Toronto. She is BC + AI Founding Member 1...",
       "tags": [
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
-        "founding-member"
+        "founding-member",
+        "marketing",
+        "multilingual",
+        "translation"
       ],
       "locations": [
-        "Galiano island, British Columbia"
-      ],
-      "organizations": [
-        "Lise Alain"
+        "Galiano Island, British Columbia",
+        "Montreal, Quebec",
+        "Toronto, Ontario"
       ],
       "profileUrl": "/bc-ai-directory/people/lise-alain",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:liz-g",
+      "type": "person",
+      "slug": "liz-g",
+      "name": "Liz G",
+      "summary": "Community member in the BC + AI ecosystem known by the partial identifier \"Liz G.\" Limited public profile information available.",
+      "excerpt": "Community member in the BC + AI ecosystem known by the partial identifier \"Liz G.\" Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/liz-g",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:liz-marshall",
@@ -10012,6 +10342,22 @@
       ],
       "profileUrl": "/bc-ai-directory/people/liz-marshall",
       "lastUpdated": "2026-02-09"
+    },
+    {
+      "id": "person:loc-dao",
+      "type": "person",
+      "slug": "loc-dao",
+      "name": "Loc Dao",
+      "summary": "Loc Dao is a community member in the BC + AI ecosystem. Limited public profile information available in the BC AI context.",
+      "excerpt": "Loc Dao is a community member in the BC + AI ecosystem. Limited public profile information available in the BC AI context.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/loc-dao",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:loki-jorgenson",
@@ -10042,6 +10388,22 @@
       ],
       "profileUrl": "/bc-ai-directory/people/loki-jorgenson",
       "lastUpdated": "2025-08-27"
+    },
+    {
+      "id": "person:loraine-loh",
+      "type": "person",
+      "slug": "loraine-loh",
+      "name": "Loraine Loh",
+      "summary": "Loraine Loh is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Loraine Loh is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/loraine-loh",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:lorraine-lowe",
@@ -10134,6 +10496,19 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:luck",
+      "type": "person",
+      "slug": "luck",
+      "name": "Luck",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/luck",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:luke-minaker",
       "type": "person",
       "slug": "luke-minaker",
@@ -10151,6 +10526,32 @@
       "lastUpdated": "2026-01-09"
     },
     {
+      "id": "person:lutyo",
+      "type": "person",
+      "slug": "lutyo",
+      "name": "Lutyo",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/lutyo",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mac-discord-proxy",
+      "type": "person",
+      "slug": "mac-discord-proxy",
+      "name": "MAC Discord proxy",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mac-discord-proxy",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:maddy-w",
       "type": "person",
       "slug": "maddy-w",
@@ -10165,6 +10566,19 @@
       ],
       "profileUrl": "/bc-ai-directory/people/maddy-w",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:madhavee",
+      "type": "person",
+      "slug": "madhavee",
+      "name": "Madhavee",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/madhavee",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:madhavee-inamdar",
@@ -10215,28 +10629,124 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:mahdie",
+      "type": "person",
+      "slug": "mahdie",
+      "name": "Mahdie",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mahdie",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:maide-a",
+      "type": "person",
+      "slug": "maide-a",
+      "name": "Maide A",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/maide-a",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:makaidea-gonzales",
+      "type": "person",
+      "slug": "makaidea-gonzales",
+      "name": "Makaidea Gonzales",
+      "summary": "Makaidea Gonzales is the daughter of chiyakselut (Venessa Gonzales) of the Squamish Nation. She participated alongside her mother in the Indigenous ceremony opening at the Vancouver AI Community Meetup in February 2026, embodying intergenerational knowledge transmission.",
+      "excerpt": "Makaidea Gonzales is the daughter of chiyakselut (Venessa Gonzales) of the Squamish Nation. She participated alongside her mother in the Indigenous ceremony opening at the Vanco...",
+      "tags": [
+        "bc-ai-community",
+        "indigenous-ceremony",
+        "intergenerational-knowledge",
+        "squamish-nation"
+      ],
+      "locations": [
+        "Vancouver, British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/makaidea-gonzales",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mani-kanasani",
+      "type": "person",
+      "slug": "mani-kanasani",
+      "name": "Mani Kanasani",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mani-kanasani",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mara",
+      "type": "person",
+      "slug": "mara",
+      "name": "Mara",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mara",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:marc-canter",
+      "type": "person",
+      "slug": "marc-canter",
+      "name": "Marc Canter",
+      "summary": "Marc Canter is a community member connected to the BC + AI ecosystem. Limited public profile information available in this context.",
+      "excerpt": "Marc Canter is a community member connected to the BC + AI ecosystem. Limited public profile information available in this context.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/marc-canter",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:marc-de-asis",
+      "type": "person",
+      "slug": "marc-de-asis",
+      "name": "Marc de Asis",
+      "summary": "Marc de Asis is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Marc de Asis is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/marc-de-asis",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:marc-low",
       "type": "person",
       "slug": "marc-low",
       "name": "Marc Low",
-      "summary": "Marc Low BC + AI Founding Member 187. Professional Information - Organization: KPMG Canada - Title: Partner - Location: Vancouver, BC BC + AI Founding Member - Member Number: 187",
-      "excerpt": "Marc Low BC + AI Founding Member 187. Professional Information - Organization: KPMG Canada - Title: Partner - Location: Vancouver, BC BC + AI Founding Member - Member Number: 187",
+      "summary": "Marc Low is a Partner at KPMG Canada based in Vancouver, BC. He is BC + AI Founding Member 187, connecting the professional services and accounting sector to the AI ecosystem.",
+      "excerpt": "Marc Low is a Partner at KPMG Canada based in Vancouver, BC. He is BC + AI Founding Member 187, connecting the professional services and accounting sector to the AI ecosystem.",
       "tags": [
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
-        "founding-member"
+        "consulting",
+        "founding-member",
+        "kpmg",
+        "professional-services"
       ],
       "locations": [
-        "Vancouver, BC"
-      ],
-      "organizations": [
-        "BC + AI",
-        "KPMG Canada"
+        "Vancouver, British Columbia"
       ],
       "profileUrl": "/bc-ai-directory/people/marc-low",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:marco-bongiorno-nardelli",
@@ -10253,6 +10763,45 @@
       ],
       "profileUrl": "/bc-ai-directory/people/marco-bongiorno-nardelli",
       "lastUpdated": "2026-02-09"
+    },
+    {
+      "id": "person:maria",
+      "type": "person",
+      "slug": "maria",
+      "name": "Maria",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/maria",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:marina-0rb17-tsougrianisadoodle",
+      "type": "person",
+      "slug": "marina-0rb17-tsougrianisadoodle",
+      "name": "Marina (0rb17) Tsougrianisadoodle",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/marina-0rb17-tsougrianisadoodle",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:marina-tsougrianis",
+      "type": "person",
+      "slug": "marina-tsougrianis",
+      "name": "Marina Tsougrianis",
+      "summary": "Marina Tsougrianis is a community member connected to the BC + AI ecosystem. Also known by the handle \"marina (0rb17) Tsougrianisadoodle\" in early community interactions.",
+      "excerpt": "Marina Tsougrianis is a community member connected to the BC + AI ecosystem. Also known by the handle \"marina (0rb17) Tsougrianisadoodle\" in early community interactions.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/marina-tsougrianis",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:mark-creative-mornings",
@@ -10290,6 +10839,32 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:mark-allen",
+      "type": "person",
+      "slug": "mark-allen",
+      "name": "Mark Allen",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mark-allen",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mark-brand",
+      "type": "person",
+      "slug": "mark-brand",
+      "name": "Mark Brand",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mark-brand",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:mark-busse",
       "type": "person",
       "slug": "mark-busse",
@@ -10316,6 +10891,19 @@
       ],
       "profileUrl": "/bc-ai-directory/people/mark-busse",
       "lastUpdated": "2026-02-15"
+    },
+    {
+      "id": "person:mark-kennedy",
+      "type": "person",
+      "slug": "mark-kennedy",
+      "name": "Mark Kennedy",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mark-kennedy",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:mark-machin-the-rizzla",
@@ -10348,6 +10936,34 @@
       ],
       "profileUrl": "/bc-ai-directory/people/mark-moraes",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:marko",
+      "type": "person",
+      "slug": "marko",
+      "name": "Marko",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/marko",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:marshall-kirkpatrick",
+      "type": "person",
+      "slug": "marshall-kirkpatrick",
+      "name": "Marshall Kirkpatrick",
+      "summary": "Marshall Kirkpatrick is a technology journalist and community member connected to the BC + AI ecosystem. Limited public profile information available in this context.",
+      "excerpt": "Marshall Kirkpatrick is a technology journalist and community member connected to the BC + AI ecosystem. Limited public profile information available in this context.",
+      "tags": [
+        "bc-ai-community",
+        "journalism",
+        "media"
+      ],
+      "profileUrl": "/bc-ai-directory/people/marshall-kirkpatrick",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:martin-lopatka",
@@ -10398,6 +11014,19 @@
       ],
       "profileUrl": "/bc-ai-directory/people/martin-robson",
       "lastUpdated": "2026-02-09"
+    },
+    {
+      "id": "person:mary-carmichael",
+      "type": "person",
+      "slug": "mary-carmichael",
+      "name": "Mary Carmichael",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mary-carmichael",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:mary-ann-reid",
@@ -10484,6 +11113,19 @@
       "lastUpdated": "2026-02-19"
     },
     {
+      "id": "person:matt-k",
+      "type": "person",
+      "slug": "matt-k",
+      "name": "Matt K",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/matt-k",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:matt-lambert",
       "type": "person",
       "slug": "matt-lambert",
@@ -10543,6 +11185,19 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:matthew",
+      "type": "person",
+      "slug": "matthew",
+      "name": "Matthew",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/matthew",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:matthew-sinclair",
       "type": "person",
       "slug": "matthew-sinclair",
@@ -10559,6 +11214,19 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:maxime",
+      "type": "person",
+      "slug": "maxime",
+      "name": "Maxime",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/maxime",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:maximilian-neubert",
       "type": "person",
       "slug": "maximilian-neubert",
@@ -10570,6 +11238,19 @@
       ],
       "profileUrl": "/bc-ai-directory/people/maximilian-neubert",
       "lastUpdated": "2025-11-29"
+    },
+    {
+      "id": "person:maximiliano-paz",
+      "type": "person",
+      "slug": "maximiliano-paz",
+      "name": "Maximiliano Paz",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/maximiliano-paz",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:maya",
@@ -10656,6 +11337,123 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:meagen-moreland",
+      "type": "person",
+      "slug": "meagen-moreland",
+      "name": "Meagen Moreland",
+      "summary": "Meagen Moreland is a public relations professional at Gambel Communications (gambelpr.com), connected to the BC + AI ecosystem.",
+      "excerpt": "Meagen Moreland is a public relations professional at Gambel Communications (gambelpr.com), connected to the BC + AI ecosystem.",
+      "tags": [
+        "bc-ai-community",
+        "communications",
+        "pr"
+      ],
+      "profileUrl": "/bc-ai-directory/people/meagen-moreland",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:megan-krogius",
+      "type": "person",
+      "slug": "megan-krogius",
+      "name": "Megan Krogius",
+      "summary": "Megan Krogius is a professional at Impossible Foods (impossiblefoods.com), the plant-based meat company, connected to the BC + AI ecosystem.",
+      "excerpt": "Megan Krogius is a professional at Impossible Foods (impossiblefoods.com), the plant-based meat company, connected to the BC + AI ecosystem.",
+      "tags": [
+        "bc-ai-community",
+        "food-tech",
+        "impossible-foods",
+        "sustainability"
+      ],
+      "profileUrl": "/bc-ai-directory/people/megan-krogius",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mehrnaz",
+      "type": "person",
+      "slug": "mehrnaz",
+      "name": "Mehrnaz",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mehrnaz",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:melanie-anne-bitner",
+      "type": "person",
+      "slug": "melanie-anne-bitner",
+      "name": "Melanie Anne Bitner",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/melanie-anne-bitner",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:melinda-wittstock",
+      "type": "person",
+      "slug": "melinda-wittstock",
+      "name": "Melinda Wittstock",
+      "summary": "Melinda Wittstock is an active community member in the BC + AI ecosystem. Limited public profile information available under this name in the BC AI context.",
+      "excerpt": "Melinda Wittstock is an active community member in the BC + AI ecosystem. Limited public profile information available under this name in the BC AI context.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/melinda-wittstock",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:melissa-flynn",
+      "type": "person",
+      "slug": "melissa-flynn",
+      "name": "Melissa Flynn",
+      "summary": "Melissa Flynn is a public relations professional running Melissa Flynn PR (melissaflynnpr.com), connected to the BC + AI ecosystem.",
+      "excerpt": "Melissa Flynn is a public relations professional running Melissa Flynn PR (melissaflynnpr.com), connected to the BC + AI ecosystem.",
+      "tags": [
+        "bc-ai-community",
+        "communications",
+        "pr"
+      ],
+      "profileUrl": "/bc-ai-directory/people/melissa-flynn",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:melissa-orozco",
+      "type": "person",
+      "slug": "melissa-orozco",
+      "name": "Melissa Orozco",
+      "summary": "Melissa Orozco is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Melissa Orozco is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/melissa-orozco",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:melissa-perenson",
+      "type": "person",
+      "slug": "melissa-perenson",
+      "name": "Melissa Perenson",
+      "summary": "Melissa Perenson is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Melissa Perenson is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/melissa-perenson",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:mellow",
       "type": "person",
       "slug": "mellow",
@@ -10691,6 +11489,19 @@
       "lastUpdated": "2026-04-19"
     },
     {
+      "id": "person:mendrika",
+      "type": "person",
+      "slug": "mendrika",
+      "name": "Mendrika",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mendrika",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:mendrika-ramarlina",
       "type": "person",
       "slug": "mendrika-ramarlina",
@@ -10705,6 +11516,32 @@
       ],
       "profileUrl": "/bc-ai-directory/people/mendrika-ramarlina",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:meredith-powell",
+      "type": "person",
+      "slug": "meredith-powell",
+      "name": "Meredith Powell",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/meredith-powell",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mia-thomsett",
+      "type": "person",
+      "slug": "mia-thomsett",
+      "name": "Mia Thomsett",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mia-thomsett",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:michael-yadev",
@@ -10755,6 +11592,45 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:michael-casalino",
+      "type": "person",
+      "slug": "michael-casalino",
+      "name": "Michael Casalino",
+      "summary": "Michael Casalino is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Michael Casalino is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/michael-casalino",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:michael-fergusson",
+      "type": "person",
+      "slug": "michael-fergusson",
+      "name": "Michael Fergusson",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/michael-fergusson",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:michael-hewlett",
+      "type": "person",
+      "slug": "michael-hewlett",
+      "name": "Michael Hewlett",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/michael-hewlett",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:michael-tippett",
       "type": "person",
       "slug": "michael-tippett",
@@ -10778,6 +11654,19 @@
       ],
       "profileUrl": "/bc-ai-directory/people/michael-tippett",
       "lastUpdated": "2026-01-09"
+    },
+    {
+      "id": "person:michael-unger",
+      "type": "person",
+      "slug": "michael-unger",
+      "name": "Michael Unger",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/michael-unger",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:michele-humphreys",
@@ -10860,6 +11749,32 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:michelle-ng",
+      "type": "person",
+      "slug": "michelle-ng",
+      "name": "Michelle Ng",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/michelle-ng",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:michelle-songy",
+      "type": "person",
+      "slug": "michelle-songy",
+      "name": "Michelle Songy",
+      "summary": "Michelle Songy is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Michelle Songy is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/michelle-songy",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:miika-makela",
       "type": "person",
       "slug": "miika-makela",
@@ -10880,47 +11795,93 @@
       "type": "person",
       "slug": "mike-anderson",
       "name": "Mike Anderson",
-      "summary": "Mike Anderson Seasoned technical leader with over a decade of experience founding and scaling B2B SaaS companies in security, compliance automation, and AI infrastructure. As Co-Founder & CTO of Intlabs, I led the architecture and R&D strategy of an AI-powered data-sharing platform (Origin) enabling zero-trust collaboration across regulated enterprises through responsible AI, data sovereignty, and data privacy-dri...",
-      "excerpt": "Mike Anderson Seasoned technical leader with over a decade of experience founding and scaling B2B SaaS companies in security, compliance automation, and AI infrastructure. As Co...",
+      "summary": "Mike Anderson is Co-Founder and CTO of Intlabs, where he leads AI-powered data-sharing platform development, and previously Co-Founder and COO of Echosec Systems (acquired by Flashpoint), a threat intelligence company. He is BC + AI Founding Member based in Victoria, BC.",
+      "excerpt": "Mike Anderson is Co-Founder and CTO of Intlabs, where he leads AI-powered data-sharing platform development, and previously Co-Founder and COO of Echosec Systems (acquired by Fl...",
       "tags": [
+        "ai-infrastructure",
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
-        "founding-member"
+        "cto",
+        "cybersecurity",
+        "founding-member",
+        "saas"
       ],
       "locations": [
-        "Victoria, BC"
-      ],
-      "organizations": [
-        "BC + AI",
-        "Intlabs/Echosec Systems"
+        "Victoria, British Columbia"
       ],
       "profileUrl": "/bc-ai-directory/people/mike-anderson",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mike-h",
+      "type": "person",
+      "slug": "mike-h",
+      "name": "Mike H",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mike-h",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mikhail-klassen",
+      "type": "person",
+      "slug": "mikhail-klassen",
+      "name": "Mikhail Klassen",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mikhail-klassen",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:mila-juristovski-bosnic",
       "type": "person",
       "slug": "mila-juristovski-bosnic",
       "name": "Mila Juristovski Bosnic",
-      "summary": "Mila Juristovski Bosnic Co-founder of Nala Care (clean skincare brand). Biotech engineer with MBA in Management of Technology from SFU. Professional Information - Organization: Nala Care - Title: COO - Location: Vancouver, British Columbia BC + AI Founding Member - Member Number: 163",
-      "excerpt": "Mila Juristovski Bosnic Co-founder of Nala Care (clean skincare brand). Biotech engineer with MBA in Management of Technology from SFU. Professional Information - Organization:...",
+      "summary": "Mila Juristovski Bosnic is COO and co-founder of Nala Care, a clean skincare brand, with a background as a biotech engineer and an MBA in Management of Technology from SFU. She is BC + AI Founding Member based in Vancouver.",
+      "excerpt": "Mila Juristovski Bosnic is COO and co-founder of Nala Care, a clean skincare brand, with a background as a biotech engineer and an MBA in Management of Technology from SFU. She...",
       "tags": [
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
+        "biotech",
+        "clean-beauty",
+        "entrepreneurship",
         "founding-member"
       ],
       "locations": [
         "Vancouver, British Columbia"
       ],
-      "organizations": [
-        "Nala Care"
-      ],
       "profileUrl": "/bc-ai-directory/people/mila-juristovski-bosnic",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:minoosh-v",
+      "type": "person",
+      "slug": "minoosh-v",
+      "name": "Minoosh V",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/minoosh-v",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:miranda",
+      "type": "person",
+      "slug": "miranda",
+      "name": "Miranda",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/miranda",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:miranda-alldritt",
@@ -10955,6 +11916,35 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:mirjana-prpa",
+      "type": "person",
+      "slug": "mirjana-prpa",
+      "name": "Mirjana Prpa",
+      "summary": "Mirjana Prpa is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Mirjana Prpa is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mirjana-prpa",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:misha",
+      "type": "person",
+      "slug": "misha",
+      "name": "Misha",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/misha",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:mishel-lablonde",
       "type": "person",
       "slug": "mishel-lablonde",
@@ -10969,6 +11959,51 @@
       ],
       "profileUrl": "/bc-ai-directory/people/mishel-lablonde",
       "lastUpdated": "2026-02-09"
+    },
+    {
+      "id": "person:mj",
+      "type": "person",
+      "slug": "mj",
+      "name": "MJ",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mj",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mo-dhaliwal",
+      "type": "person",
+      "slug": "mo-dhaliwal",
+      "name": "Mo Dhaliwal",
+      "summary": "Mo Dhaliwal is an AI Upgrade Cohort 7 student focused on social impact and event gamification. His capstone project was a Physical Activity Reward System for Kids, using AI wireframing tools and business modeling to validate the concept.",
+      "excerpt": "Mo Dhaliwal is an AI Upgrade Cohort 7 student focused on social impact and event gamification. His capstone project was a Physical Activity Reward System for Kids, using AI wire...",
+      "tags": [
+        "ai-upgrade-cohort-7",
+        "bc-ai-community",
+        "gamification",
+        "social-impact"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mo-dhaliwal",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mobina",
+      "type": "person",
+      "slug": "mobina",
+      "name": "Mobina",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mobina",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:moe-mohammadi",
@@ -10995,6 +12030,32 @@
       "lastUpdated": "2025-10-15"
     },
     {
+      "id": "person:mohammad-ashkani",
+      "type": "person",
+      "slug": "mohammad-ashkani",
+      "name": "Mohammad Ashkani",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mohammad-ashkani",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:mohammed-kaz",
+      "type": "person",
+      "slug": "mohammed-kaz",
+      "name": "Mohammed Kaz",
+      "summary": "Mohammed Kaz is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Mohammed Kaz is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mohammed-kaz",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:mohan-golati",
       "type": "person",
       "slug": "mohan-golati",
@@ -11011,6 +12072,19 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:mohit-bajaj",
+      "type": "person",
+      "slug": "mohit-bajaj",
+      "name": "Mohit Bajaj",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mohit-bajaj",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:moinuddin-masud",
       "type": "person",
       "slug": "moinuddin-masud",
@@ -11025,6 +12099,32 @@
       ],
       "profileUrl": "/bc-ai-directory/people/moinuddin-masud",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:mokter",
+      "type": "person",
+      "slug": "mokter",
+      "name": "Mokter",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mokter",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:monica",
+      "type": "person",
+      "slug": "monica",
+      "name": "Monica",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/monica",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:monica-bernstein",
@@ -11051,6 +12151,19 @@
       ],
       "profileUrl": "/bc-ai-directory/people/monica-bernstein",
       "lastUpdated": "2026-01-09"
+    },
+    {
+      "id": "person:monika-marcovici",
+      "type": "person",
+      "slug": "monika-marcovici",
+      "name": "Monika Marcovici",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/monika-marcovici",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:monique-sherrett",
@@ -11121,6 +12234,19 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:murilo-farias",
+      "type": "person",
+      "slug": "murilo-farias",
+      "name": "Murilo Farias",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/murilo-farias",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:mychaylo-prystupa",
       "type": "person",
       "slug": "mychaylo-prystupa",
@@ -11135,6 +12261,32 @@
       ],
       "profileUrl": "/bc-ai-directory/people/mychaylo-prystupa",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:mykola-b",
+      "type": "person",
+      "slug": "mykola-b",
+      "name": "Mykola B",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/mykola-b",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:nagaraju",
+      "type": "person",
+      "slug": "nagaraju",
+      "name": "NagaRAJu",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nagaraju",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:nahirika",
@@ -11159,6 +12311,58 @@
       ],
       "profileUrl": "/bc-ai-directory/people/nahirika",
       "lastUpdated": "2026-01-09"
+    },
+    {
+      "id": "person:nahla-n",
+      "type": "person",
+      "slug": "nahla-n",
+      "name": "Nahla N",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nahla-n",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:naimish-solanki",
+      "type": "person",
+      "slug": "naimish-solanki",
+      "name": "Naimish Solanki",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/naimish-solanki",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:naman-bhargava",
+      "type": "person",
+      "slug": "naman-bhargava",
+      "name": "Naman Bhargava",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/naman-bhargava",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:nana-yaw",
+      "type": "person",
+      "slug": "nana-yaw",
+      "name": "Nana Yaw",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nana-yaw",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:nancy-cross-channel",
@@ -11193,27 +12397,52 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:nancy-chen",
+      "type": "person",
+      "slug": "nancy-chen",
+      "name": "Nancy Chen",
+      "summary": "Nancy Chen is a community member who participated in the BC + AI AI Animation and Filmmaking Accelerator (first cohort, 2026). She registered on the same day as the first session.",
+      "excerpt": "Nancy Chen is a community member who participated in the BC + AI AI Animation and Filmmaking Accelerator (first cohort, 2026). She registered on the same day as the first session.",
+      "tags": [
+        "ai-film-club",
+        "animation-accelerator",
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nancy-chen",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:nancy-spagnut",
       "type": "person",
       "slug": "nancy-spagnut",
       "name": "Nancy Spagnut",
-      "summary": "Nancy Spagnut BC + AI Founding Member 86. Professional Information - Location: Coquitlam, British Columbia BC + AI Founding Member - Member Number: 86 - Profile URL: https://bc-ai.ca/blog/bcaimember/nancy-spagnut/ - Joined: 2025-10-16",
-      "excerpt": "Nancy Spagnut BC + AI Founding Member 86. Professional Information - Location: Coquitlam, British Columbia BC + AI Founding Member - Member Number: 86 - Profile URL: https://bc-...",
+      "summary": "Nancy Spagnut is BC + AI Founding Member 86, based in Coquitlam, British Columbia. She joined the founding member cohort in October 2025.",
+      "excerpt": "Nancy Spagnut is BC + AI Founding Member 86, based in Coquitlam, British Columbia. She joined the founding member cohort in October 2025.",
       "tags": [
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
         "founding-member"
       ],
       "locations": [
         "Coquitlam, British Columbia"
       ],
-      "organizations": [
-        "BC + AI"
-      ],
       "profileUrl": "/bc-ai-directory/people/nancy-spagnut",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:natalie-beaulieu",
+      "type": "person",
+      "slug": "natalie-beaulieu",
+      "name": "Natalie Beaulieu",
+      "summary": "Natalie Beaulieu is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Natalie Beaulieu is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/natalie-beaulieu",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:nataliia-chetveryk",
@@ -11261,6 +12490,52 @@
       "lastUpdated": "2025-11-29"
     },
     {
+      "id": "person:natasha-gulati",
+      "type": "person",
+      "slug": "natasha-gulati",
+      "name": "Natasha Gulati",
+      "summary": "Natasha Gulati is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Natasha Gulati is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/natasha-gulati",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:nathalia-ai-vancouver",
+      "type": "person",
+      "slug": "nathalia-ai-vancouver",
+      "name": "Nathalia AI Vancouver",
+      "summary": "Community member in the BC + AI ecosystem known by the handle \"Nathalia AI Vancouver.\" An active early participant across multiple channels. Limited additional public profile information available.",
+      "excerpt": "Community member in the BC + AI ecosystem known by the handle \"Nathalia AI Vancouver.\" An active early participant across multiple channels. Limited additional public profile in...",
+      "tags": [
+        "ai",
+        "bc-ai-community"
+      ],
+      "locations": [
+        "Vancouver, British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nathalia-ai-vancouver",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:nathan",
+      "type": "person",
+      "slug": "nathan",
+      "name": "Nathan",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nathan",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:nathan-wawruck",
       "type": "person",
       "slug": "nathan-wawruck",
@@ -11277,6 +12552,32 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:natiea-vinson",
+      "type": "person",
+      "slug": "natiea-vinson",
+      "name": "Natiea Vinson",
+      "summary": "Natiea Vinson is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Natiea Vinson is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/natiea-vinson",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:natz-urena-mkreative",
+      "type": "person",
+      "slug": "natz-urena-mkreative",
+      "name": "Natz Urena - MKreative",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/natz-urena-mkreative",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:naveen",
       "type": "person",
       "slug": "naveen",
@@ -11287,28 +12588,101 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:navid",
+      "type": "person",
+      "slug": "navid",
+      "name": "Navid",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/navid",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:neal-cropper",
+      "type": "person",
+      "slug": "neal-cropper",
+      "name": "Neal Cropper",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/neal-cropper",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:neda",
+      "type": "person",
+      "slug": "neda",
+      "name": "Neda",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/neda",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:neeharika-gupta",
       "type": "person",
       "slug": "neeharika-gupta",
       "name": "Neeharika Gupta",
-      "summary": "Neeharika Gupta Neeharika Gupta, chief UX Architect and Distinguished Engineer, leads the Broadcom VMware division's User Experience group with an awesome bunch of designers and researchers spread globally. In addition, she spends time on social and civic projects that uses her expertise in UX to provide incredible solutions to help provide digital benefits, access and opportunities to everyone. With a focus on sy...",
-      "excerpt": "Neeharika Gupta Neeharika Gupta, chief UX Architect and Distinguished Engineer, leads the Broadcom VMware division's User Experience group with an awesome bunch of designers and...",
+      "summary": "Neeharika Gupta is a technology professional at Broadcom based in New Westminster, BC. She is BC + AI Founding Member and has been an active participant in the Vancouver AI Meetup community.",
+      "excerpt": "Neeharika Gupta is a technology professional at Broadcom based in New Westminster, BC. She is BC + AI Founding Member and has been an active participant in the Vancouver AI Meet...",
       "tags": [
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
-        "founding-member"
+        "broadcom",
+        "founding-member",
+        "software"
       ],
       "locations": [
-        "New Westminster, BC"
-      ],
-      "organizations": [
-        "Broadcom",
-        "Vancouver AI Meetup"
+        "New Westminster, British Columbia"
       ],
       "profileUrl": "/bc-ai-directory/people/neeharika-gupta",
-      "lastUpdated": "2026-02-01"
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:neekoe",
+      "type": "person",
+      "slug": "neekoe",
+      "name": "Neekoe",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/neekoe",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:neil",
+      "type": "person",
+      "slug": "neil",
+      "name": "Neil",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/neil",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:neil-j",
+      "type": "person",
+      "slug": "neil-j",
+      "name": "Neil J",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/neil-j",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:neils-josh-manufacturing-ai",
@@ -11327,6 +12701,19 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:nelson-phillips",
+      "type": "person",
+      "slug": "nelson-phillips",
+      "name": "Nelson Phillips",
+      "summary": "Nelson Phillips is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Nelson Phillips is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nelson-phillips",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:nemi-langley-statistics",
       "type": "person",
       "slug": "nemi-langley-statistics",
@@ -11341,6 +12728,19 @@
       ],
       "profileUrl": "/bc-ai-directory/people/nemi-langley-statistics",
       "lastUpdated": "2026-02-09"
+    },
+    {
+      "id": "person:nene",
+      "type": "person",
+      "slug": "nene",
+      "name": "Nene",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nene",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:nessa-palmer",
@@ -11372,23 +12772,20 @@
       "type": "person",
       "slug": "nethmi-de-silva",
       "name": "Nethmi De Silva",
-      "summary": "Nethmi De Silva I am a Data Analyst and AI Development professional based in British Columbia, Canada. With expertise in data science, machine learning, and advanced analytics, I specialize in transforming complex data into actionable insights and building intelligent, AI-driven solutions that support business growth and innovation. Professional Information - Title: Data Analyst - Location: Vancouver, British Colu...",
-      "excerpt": "Nethmi De Silva I am a Data Analyst and AI Development professional based in British Columbia, Canada. With expertise in data science, machine learning, and advanced analytics,...",
+      "summary": "Nethmi De Silva is a Data Analyst and AI Development professional based in Vancouver, BC, specializing in data science, machine learning, and advanced analytics. She is BC + AI Founding Member, joining October 2025.",
+      "excerpt": "Nethmi De Silva is a Data Analyst and AI Development professional based in Vancouver, BC, specializing in data science, machine learning, and advanced analytics. She is BC + AI...",
       "tags": [
+        "analytics",
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
-        "founding-member"
+        "data-science",
+        "founding-member",
+        "machine-learning"
       ],
       "locations": [
         "Vancouver, British Columbia"
       ],
-      "organizations": [
-        "BC + AI"
-      ],
       "profileUrl": "/bc-ai-directory/people/nethmi-de-silva",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:niamh-macginty",
@@ -11407,6 +12804,19 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:nichole-dement",
+      "type": "person",
+      "slug": "nichole-dement",
+      "name": "Nichole DeMent",
+      "summary": "Nichole DeMent is a community member connected to the BC + AI ecosystem with her own personal domain (nicholedement.com). Limited additional public profile information available in this context.",
+      "excerpt": "Nichole DeMent is a community member connected to the BC + AI ecosystem with her own personal domain (nicholedement.com). Limited additional public profile information available...",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nichole-dement",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:nick-naeem-noorani",
       "type": "person",
       "slug": "nick-naeem-noorani",
@@ -11421,6 +12831,19 @@
       ],
       "profileUrl": "/bc-ai-directory/people/nick-naeem-noorani",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:nick-you-know-which-one",
+      "type": "person",
+      "slug": "nick-you-know-which-one",
+      "name": "Nick (You Know Which One)",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nick-you-know-which-one",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:nick-arden",
@@ -11440,6 +12863,45 @@
       ],
       "profileUrl": "/bc-ai-directory/people/nick-arden",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:nick-findler",
+      "type": "person",
+      "slug": "nick-findler",
+      "name": "Nick Findler",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nick-findler",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:nick-kurochka",
+      "type": "person",
+      "slug": "nick-kurochka",
+      "name": "Nick Kurochka",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nick-kurochka",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:nick-richards",
+      "type": "person",
+      "slug": "nick-richards",
+      "name": "Nick Richards",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nick-richards",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:nicole-de",
@@ -11474,6 +12936,24 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:nicole-lissner",
+      "type": "person",
+      "slug": "nicole-lissner",
+      "name": "Nicole Lissner",
+      "summary": "Nicole Lissner is a community member who participated in the BC + AI AI Animation and Filmmaking Accelerator (first cohort, 2026), registering in March 2026.",
+      "excerpt": "Nicole Lissner is a community member who participated in the BC + AI AI Animation and Filmmaking Accelerator (first cohort, 2026), registering in March 2026.",
+      "tags": [
+        "ai-film-club",
+        "animation-accelerator",
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nicole-lissner",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:nicole-metcalf",
       "type": "person",
       "slug": "nicole-metcalf",
@@ -11493,6 +12973,45 @@
       "lastUpdated": "2026-02-20"
     },
     {
+      "id": "person:nicole-ziolo",
+      "type": "person",
+      "slug": "nicole-ziolo",
+      "name": "Nicole Ziolo",
+      "summary": "Nicole Ziolo is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Nicole Ziolo is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nicole-ziolo",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:niels",
+      "type": "person",
+      "slug": "niels",
+      "name": "Niels",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/niels",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:niels-de-vries",
+      "type": "person",
+      "slug": "niels-de-vries",
+      "name": "Niels de Vries",
+      "summary": "Niels de Vries is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Niels de Vries is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/niels-de-vries",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:nigel-reeves",
       "type": "person",
       "slug": "nigel-reeves",
@@ -11507,6 +13026,84 @@
       ],
       "profileUrl": "/bc-ai-directory/people/nigel-reeves",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:nik",
+      "type": "person",
+      "slug": "nik",
+      "name": "Nik",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nik",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:nikhil",
+      "type": "person",
+      "slug": "nikhil",
+      "name": "Nikhil",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nikhil",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:niki",
+      "type": "person",
+      "slug": "niki",
+      "name": "Niki",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/niki",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:niki-kearl",
+      "type": "person",
+      "slug": "niki-kearl",
+      "name": "Niki Kearl",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/niki-kearl",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:nikki",
+      "type": "person",
+      "slug": "nikki",
+      "name": "Nikki",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nikki",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:nipunika-jain",
+      "type": "person",
+      "slug": "nipunika-jain",
+      "name": "Nipunika Jain",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nipunika-jain",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:noah-brun-arturs",
@@ -11547,20 +13144,95 @@
       "lastUpdated": "2026-01-23"
     },
     {
+      "id": "person:nolan-watson",
+      "type": "person",
+      "slug": "nolan-watson",
+      "name": "Nolan Watson",
+      "summary": "Nolan Watson is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Nolan Watson is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nolan-watson",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:nusaybah-hasan",
+      "type": "person",
+      "slug": "nusaybah-hasan",
+      "name": "Nusaybah Hasan",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/nusaybah-hasan",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:nwanne-chidinma-daniel-onu",
       "type": "person",
       "slug": "nwanne-chidinma-daniel-onu",
-      "name": "Nwanne Chidinma Daniel-Onu",
-      "summary": "Nwanne Chidinma Daniel-Onu is a community member who attended Vancouver AI Community events.",
-      "excerpt": "Nwanne Chidinma Daniel-Onu is a community member who attended Vancouver AI Community events.",
-      "roles": [
-        "Community Member"
-      ],
-      "locations": [
-        "Vancouver, BC"
+      "name": "Nwanne Chidinma Daniel Onu",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
       ],
       "profileUrl": "/bc-ai-directory/people/nwanne-chidinma-daniel-onu",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:ofek",
+      "type": "person",
+      "slug": "ofek",
+      "name": "Ofek",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/ofek",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:okery",
+      "type": "person",
+      "slug": "okery",
+      "name": "Okery",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/okery",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:oliver-q-jackson",
+      "type": "person",
+      "slug": "oliver-q-jackson",
+      "name": "Oliver Q Jackson",
+      "summary": "Oliver Q Jackson is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Oliver Q Jackson is a community member connected to the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/oliver-q-jackson",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:olivier",
+      "type": "person",
+      "slug": "olivier",
+      "name": "Olivier",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/olivier",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:olivier-leroux",
@@ -11583,23 +13255,33 @@
       "type": "person",
       "slug": "ollie-ohagan",
       "name": "Ollie O'Hagan",
-      "summary": "Ollie O'Hagan BC + AI Founding Member 87. Professional Information - Location: Vancouver, British Columbia BC + AI Founding Member - Member Number: 87 - Profile URL: https://bc-ai.ca/blog/bcaimember/ollie-ohagan/ - Joined: 2025-10-16",
-      "excerpt": "Ollie O'Hagan BC + AI Founding Member 87. Professional Information - Location: Vancouver, British Columbia BC + AI Founding Member - Member Number: 87 - Profile URL: https://bc-...",
+      "summary": "Ollie O'Hagan is BC + AI Founding Member 87, based in Vancouver, British Columbia. He joined the founding member cohort in October 2025.",
+      "excerpt": "Ollie O'Hagan is BC + AI Founding Member 87, based in Vancouver, British Columbia. He joined the founding member cohort in October 2025.",
       "tags": [
         "bc-ai",
-        "founding-member"
-      ],
-      "roles": [
         "founding-member"
       ],
       "locations": [
         "Vancouver, British Columbia"
       ],
-      "organizations": [
-        "BC + AI"
-      ],
       "profileUrl": "/bc-ai-directory/people/ollie-ohagan",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:omar-rasheed",
+      "type": "person",
+      "slug": "omar-rasheed",
+      "name": "Omar Rasheed",
+      "summary": "Omar Rasheed is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "excerpt": "Omar Rasheed is a community member in the BC + AI ecosystem. Limited public profile information available.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "locations": [
+        "British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/omar-rasheed",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:orain-hollyhock",
@@ -11643,6 +13325,45 @@
       ],
       "profileUrl": "/bc-ai-directory/people/ove-holmqvist",
       "lastUpdated": "2026-02-18"
+    },
+    {
+      "id": "person:ove-homqvist",
+      "type": "person",
+      "slug": "ove-homqvist",
+      "name": "Ove Homqvist",
+      "summary": "Ove Homqvist is a community member connected to the BC + AI ecosystem. Limited public profile information available. Note: may be a variant spelling of \"Ove Holmqvist\" (ove-holmqvist profile also exists in directory).",
+      "excerpt": "Ove Homqvist is a community member connected to the BC + AI ecosystem. Limited public profile information available. Note: may be a variant spelling of \"Ove Holmqvist\" (ove-holm...",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/ove-homqvist",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:ovey-yeung",
+      "type": "person",
+      "slug": "ovey-yeung",
+      "name": "Ovey Yeung",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/ovey-yeung",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:ozge",
+      "type": "person",
+      "slug": "ozge",
+      "name": "Ozge",
+      "summary": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "excerpt": "Community member in the BC + AI ecosystem. Limited public information available under this name alone.",
+      "tags": [
+        "bc-ai-community"
+      ],
+      "profileUrl": "/bc-ai-directory/people/ozge",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:parisa-nouri",
