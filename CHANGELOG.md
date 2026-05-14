@@ -1,5 +1,17 @@
 # Changelog
 
+## v1.2.0 — May 14, 2026
+
+Data enrichment pass: category normalization, website backfill, location inference, people-org linking.
+
+- **963 organizations** exported (unchanged)
+- **695 people** exported (was 566; additional active community members included)
+- Categories collapsed from 560 unique values → 27 canonical categories (AI/ML, Health Tech, Climate Tech, Enterprise SaaS, Creative Tech, Robotics & Automation, etc.)
+- 134 organization website URLs backfilled from validation source notes
+- 79 organization locations inferred from profile summary text
+- 146 people profiles linked to their affiliated organizations
+- Category normalization applied across 919 org profiles
+
 ## v1.1.0 — May 14, 2026
 
 Quality audit pass: automated false-positive sweep removed 67 incorrect "validated" profiles.
