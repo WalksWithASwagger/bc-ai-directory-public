@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.0.2 — May 13, 2026
+
+Validation swarm pass: 8 parallel agent batches processed 192 candidates from the remaining queue.
+
+- **1026 organizations** exported (was 845; +181 newly validated)
+- **569 people** exported (was 544; +25 additional profiles completed)
+- Validated organizations across AI consulting, university research labs, government digital services, agritech, health tech, robotics, and SaaS
+- Rejected candidates for: non-BC HQ, no AI relevance, defunct operations, unverifiable BC presence
+
 ## v1.0.1 — May 13, 2026
 
 Quality audit pass: removed 21 false-positive "validated" profiles.
