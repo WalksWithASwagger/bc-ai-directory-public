@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.4.0 — May 14, 2026
+
+People enrichment pass: J–K range profiles (batches 05–07), Web Summit day-3 recap.
+
+- **963 organizations** exported (unchanged)
+- **835 people** exported (was 822; +13 from batches 05–07 promotions)
+- Batch-05: Jordan Kallman, Jordan Taylor, Jos Duncan Asé, Joseph Kibur, Joseph McCaig, Joseph Pallant, Josh Arlitt promoted
+- Batch-06: Josh Loh, Joshua Gardner, Joshua Michie, Julia Morton, Julian Lee (×2), Juliana enriched
+- Batch-07: Kris Krüg (BC + AI founder/ED), Kate Armstrong, Lawrence Okolo promoted; Kevin Friel profile rewritten
+- Web Summit Vancouver 2026 Day 3 recap added to project docs
+
 ## v1.3.0 — May 14, 2026
 
 People enrichment pass: public-source research on G–O range profiles, privacy cleanup, batch-04 promotions.

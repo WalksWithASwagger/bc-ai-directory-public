@@ -13,13 +13,13 @@
   },
   "counts": {
     "people": {
-      "total": 1454,
-      "exported": 823,
-      "withheld": 631,
+      "total": 1458,
+      "exported": 835,
+      "withheld": 623,
       "withheldReasons": {
-        "nonPublic": 534,
+        "nonPublic": 525,
         "incomplete": 62,
-        "unsafe": 35
+        "unsafe": 36
       }
     },
     "organizations": {
@@ -33,9 +33,9 @@
       }
     },
     "records": {
-      "total": 2633,
-      "exported": 1786,
-      "withheld": 847
+      "total": 2637,
+      "exported": 1798,
+      "withheld": 839
     }
   },
   "people": [
@@ -1358,6 +1358,33 @@
       ],
       "profileUrl": "/bc-ai-directory/people/bernard-esquivel",
       "lastUpdated": "2025-11-30"
+    },
+    {
+      "id": "person:bethany-edmonds",
+      "type": "person",
+      "slug": "bethany-edmonds",
+      "name": "Bethany Edmonds",
+      "summary": "Chair of the Board of Directors of AInBC, BC's incumbent provincial AI industry / ecosystem body. The most senior relationship at AInBC for Kris Krüg and BC + AI Ecosystem, and the personal bridge across what KK has described as a \"two-and-a-half-year Cold War\" between the two organizations. On 2026-05-13 at Web Summit Vancouver, Edmonds came to KK on the trade show floor and informed him of two opening seats on t...",
+      "excerpt": "Chair of the Board of Directors of AInBC, BC's incumbent provincial AI industry / ecosystem body. The most senior relationship at AInBC for Kris Krüg and BC + AI Ecosystem, and...",
+      "tags": [
+        "ainbc",
+        "bc-ai-ecosystem-leader",
+        "bcai-relationship",
+        "board-chair",
+        "thaw-2026"
+      ],
+      "roles": [
+        "Chair, Board of Directors, AInBC"
+      ],
+      "locations": [
+        "Vancouver, BC"
+      ],
+      "organizations": [
+        "AInBC",
+        "InnovateBC (historical / related)"
+      ],
+      "profileUrl": "/bc-ai-directory/people/bethany-edmonds",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:bigcoastbrands",
@@ -2703,6 +2730,36 @@
       ],
       "profileUrl": "/bc-ai-directory/people/david-cox",
       "lastUpdated": "2026-02-17"
+    },
+    {
+      "id": "person:david-eby",
+      "type": "person",
+      "slug": "david-eby",
+      "name": "David Eby",
+      "summary": "Premier of British Columbia (BC NDP) and a long-running historical contact in Kris Krüg's network from the lead-up to the Vancouver 2010 Olympics, when Eby was a legal observer and later Attorney General. The two were, in KK's words, \"brothers in arms together back in the day\" — frequently in the same protest spaces. The relationship went latent during KK's years on Galiano Island and Eby's rise through the BC NDP...",
+      "excerpt": "Premier of British Columbia (BC NDP) and a long-running historical contact in Kris Krüg's network from the lead-up to the Vancouver 2010 Olympics, when Eby was a legal observer...",
+      "tags": [
+        "ai-policy",
+        "bc-government",
+        "data-centers",
+        "historical-relationship",
+        "politician",
+        "premier"
+      ],
+      "roles": [
+        "Leader, BC NDP",
+        "Premier of British Columbia"
+      ],
+      "locations": [
+        "Vancouver, BC",
+        "Victoria, BC"
+      ],
+      "organizations": [
+        "BC NDP",
+        "Government of British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/david-eby",
+      "lastUpdated": "2026-05-13"
     },
     {
       "id": "person:david-gratton",
@@ -5352,6 +5409,37 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/holly-geant",
+      "lastUpdated": "2026-05-13"
+    },
+    {
+      "id": "person:brenda-bailey",
+      "type": "person",
+      "slug": "brenda-bailey",
+      "name": "Hon. Brenda Bailey",
+      "summary": "Minister of Finance for British Columbia and the most active provincial-government ally to BC + AI Ecosystem. Comes from a tech / video-games industry background, has a longstanding interest in the ethics and creative practice side of AI in addition to the enterprise dialogue, and has tracked KK's work — including his Space Center engagement and writing — across multiple touchpoints. On 2026-05-13 at the Web Summi...",
+      "excerpt": "Minister of Finance for British Columbia and the most active provincial-government ally to BC + AI Ecosystem. Comes from a tech / video-games industry background, has a longstan...",
+      "tags": [
+        "ai-policy",
+        "ally",
+        "bc-government",
+        "bcai-endorser",
+        "finance-minister",
+        "politician",
+        "women-in-tech-background"
+      ],
+      "roles": [
+        "Minister of Finance, Government of British Columbia",
+        "MLA, Vancouver–False Creek"
+      ],
+      "locations": [
+        "Vancouver, BC",
+        "Victoria, BC"
+      ],
+      "organizations": [
+        "BC NDP",
+        "Government of British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/brenda-bailey",
       "lastUpdated": "2026-05-13"
     },
     {
@@ -10106,6 +10194,10 @@
       ],
       "locations": [
         "Vancouver, BC"
+      ],
+      "organizations": [
+        "BC + AI Ecosystem",
+        "VASI"
       ],
       "profileUrl": "/bc-ai-directory/people/lawrence-okolo",
       "lastUpdated": "2026-04-02"
@@ -15036,6 +15128,32 @@
       "lastUpdated": "2026-02-15"
     },
     {
+      "id": "person:spiros-lenis",
+      "type": "person",
+      "slug": "spiros-lenis",
+      "name": "Spiros Lenis",
+      "summary": "Holds the AI / Advanced Technology portfolio inside WorkSafe BC's intelligence and outreach function — generating intelligence reports for the regulator's field services on the AI landscape and emerging risks. Met KK on the BC Pavilion trade show floor at Web Summit Vancouver on 2026-05-13. Currently recovering from a concussion. High-quality enterprise / regulator relationship; strong prospect for the BCAI Respon...",
+      "excerpt": "Holds the AI / Advanced Technology portfolio inside WorkSafe BC's intelligence and outreach function — generating intelligence reports for the regulator's field services on the...",
+      "tags": [
+        "ai-risk",
+        "cert-prospect",
+        "met-at-web-summit-2026",
+        "regulator",
+        "worksafe-bc"
+      ],
+      "roles": [
+        "AI & Advanced Technology Portfolio Lead — WorkSafe BC (intelligence / outreach role)"
+      ],
+      "locations": [
+        "Vancouver, BC"
+      ],
+      "organizations": [
+        "WorkSafe BC"
+      ],
+      "profileUrl": "/bc-ai-directory/people/spiros-lenis",
+      "lastUpdated": "2026-05-13"
+    },
+    {
       "id": "person:stanley-yuen",
       "type": "person",
       "slug": "stanley-yuen",
@@ -15651,6 +15769,87 @@
       "lastUpdated": "2026-02-15"
     },
     {
+      "id": "person:umer-khalid",
+      "type": "person",
+      "slug": "umer-khalid",
+      "name": "Umer Khalid",
+      "summary": "Umer Khalid is a BC + AI community member. Limited public information is available for this profile.",
+      "excerpt": "Umer Khalid is a BC + AI community member. Limited public information is available for this profile.",
+      "tags": [
+        "bc-ai"
+      ],
+      "profileUrl": "/bc-ai-directory/people/umer-khalid",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:un-tal-gomez",
+      "type": "person",
+      "slug": "un-tal-gomez",
+      "name": "Un Tal Gomez",
+      "summary": "Un Tal Gomez is a BC + AI community member. Limited public information is available for this profile.",
+      "excerpt": "Un Tal Gomez is a BC + AI community member. Limited public information is available for this profile.",
+      "tags": [
+        "bc-ai"
+      ],
+      "profileUrl": "/bc-ai-directory/people/un-tal-gomez",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:usman",
+      "type": "person",
+      "slug": "usman",
+      "name": "Usman",
+      "summary": "Usman is a BC + AI community member. Limited public information is available for this profile.",
+      "excerpt": "Usman is a BC + AI community member. Limited public information is available for this profile.",
+      "tags": [
+        "bc-ai"
+      ],
+      "profileUrl": "/bc-ai-directory/people/usman",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:uttsav-jain",
+      "type": "person",
+      "slug": "uttsav-jain",
+      "name": "Uttsav Jain",
+      "summary": "Uttsav Jain is a BC + AI community member with interests spanning film and AI. Limited public information is available for this profile.",
+      "excerpt": "Uttsav Jain is a BC + AI community member with interests spanning film and AI. Limited public information is available for this profile.",
+      "tags": [
+        "bc-ai",
+        "bc-ai-film-club",
+        "mind-ai"
+      ],
+      "profileUrl": "/bc-ai-directory/people/uttsav-jain",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:vaishnavi",
+      "type": "person",
+      "slug": "vaishnavi",
+      "name": "Vaishnavi",
+      "summary": "Vaishnavi is a BC + AI community member. Limited public information is available for this profile.",
+      "excerpt": "Vaishnavi is a BC + AI community member. Limited public information is available for this profile.",
+      "tags": [
+        "bc-ai",
+        "braintrust"
+      ],
+      "profileUrl": "/bc-ai-directory/people/vaishnavi",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:valerie-koroliuk",
+      "type": "person",
+      "slug": "valerie-koroliuk",
+      "name": "Valerie Koroliuk",
+      "summary": "Valerie Koroliuk is a BC + AI community member. Limited public information is available for this profile.",
+      "excerpt": "Valerie Koroliuk is a BC + AI community member. Limited public information is available for this profile.",
+      "tags": [
+        "bc-ai"
+      ],
+      "profileUrl": "/bc-ai-directory/people/valerie-koroliuk",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:vanessa-sanchez",
       "type": "person",
       "slug": "vanessa-sanchez",
@@ -15696,17 +15895,50 @@
       "lastUpdated": "2026-02-22"
     },
     {
+      "id": "person:vic",
+      "type": "person",
+      "slug": "vic",
+      "name": "Vic",
+      "summary": "Vic is a BC + AI community member. Limited public information is available for this profile.",
+      "excerpt": "Vic is a BC + AI community member. Limited public information is available for this profile.",
+      "tags": [
+        "bc-ai"
+      ],
+      "profileUrl": "/bc-ai-directory/people/vic",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:vicki-moraweitz",
       "type": "person",
       "slug": "vicki-moraweitz",
       "name": "Vicki Moraweitz",
-      "summary": "Vicki Moraweitz is a coaching client participating in TheUpgrade.ai training programs. They have completed 2 coaching sessions with Kris Krüg.",
-      "excerpt": "Vicki Moraweitz is a coaching client participating in TheUpgrade.ai training programs. They have completed 2 coaching sessions with Kris Krüg.",
+      "summary": "Vicki Moraweitz is a participant in BC + AI professional development programs. Limited additional public information is available for this profile.",
+      "excerpt": "Vicki Moraweitz is a participant in BC + AI professional development programs. Limited additional public information is available for this profile.",
+      "tags": [
+        "bc-ai",
+        "theupgrade"
+      ],
       "roles": [
         "Coaching Client"
       ],
       "profileUrl": "/bc-ai-directory/people/vicki-moraweitz",
-      "lastUpdated": "2025-11-29"
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:vicki-morawietz",
+      "type": "person",
+      "slug": "vicki-morawietz",
+      "name": "Vicki Morawietz",
+      "summary": "Vicki Morawietz is a BC + AI community member associated with VAM Design. Limited public information is available for this profile.",
+      "excerpt": "Vicki Morawietz is a BC + AI community member associated with VAM Design. Limited public information is available for this profile.",
+      "tags": [
+        "bc-ai"
+      ],
+      "organizations": [
+        "VAM Design"
+      ],
+      "profileUrl": "/bc-ai-directory/people/vicki-morawietz",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:victor-lagunes",
