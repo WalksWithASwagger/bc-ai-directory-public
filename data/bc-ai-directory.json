@@ -14,10 +14,10 @@
   "counts": {
     "people": {
       "total": 1458,
-      "exported": 835,
-      "withheld": 623,
+      "exported": 833,
+      "withheld": 625,
       "withheldReasons": {
-        "nonPublic": 525,
+        "nonPublic": 527,
         "incomplete": 62,
         "unsafe": 36
       }
@@ -34,8 +34,8 @@
     },
     "records": {
       "total": 2637,
-      "exported": 1798,
-      "withheld": 839
+      "exported": 1796,
+      "withheld": 841
     }
   },
   "people": [
@@ -13870,21 +13870,25 @@
       "summary": "Pradeepa Dhanasekar I lead cross-functional teams to deliver AI-powered software solutions for global clients. My background spans engineering leadership and data engineering, and I am a builder at heart. I have helped drive large-scale transformations, standardize engineering practices and create new service offerings in applied AI. I care deeply about bridging technology with business impact and building diverse...",
       "excerpt": "Pradeepa Dhanasekar I lead cross-functional teams to deliver AI-powered software solutions for global clients. My background spans engineering leadership and data engineering, a...",
       "tags": [
+        "applied-ai",
         "bc-ai",
+        "engineering-leadership",
         "founding-member"
       ],
       "roles": [
-        "founding-member"
+        "BC + AI Founding Member",
+        "Director of Engineering",
+        "Engineering Leader"
       ],
       "locations": [
-        "Burnaby, British Columbia"
+        "Burnaby, BC"
       ],
       "organizations": [
-        "BC + AI",
-        "http://Able.co"
+        "Able",
+        "BC + AI Ecosystem"
       ],
       "profileUrl": "/bc-ai-directory/people/pradeepa-dhanasekar",
-      "lastUpdated": "2026-01-01"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:prajwal-prasanth",
@@ -13989,7 +13993,7 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/rabab-altarazi",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:rachel-grillot",
@@ -14005,7 +14009,7 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/rachel-grillot",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:rachel-horst",
@@ -14078,7 +14082,7 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/raphael-yeung",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:reza-gholizadeh",
@@ -14094,7 +14098,7 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/reza-gholizadeh",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:ria-voulakis",
@@ -14174,7 +14178,7 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/rick-bellairs",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:rnold-smith",
@@ -14266,7 +14270,7 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/robert-delamar",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:robin-de-zwart",
@@ -14282,7 +14286,7 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/robin-de-zwart",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:robin-puga",
@@ -14343,7 +14347,7 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/rodger-levesque",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:ron-thaler",
@@ -14459,7 +14463,7 @@
         "Vancouver AI Meetup"
       ],
       "profileUrl": "/bc-ai-directory/people/rotem-regev",
-      "lastUpdated": "2026-01-30"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:ryan-mao",
@@ -14475,7 +14479,7 @@
         "Vancouver, BC"
       ],
       "profileUrl": "/bc-ai-directory/people/ryan-mao",
-      "lastUpdated": "2025-11-30"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:ryan-valiquette-surrey-ai",
@@ -15186,6 +15190,36 @@
       "lastUpdated": "2025-11-30"
     },
     {
+      "id": "person:stephen-makonin",
+      "type": "person",
+      "slug": "stephen-makonin",
+      "name": "Stephen Makonin",
+      "summary": "Stephen Makonin is an Adjunct Professor in Engineering Science at Simon Fraser University (SFU), where he is also Principal Investigator of the Computational Sustainability Lab and Head Instructor of the Big Data Hub. He holds a PhD in computing science from SFU (2014) and has secured over $2 million in research grants. His primary research focus is non-intrusive load monitoring (NILM), a form of AI-driven energy...",
+      "excerpt": "Stephen Makonin is an Adjunct Professor in Engineering Science at Simon Fraser University (SFU), where he is also Principal Investigator of the Computational Sustainability Lab...",
+      "tags": [
+        "academia",
+        "ai",
+        "data-science",
+        "energy",
+        "machine-learning",
+        "research",
+        "sustainability"
+      ],
+      "roles": [
+        "Adjunct Professor",
+        "Head Instructor",
+        "Principal Investigator"
+      ],
+      "locations": [
+        "Burnaby, British Columbia"
+      ],
+      "organizations": [
+        "Simon Fraser University"
+      ],
+      "profileUrl": "/bc-ai-directory/people/stephen-makonin",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:steven-agent-h",
       "type": "person",
       "slug": "steven-agent-h",
@@ -15361,6 +15395,37 @@
       "lastUpdated": "2026-02-09"
     },
     {
+      "id": "person:talesh-seeparsan",
+      "type": "person",
+      "slug": "talesh-seeparsan",
+      "name": "Talesh Seeparsan",
+      "summary": "Talesh Seeparsan is a Vancouver-based AI architecture consultant and cybersecurity expert focused on safe and trustworthy generative AI applications. He is the founder and CEO of Bit79, a strategic ecommerce and security consulting firm, and is a core team member of the OWASP Top Ten for LLMs and GenAI project — one of the primary global standards for AI application security. With over a decade of cybersecurity ex...",
+      "excerpt": "Talesh Seeparsan is a Vancouver-based AI architecture consultant and cybersecurity expert focused on safe and trustworthy generative AI applications. He is the founder and CEO o...",
+      "tags": [
+        "ai",
+        "ai-security",
+        "cybersecurity",
+        "ecommerce",
+        "generative-ai",
+        "llm",
+        "owasp"
+      ],
+      "roles": [
+        "AI Architecture Consultant",
+        "Cybersecurity Expert",
+        "Founder"
+      ],
+      "locations": [
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "Bit79",
+        "OWASP"
+      ],
+      "profileUrl": "/bc-ai-directory/people/talesh-seeparsan",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:tanya-ostrogorsky",
       "type": "person",
       "slug": "tanya-ostrogorsky",
@@ -15435,6 +15500,57 @@
       ],
       "profileUrl": "/bc-ai-directory/people/tanya-slingsby",
       "lastUpdated": "2026-02-11"
+    },
+    {
+      "id": "person:tara-toufighi",
+      "type": "person",
+      "slug": "tara-toufighi",
+      "name": "Tara Toufighi",
+      "summary": "Tara Toufighi is a Vancouver-based AI/ML engineer and researcher with over 6 years of experience building production-ready AI systems. She recently joined Synaps as Head of AI after completing doctoral research in SFU's School of Computing Science, where she was a member of the Multi-Agent Robotic Systems (MARS) Lab under Prof. Mo Chen. Her research focuses on safe robot navigation using Hamilton-Jacobi reachabili...",
+      "excerpt": "Tara Toufighi is a Vancouver-based AI/ML engineer and researcher with over 6 years of experience building production-ready AI systems. She recently joined Synaps as Head of AI a...",
+      "tags": [
+        "ai",
+        "computer-vision",
+        "deep-learning",
+        "machine-learning",
+        "research",
+        "robotics",
+        "self-supervised-learning"
+      ],
+      "roles": [
+        "AI/ML Software Engineer",
+        "Head of AI"
+      ],
+      "locations": [
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "Simon Fraser University",
+        "Synaps"
+      ],
+      "profileUrl": "/bc-ai-directory/people/tara-toufighi",
+      "lastUpdated": "2026-05-14"
+    },
+    {
+      "id": "person:taras-havrylyukh",
+      "type": "person",
+      "slug": "taras-havrylyukh",
+      "name": "Taras Havrylyukh",
+      "summary": "Taras Havrylyukh is a developer and active member of the BC + AI community who, with Andrii Kavetskyi, won the $2,500 grand prize at Vancouver AI Hackathon Round 4 (October 2025). Their winning project, Canadian Music DNA, was a fully deployed web application that turned raw survey data into a personality quiz, AI-powered matching system, and interactive analytics dashboard — built and shipped within the hackathon...",
+      "excerpt": "Taras Havrylyukh is a developer and active member of the BC + AI community who, with Andrii Kavetskyi, won the $2,500 grand prize at Vancouver AI Hackathon Round 4 (October 2025...",
+      "tags": [
+        "ai",
+        "data-visualization",
+        "development",
+        "hackathon",
+        "music-tech"
+      ],
+      "roles": [
+        "Developer",
+        "Hackathon Winner"
+      ],
+      "profileUrl": "/bc-ai-directory/people/taras-havrylyukh",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:tatyana-milanovic",
@@ -15621,6 +15737,32 @@
       "lastUpdated": "2025-11-29"
     },
     {
+      "id": "person:tito-ferradans",
+      "type": "person",
+      "slug": "tito-ferradans",
+      "name": "Tito Ferradans",
+      "summary": "Tito Ferradans is a Vancouver-based filmmaker and cinematographer originally from Brazil, known internationally for his expertise in anamorphic lenses and budget filmmaking. He runs a popular YouTube channel on anamorphic lenses and teaches through MZed. Ferradans has integrated AI tools into his filmmaking workflow — including Google VEO 3 for video production and ChatGPT for script development — completing full...",
+      "excerpt": "Tito Ferradans is a Vancouver-based filmmaker and cinematographer originally from Brazil, known internationally for his expertise in anamorphic lenses and budget filmmaking. He...",
+      "tags": [
+        "ai",
+        "cinematography",
+        "content-creation",
+        "filmmaking",
+        "generative-ai",
+        "visual-effects"
+      ],
+      "roles": [
+        "Cinematographer",
+        "Educator",
+        "Filmmaker"
+      ],
+      "locations": [
+        "Vancouver, British Columbia"
+      ],
+      "profileUrl": "/bc-ai-directory/people/tito-ferradans",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:toki-doki-vancouver-tech-week",
       "type": "person",
       "slug": "toki-doki-vancouver-tech-week",
@@ -15667,6 +15809,36 @@
       ],
       "profileUrl": "/bc-ai-directory/people/topo",
       "lastUpdated": "2026-02-09"
+    },
+    {
+      "id": "person:tris-hussey",
+      "type": "person",
+      "slug": "tris-hussey",
+      "name": "Tris Hussey",
+      "summary": "Tris Hussey is an AI enablement consultant based in Chilliwack, BC, operating as Peak Intelligence, focused on helping individuals and organizations adopt AI tools effectively. Canada's first professional blogger (blogging since 2004), Tris wrote multiple best-selling books on WordPress and social media before pivoting to AI consulting. He teaches social media, blogging, podcasting, and WordPress at UBC, BCIT, and...",
+      "excerpt": "Tris Hussey is an AI enablement consultant based in Chilliwack, BC, operating as Peak Intelligence, focused on helping individuals and organizations adopt AI tools effectively....",
+      "tags": [
+        "ai",
+        "ai-adoption",
+        "blogging",
+        "consulting",
+        "content-marketing",
+        "education",
+        "wordpress"
+      ],
+      "roles": [
+        "AI Enablement Consultant",
+        "Author",
+        "Educator"
+      ],
+      "locations": [
+        "Chilliwack, British Columbia"
+      ],
+      "organizations": [
+        "Peak Intelligence"
+      ],
+      "profileUrl": "/bc-ai-directory/people/tris-hussey",
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:tyler-cantrell",
@@ -15769,87 +15941,6 @@
       "lastUpdated": "2026-02-15"
     },
     {
-      "id": "person:umer-khalid",
-      "type": "person",
-      "slug": "umer-khalid",
-      "name": "Umer Khalid",
-      "summary": "Umer Khalid is a BC + AI community member. Limited public information is available for this profile.",
-      "excerpt": "Umer Khalid is a BC + AI community member. Limited public information is available for this profile.",
-      "tags": [
-        "bc-ai"
-      ],
-      "profileUrl": "/bc-ai-directory/people/umer-khalid",
-      "lastUpdated": "2026-05-14"
-    },
-    {
-      "id": "person:un-tal-gomez",
-      "type": "person",
-      "slug": "un-tal-gomez",
-      "name": "Un Tal Gomez",
-      "summary": "Un Tal Gomez is a BC + AI community member. Limited public information is available for this profile.",
-      "excerpt": "Un Tal Gomez is a BC + AI community member. Limited public information is available for this profile.",
-      "tags": [
-        "bc-ai"
-      ],
-      "profileUrl": "/bc-ai-directory/people/un-tal-gomez",
-      "lastUpdated": "2026-05-14"
-    },
-    {
-      "id": "person:usman",
-      "type": "person",
-      "slug": "usman",
-      "name": "Usman",
-      "summary": "Usman is a BC + AI community member. Limited public information is available for this profile.",
-      "excerpt": "Usman is a BC + AI community member. Limited public information is available for this profile.",
-      "tags": [
-        "bc-ai"
-      ],
-      "profileUrl": "/bc-ai-directory/people/usman",
-      "lastUpdated": "2026-05-14"
-    },
-    {
-      "id": "person:uttsav-jain",
-      "type": "person",
-      "slug": "uttsav-jain",
-      "name": "Uttsav Jain",
-      "summary": "Uttsav Jain is a BC + AI community member with interests spanning film and AI. Limited public information is available for this profile.",
-      "excerpt": "Uttsav Jain is a BC + AI community member with interests spanning film and AI. Limited public information is available for this profile.",
-      "tags": [
-        "bc-ai",
-        "bc-ai-film-club",
-        "mind-ai"
-      ],
-      "profileUrl": "/bc-ai-directory/people/uttsav-jain",
-      "lastUpdated": "2026-05-14"
-    },
-    {
-      "id": "person:vaishnavi",
-      "type": "person",
-      "slug": "vaishnavi",
-      "name": "Vaishnavi",
-      "summary": "Vaishnavi is a BC + AI community member. Limited public information is available for this profile.",
-      "excerpt": "Vaishnavi is a BC + AI community member. Limited public information is available for this profile.",
-      "tags": [
-        "bc-ai",
-        "braintrust"
-      ],
-      "profileUrl": "/bc-ai-directory/people/vaishnavi",
-      "lastUpdated": "2026-05-14"
-    },
-    {
-      "id": "person:valerie-koroliuk",
-      "type": "person",
-      "slug": "valerie-koroliuk",
-      "name": "Valerie Koroliuk",
-      "summary": "Valerie Koroliuk is a BC + AI community member. Limited public information is available for this profile.",
-      "excerpt": "Valerie Koroliuk is a BC + AI community member. Limited public information is available for this profile.",
-      "tags": [
-        "bc-ai"
-      ],
-      "profileUrl": "/bc-ai-directory/people/valerie-koroliuk",
-      "lastUpdated": "2026-05-14"
-    },
-    {
       "id": "person:vanessa-sanchez",
       "type": "person",
       "slug": "vanessa-sanchez",
@@ -15895,50 +15986,17 @@
       "lastUpdated": "2026-02-22"
     },
     {
-      "id": "person:vic",
-      "type": "person",
-      "slug": "vic",
-      "name": "Vic",
-      "summary": "Vic is a BC + AI community member. Limited public information is available for this profile.",
-      "excerpt": "Vic is a BC + AI community member. Limited public information is available for this profile.",
-      "tags": [
-        "bc-ai"
-      ],
-      "profileUrl": "/bc-ai-directory/people/vic",
-      "lastUpdated": "2026-05-14"
-    },
-    {
       "id": "person:vicki-moraweitz",
       "type": "person",
       "slug": "vicki-moraweitz",
       "name": "Vicki Moraweitz",
-      "summary": "Vicki Moraweitz is a participant in BC + AI professional development programs. Limited additional public information is available for this profile.",
-      "excerpt": "Vicki Moraweitz is a participant in BC + AI professional development programs. Limited additional public information is available for this profile.",
-      "tags": [
-        "bc-ai",
-        "theupgrade"
-      ],
+      "summary": "Vicki Moraweitz is a coaching client participating in TheUpgrade.ai training programs. They have completed 2 coaching sessions with Kris Krüg.",
+      "excerpt": "Vicki Moraweitz is a coaching client participating in TheUpgrade.ai training programs. They have completed 2 coaching sessions with Kris Krüg.",
       "roles": [
         "Coaching Client"
       ],
       "profileUrl": "/bc-ai-directory/people/vicki-moraweitz",
-      "lastUpdated": "2026-05-14"
-    },
-    {
-      "id": "person:vicki-morawietz",
-      "type": "person",
-      "slug": "vicki-morawietz",
-      "name": "Vicki Morawietz",
-      "summary": "Vicki Morawietz is a BC + AI community member associated with VAM Design. Limited public information is available for this profile.",
-      "excerpt": "Vicki Morawietz is a BC + AI community member associated with VAM Design. Limited public information is available for this profile.",
-      "tags": [
-        "bc-ai"
-      ],
-      "organizations": [
-        "VAM Design"
-      ],
-      "profileUrl": "/bc-ai-directory/people/vicki-morawietz",
-      "lastUpdated": "2026-05-14"
+      "lastUpdated": "2025-11-29"
     },
     {
       "id": "person:victor-lagunes",

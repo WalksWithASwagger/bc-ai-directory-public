@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.5.0 — May 14, 2026
+
+People enrichment pass: R–T range profiles (batch-08), quality correction for 8 incorrectly included stubs.
+
+- **963 organizations** exported (unchanged)
+- **833 people** exported (was 835; +6 new validated, -8 stubs correctly removed)
+- Batch-08: Pradeepa Dhanasekar (Able, Burnaby), Stephen Makonin (SFU Adjunct Prof, Computational Sustainability Lab), Tito Ferradans (Vancouver filmmaker/AI tools), Tris Hussey (Chilliwack AI consultant, Peak Intelligence), Talesh Seeparsan (Bit79, OWASP LLM Security) promoted
+- Quality fix: 8 stub profiles (U–V range) removed from export that were incorrectly included in v1.4.0 due to uncontrolled agent run
+
 ## v1.4.0 — May 14, 2026
 
 People enrichment pass: J–K range profiles (batches 05–07), Web Summit day-3 recap.

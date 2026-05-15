@@ -1,6 +1,6 @@
 # BC AI Directory — Public Dataset
 
-**963 organizations. 835 people. Every one verified.**
+**963 organizations. 833 people. Every one verified.**
 
 This is the public, open-licensed dataset behind the [BC + AI Ecosystem Association](https://bc-ai.ca) directory. It is released under CC BY 4.0 so that researchers, journalists, developers, and community organizations can build on it freely — with attribution.
 
@@ -19,10 +19,10 @@ This is the public, open-licensed dataset behind the [BC + AI Ecosystem Associat
 
 ---
 
-## Quick stats (v1.4.0, May 2026)
+## Quick stats (v1.5.0, May 2026)
 
 - **963 organizations** across BC — Vancouver, Victoria, Kelowna, Prince George, and beyond
-- **835 people** — founders, researchers, operators, policymakers
+- **833 people** — founders, researchers, operators, policymakers
 - Categories: AI/ML development, health tech, climate tech, agritech, creative tech, government/policy, research and academia, Indigenous technology
 - Each organization validated against: BC organizational presence, active operations, AI/technology relevance
 - Minimum 2 public sources per organization
