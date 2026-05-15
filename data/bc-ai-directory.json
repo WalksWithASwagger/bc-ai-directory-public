@@ -14,10 +14,10 @@
   "counts": {
     "people": {
       "total": 1454,
-      "exported": 822,
-      "withheld": 632,
+      "exported": 823,
+      "withheld": 631,
       "withheldReasons": {
-        "nonPublic": 535,
+        "nonPublic": 534,
         "incomplete": 62,
         "unsafe": 35
       }
@@ -34,8 +34,8 @@
     },
     "records": {
       "total": 2633,
-      "exported": 1785,
-      "withheld": 848
+      "exported": 1786,
+      "withheld": 847
     }
   },
   "people": [
@@ -7567,20 +7567,29 @@
       "type": "person",
       "slug": "jordan-kallman",
       "name": "Jordan Kallman",
-      "summary": "Jordan Kallman is a British Columbia-based community member of the BC + AI Ecosystem.",
-      "excerpt": "Jordan Kallman is a British Columbia-based community member of the BC + AI Ecosystem.",
+      "summary": "Jordan Kallman is a Vancouver-based entrepreneur and community builder best known as the founder of The Social Concierge, an event branding and marketing agency behind iconic Vancouver events including Dîner en Blanc, The Deighton Cup, and Harvest Haus. He is also a Founding Member of Opscotch, a Vancouver wellness and performance community that uses AI-enhanced knowledge sharing to connect members. Kallman receiv...",
+      "excerpt": "Jordan Kallman is a Vancouver-based entrepreneur and community builder best known as the founder of The Social Concierge, an event branding and marketing agency behind iconic Va...",
       "tags": [
         "ai",
-        "british-columbia"
+        "community-building",
+        "entrepreneurship",
+        "events",
+        "technology"
       ],
       "roles": [
-        "Community Member"
+        "Community Builder",
+        "Event Technologist",
+        "Founder"
       ],
       "locations": [
-        "British Columbia"
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "Opscotch",
+        "The Social Concierge"
       ],
       "profileUrl": "/bc-ai-directory/people/jordan-kallman",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:jordan-sparks",
@@ -7612,80 +7621,96 @@
       "type": "person",
       "slug": "jordan-taylor",
       "name": "Jordan Taylor",
-      "summary": "Jordan Taylor is a British Columbia-based designer and maker affiliated with Fab Station, engaged with the BC + AI Ecosystem community. Fab Station focuses on digital fabrication, design, and maker-space activities.",
-      "excerpt": "Jordan Taylor is a British Columbia-based designer and maker affiliated with Fab Station, engaged with the BC + AI Ecosystem community. Fab Station focuses on digital fabricatio...",
+      "summary": "Jordan Taylor is a British Columbia-based technology professional working with FabStation, an augmented reality software platform for the steel fabrication industry developed by Victoria-based Eterio Realities Inc. FabStation enables fabricators to project 3D BIM models onto the shop floor using AR, dramatically reducing errors and rework. The company has deployed internationally and won the BC Export Awards 2024...",
+      "excerpt": "Jordan Taylor is a British Columbia-based technology professional working with FabStation, an augmented reality software platform for the steel fabrication industry developed by...",
       "tags": [
         "ai",
-        "design",
+        "augmented-reality",
+        "construction-tech",
         "fabrication",
-        "maker"
+        "technology"
       ],
       "roles": [
-        "Community Member",
-        "Designer/Maker"
+        "AR Technology Specialist",
+        "Business Development / Marketing"
       ],
       "locations": [
         "British Columbia"
       ],
       "organizations": [
-        "Fab Station"
+        "Eterio Realities",
+        "FabStation"
       ],
       "profileUrl": "/bc-ai-directory/people/jordan-taylor",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:jos-duncan-ase",
       "type": "person",
       "slug": "jos-duncan-ase",
       "name": "Jos Duncan Asé",
-      "summary": "Jos Duncan is a British Columbia-based community member of the BC + AI Ecosystem.",
-      "excerpt": "Jos Duncan is a British Columbia-based community member of the BC + AI Ecosystem.",
+      "summary": "Jos Duncan Asé (also written Jos Duncan-Asé) is a Vancouver-based award-winning media executive, business strategist, and storytelling innovator with over 15 years of leadership. She is the Founder, Executive Producer, and Publisher of Love Now Media, an empathy-centered media company working at the intersection of social justice, wellness, and equity. She is a vocal advocate for ethical AI practices in media and...",
+      "excerpt": "Jos Duncan Asé (also written Jos Duncan-Asé) is a Vancouver-based award-winning media executive, business strategist, and storytelling innovator with over 15 years of leadership...",
       "tags": [
         "ai",
-        "british-columbia"
+        "community",
+        "ethical-ai",
+        "media",
+        "social-justice",
+        "storytelling"
       ],
       "roles": [
-        "Community Member"
+        "Founder and CEO",
+        "Media Executive",
+        "Storytelling Innovator"
       ],
       "locations": [
-        "British Columbia"
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "Love Now Media"
       ],
       "profileUrl": "/bc-ai-directory/people/jos-duncan-ase",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:joseph-kibur",
       "type": "person",
       "slug": "joseph-kibur",
       "name": "Joseph Kibur",
-      "summary": "Joseph Kibur is a British Columbia-based entrepreneur and BC + AI Ecosystem Founding Member, affiliated with Kibur, a technology venture.",
-      "excerpt": "Joseph Kibur is a British Columbia-based entrepreneur and BC + AI Ecosystem Founding Member, affiliated with Kibur, a technology venture.",
+      "summary": "Joseph Kibur is a Vancouver-based serial entrepreneur and doctoral researcher in Generative AI. He co-founded NetNation Communications in 1996 — which became one of Canada's largest web hosts and the first Ethiopian-Canadian company listed on NASDAQ, reaching a market value of over $350M CAD at the height of the tech boom. He is currently the founder of InstaBiz and lead researcher at Hasab AI, which was selected...",
+      "excerpt": "Joseph Kibur is a Vancouver-based serial entrepreneur and doctoral researcher in Generative AI. He co-founded NetNation Communications in 1996 — which became one of Canada's lar...",
       "tags": [
         "ai",
         "entrepreneurship",
         "founding-member",
+        "generative-ai",
+        "research",
         "technology"
       ],
       "roles": [
+        "Doctoral Researcher in Generative AI",
         "Entrepreneur",
-        "Founding Member"
+        "Founder"
       ],
       "locations": [
-        "British Columbia"
+        "Vancouver, British Columbia"
       ],
       "organizations": [
-        "Kibur"
+        "Hasab AI",
+        "InstaBiz",
+        "Yaya Labs"
       ],
       "profileUrl": "/bc-ai-directory/people/joseph-kibur",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:joseph-mccaig",
       "type": "person",
       "slug": "joseph-mccaig",
       "name": "Joseph McCaig",
-      "summary": "Retired RCAF Officer, BEng Civil Engineering, BSci Human Biology, two-thirds Doctor of Chiropractic, blockchain and AI futurist, systems thinker, poet, artist, PTSD/MDD survivor. I want to work with all peoples to create one human global community that operates on conscious growth, contribution, and love instead of fear &amp; anger, individualism, and profit extraction. We have the technology, the time is now, let...",
-      "excerpt": "Retired RCAF Officer, BEng Civil Engineering, BSci Human Biology, two-thirds Doctor of Chiropractic, blockchain and AI futurist, systems thinker, poet, artist, PTSD/MDD survivor...",
+      "summary": "Joseph McCaig is an Imaging and Data Management Research Technician at The HIVE @ UBC (the University of British Columbia's interdisciplinary hackspace for innovation and visualization) in Vancouver. He brings a unique interdisciplinary background as a retired RCAF officer with degrees in Civil Engineering and Human Biology, and partial training in chiropractic medicine. He identifies as a blockchain and AI futuri...",
+      "excerpt": "Joseph McCaig is an Imaging and Data Management Research Technician at The HIVE @ UBC (the University of British Columbia's interdisciplinary hackspace for innovation and visual...",
       "tags": [
         "ai",
         "blockchain",
@@ -7701,28 +7726,41 @@
       "locations": [
         "Vancouver, British Columbia"
       ],
+      "organizations": [
+        "The HIVE @ UBC"
+      ],
       "profileUrl": "/bc-ai-directory/people/joseph-mccaig",
-      "lastUpdated": "2025-09-26"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:joseph-pallant",
       "type": "person",
       "slug": "joseph-pallant",
       "name": "Joseph Pallant",
-      "summary": "Joseph Pallant is a British Columbia-based community member of the BC + AI Ecosystem.",
-      "excerpt": "Joseph Pallant is a British Columbia-based community member of the BC + AI Ecosystem.",
+      "summary": "Joseph Pallant is a Vancouver-based carbon markets executive and climate technology innovator. He is CEO of Great Bear Carbon, a 100% Indigenous-owned carbon credit corporation representing seven First Nations across British Columbia and managing over 3 million hectares of forested territory — one of the world's largest nature-based offset initiatives. He previously founded Blockchain for Climate Foundation, which...",
+      "excerpt": "Joseph Pallant is a Vancouver-based carbon markets executive and climate technology innovator. He is CEO of Great Bear Carbon, a 100% Indigenous-owned carbon credit corporation...",
       "tags": [
         "ai",
-        "british-columbia"
+        "blockchain",
+        "carbon-markets",
+        "climate-tech",
+        "indigenous-led",
+        "sustainability"
       ],
       "roles": [
-        "Community Member"
+        "Blockchain for Climate Advocate",
+        "Carbon Markets Executive",
+        "Chief Executive Officer"
       ],
       "locations": [
-        "British Columbia"
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "Blockchain for Climate Foundation",
+        "Great Bear Carbon"
       ],
       "profileUrl": "/bc-ai-directory/people/joseph-pallant",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:joseph-roberts",
@@ -7749,25 +7787,26 @@
       "type": "person",
       "slug": "josh-arlitt",
       "name": "Josh Arlitt",
-      "summary": "Josh Arlitt is a British Columbia-based entrepreneur affiliated with Spark Joy, engaged with the BC + AI Ecosystem community.",
-      "excerpt": "Josh Arlitt is a British Columbia-based entrepreneur affiliated with Spark Joy, engaged with the BC + AI Ecosystem community.",
+      "summary": "Josh Arlitt is a Vancouver-based web developer at Sparkjoy Studios, a Vancouver web design and development agency specializing in custom WordPress websites and digital experiences. Sparkjoy Studios has worked with the BC + AI Ecosystem as a client, building the BC+AI web presence, which directly connects Josh to the BC AI community.",
+      "excerpt": "Josh Arlitt is a Vancouver-based web developer at Sparkjoy Studios, a Vancouver web design and development agency specializing in custom WordPress websites and digital experienc...",
       "tags": [
         "ai",
-        "entrepreneurship",
-        "services"
+        "technology",
+        "web-development",
+        "wordpress"
       ],
       "roles": [
-        "Community Member",
-        "Entrepreneur"
+        "Developer",
+        "Web Developer"
       ],
       "locations": [
-        "British Columbia"
+        "Vancouver, British Columbia"
       ],
       "organizations": [
-        "Spark Joy"
+        "Sparkjoy Studios"
       ],
       "profileUrl": "/bc-ai-directory/people/josh-arlitt",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:josh-glasstetter",
@@ -7794,60 +7833,85 @@
       "type": "person",
       "slug": "josh-loh",
       "name": "Josh Loh",
-      "summary": "Josh Loh is a British Columbia-based community member of the BC + AI Ecosystem.",
-      "excerpt": "Josh Loh is a British Columbia-based community member of the BC + AI Ecosystem.",
+      "summary": "Josh Loh is a Vancouver-based product and web designer serving as Head of Community & Content at Relume, the world's largest library of Webflow components. A former Civil Engineer turned UX designer, he co-founded the Relume Design League and launched The Digital Third, a community initiative for designers. He won the Webflow Rising Star Community Award at WebflowConf 2022.",
+      "excerpt": "Josh Loh is a Vancouver-based product and web designer serving as Head of Community & Content at Relume, the world's largest library of Webflow components. A former Civil Engine...",
       "tags": [
         "ai",
-        "british-columbia"
+        "british-columbia",
+        "community",
+        "design",
+        "no-code",
+        "webflow"
       ],
       "roles": [
-        "Community Member"
+        "Designer",
+        "Head of Community & Content"
       ],
       "locations": [
-        "British Columbia"
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "Relume"
       ],
       "profileUrl": "/bc-ai-directory/people/josh-loh",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:joshua-gardner",
       "type": "person",
       "slug": "joshua-gardner",
       "name": "Joshua Gardner",
-      "summary": "Joshua Gardner is a British Columbia-based community member of the BC + AI Ecosystem.",
-      "excerpt": "Joshua Gardner is a British Columbia-based community member of the BC + AI Ecosystem.",
+      "summary": "Joshua Gardner is a Vancouver-based technology leader with a passion for \"better living through technology.\" He has served as Director of Information Technology at the BC General Employees' Union (BCGEU) and accepted a position as Principal Software Engineer at Novarc Technologies, a Vancouver-based robotics company specializing in collaborative robots for industrial applications.",
+      "excerpt": "Joshua Gardner is a Vancouver-based technology leader with a passion for \"better living through technology.\" He has served as Director of Information Technology at the BC Genera...",
       "tags": [
         "ai",
-        "british-columbia"
+        "british-columbia",
+        "robotics",
+        "software-engineering",
+        "technology-leadership"
       ],
       "roles": [
-        "Community Member"
+        "Director of Information Technology",
+        "Principal Software Engineer"
       ],
       "locations": [
-        "British Columbia"
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "BCGEU",
+        "Novarc Technologies"
       ],
       "profileUrl": "/bc-ai-directory/people/joshua-gardner",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:joshua-michie",
       "type": "person",
       "slug": "joshua-michie",
       "name": "Joshua Michie",
-      "summary": "Joshua Michie is a British Columbia-based community member of the BC + AI Ecosystem.",
-      "excerpt": "Joshua Michie is a British Columbia-based community member of the BC + AI Ecosystem.",
+      "summary": "Joshua Michie is a Vancouver-based Creative Director and Digital Artist at Array of Stars, specializing in immersive experiences, XR activations, and motion design. He leads multidisciplinary teams from concept through execution, translating emerging technologies into purposeful creative outcomes, with a foundation in CG animation, real-time workflows, and extended reality.",
+      "excerpt": "Joshua Michie is a Vancouver-based Creative Director and Digital Artist at Array of Stars, specializing in immersive experiences, XR activations, and motion design. He leads mul...",
       "tags": [
         "ai",
-        "british-columbia"
+        "british-columbia",
+        "creative-direction",
+        "digital-art",
+        "immersive-experiences",
+        "motion-design",
+        "xr"
       ],
       "roles": [
-        "Community Member"
+        "Creative Director",
+        "Digital Artist"
       ],
       "locations": [
-        "British Columbia"
+        "Vancouver, British Columbia"
+      ],
+      "organizations": [
+        "Array of Stars"
       ],
       "profileUrl": "/bc-ai-directory/people/joshua-michie",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:jp-holecka",
@@ -7986,17 +8050,17 @@
       "type": "person",
       "slug": "julia-morton",
       "name": "Julia Morton",
-      "summary": "Julia Morton is a Vancouver-based professional at Rival Technologies, the AI-powered conversational market research platform. She has participated in Vancouver AI community events, including judging the Vancouver AI Meetup 16 hackathon alongside colleague Dale.",
-      "excerpt": "Julia Morton is a Vancouver-based professional at Rival Technologies, the AI-powered conversational market research platform. She has participated in Vancouver AI community even...",
+      "summary": "Julia Morton is VP of Customer Success at Rival Technologies, Vancouver's AI-powered conversational market research platform. With nearly 15 years in market research, she built Rival's Customer Success team from the ground up after joining in 2017. She helps Fortune 500 insight leaders adopt conversational research technologies using voice, video, and chat.",
+      "excerpt": "Julia Morton is VP of Customer Success at Rival Technologies, Vancouver's AI-powered conversational market research platform. With nearly 15 years in market research, she built...",
       "tags": [
         "ai",
+        "customer-success",
         "market-research",
         "technology",
         "vancouver-tech"
       ],
       "roles": [
-        "Community Member",
-        "Market Research Professional"
+        "Vice President, Customer Success"
       ],
       "locations": [
         "Vancouver, British Columbia"
@@ -8005,7 +8069,7 @@
         "Rival Technologies"
       ],
       "profileUrl": "/bc-ai-directory/people/julia-morton",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:julia-s",
@@ -8028,24 +8092,62 @@
       "lastUpdated": "2026-05-13"
     },
     {
+      "id": "person:julian-lee",
+      "type": "person",
+      "slug": "julian-lee",
+      "name": "Julian Lee",
+      "summary": "Julian Lee is the President of TechnoPlanet and publisher of eChannelNEWS, a leading Canadian IT channel media property. For over 30 years, he has organized the ChannelNEXT conference series — regional events that focus on AI, cybersecurity, and digital transformation for IT channel partners across Canada. He is a prominent voice in the Canadian IT ecosystem on channel partner strategy and AI adoption.",
+      "excerpt": "Julian Lee is the President of TechnoPlanet and publisher of eChannelNEWS, a leading Canadian IT channel media property. For over 30 years, he has organized the ChannelNEXT conf...",
+      "tags": [
+        "ai",
+        "channel-ecosystem",
+        "conferences",
+        "cybersecurity",
+        "digital-transformation",
+        "media"
+      ],
+      "roles": [
+        "President",
+        "Publisher"
+      ],
+      "locations": [
+        "Toronto, Ontario"
+      ],
+      "organizations": [
+        "ChannelNEXT",
+        "eChannelNEWS",
+        "TechnoPlanet"
+      ],
+      "profileUrl": "/bc-ai-directory/people/julian-lee",
+      "lastUpdated": "2026-05-14"
+    },
+    {
       "id": "person:julian-lee-channel-next-central",
       "type": "person",
       "slug": "julian-lee-channel-next-central",
       "name": "Julian Lee: Channel Next Central",
-      "summary": "Julian Lee (Channel Next Central) is a British Columbia-based community member of the BC + AI Ecosystem.",
-      "excerpt": "Julian Lee (Channel Next Central) is a British Columbia-based community member of the BC + AI Ecosystem.",
+      "summary": "Julian Lee is the President of TechnoPlanet and publisher of eChannelNEWS, and organizer of the ChannelNEXT conference series across Canada, including ChannelNEXT Central (Ontario) and ChannelNEXT West (British Columbia). He has led TechnoPlanet for over 30 years, focusing on AI, cybersecurity, and digital transformation for IT channel partners.",
+      "excerpt": "Julian Lee is the President of TechnoPlanet and publisher of eChannelNEWS, and organizer of the ChannelNEXT conference series across Canada, including ChannelNEXT Central (Ontar...",
       "tags": [
         "ai",
-        "british-columbia"
+        "channel-ecosystem",
+        "cybersecurity",
+        "digital-transformation",
+        "media"
       ],
       "roles": [
-        "Community Member"
+        "President",
+        "Publisher"
       ],
       "locations": [
-        "British Columbia"
+        "Toronto, Ontario"
+      ],
+      "organizations": [
+        "ChannelNEXT",
+        "TechnoPlanet"
       ],
       "profileUrl": "/bc-ai-directory/people/julian-lee-channel-next-central",
-      "lastUpdated": "2026-05-13"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:juliana",
@@ -8063,7 +8165,7 @@
       ],
       "roles": [
         "Adult Learning Specialist",
-        "Education Technology"
+        "Curriculum Developer"
       ],
       "locations": [
         "Vancouver, British Columbia"
@@ -8072,7 +8174,7 @@
         "UBC (former)"
       ],
       "profileUrl": "/bc-ai-directory/people/juliana",
-      "lastUpdated": "2026-01-09"
+      "lastUpdated": "2026-05-14"
     },
     {
       "id": "person:julie",
