@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.6.0 — May 15, 2026
+
+People enrichment pass: comprehensive A–C range (batches 09–12), full audit pass on all previously-validated profiles, and privacy sweep.
+
+- **963 organizations** exported (unchanged)
+- **1,062 people** exported (was 833 in v1.5.0; +229 net new validated profiles)
+- Batches 09–11: P–W range — parisa-nouri, rocky-ozaki, ryv-valiquette, wanda-halpert, and 50+ others promoted
+- Batch 11f: michael-tippett (2x Emmy, NowPublic founder), lorraine-lowe (HR MacMillan Space Centre ED, Vancouver Magazine Power 50), lionel-ringenbach (Wattsup/SFU Metacreation Lab), matthew-schwartzman (Surrey AI co-organizer)
+- Batch 12: A–C range — alan-mackworth (UBC CS Professor Emeritus, global AI pioneer), anna-sainsbury (GeoComply CEO), boris-mann (FISSION co-founder), ameneh-madjd (D2Type Health co-founder), ahmad-jadallah (Creadev Technologies/Bionl.ai), ahmed-abuzuraiq (SFU Metacreation Lab PhD), anthonia-ogundele (Ethọ́s Lab founder, UBC Board of Governors), ashaya-sharma (Honeycomb AI co-founder), chris-neumann (Panache Ventures GP), christopher-krywulak (iQmetrix founder)
+- Audit pass: 619 previously-validated profiles confirmed and documented
+- Privacy sweep: emails removed from kassandra-linklater, matthew-schwartzman, matthew-ord, aliza-schwartzman, and others
+- False-positive sweep: 0 issues in validated profiles
+
 ## v1.5.0 — May 14, 2026
 
 People enrichment pass: R–T range profiles (batch-08), quality correction for 8 incorrectly included stubs.
